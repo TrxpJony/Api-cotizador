@@ -5,14 +5,14 @@
         "title": "Colosal PC 2.6",
         "tipo": "XO - OX",
         "categoria": "colosalpc26",
-        "img": "/img/colox.png"
+        "img": "https://api-cotizador.vercel.app/img/colox.png"
       },
       {
         "id": "cp2",
         "title": "Colosal PC 2.6",
         "tipo": "XX",
         "categoria": "colosalpc26",
-        "img": "/img/colxx.png"
+        "img": "https://api-cotizador.vercel.app/src/img/colxx.png"
       },
       {
         "id": "cp3",
