@@ -5,28 +5,28 @@
         "title": "Colosal PC 2.6",
         "tipo": "XO - OX",
         "categoria": "colosalpc26",
-        "img": "img/colox.png"
+        "img": "src/img/colox.png"
       },
       {
         "id": "cp2",
         "title": "Colosal PC 2.6",
         "tipo": "XX",
         "categoria": "colosalpc26",
-        "img": "img/colxx.png"
+        "img": "src/img/colxx.png"
       },
       {
         "id": "cp3",
         "title": "Colosal PC 2.6",
         "tipo": "XXX",
         "categoria": "colosalpc26",
-        "img": "img/colxxx.png"
+        "img": "src/img/colxxx.png"
       },
       {
         "id": "cp4",
         "title": "Colosal PC 2.6",
         "tipo": "OXXO",
         "categoria": "colosalpc26",
-        "img": "img/coloxxo.png"
+        "img": "src/img/coloxxo.png"
       },
   
       {
@@ -34,80 +34,80 @@
         "title":"Kimbaya",
         "tipo": "XO - OX",
         "categoria":"kimbaya",
-        "img":"img/kimxo.png"
+        "img":"src/img/kimxo.png"
       },
       {
         "id": "kim2",
         "title":"Kimbaya",
         "tipo":"XXX",
         "categoria":"kimbaya",
-        "img":"img/kimxxx.png"
+        "img":"src/img/kimxxx.png"
       },
       {
         "id": "s741",
         "title": "Sistema 744",
         "tipo": "XO - OX",
         "categoria": "sistema744",
-        "img": "img/colox.png"
+        "img": "src/img/colox.png"
       },
       {      
         "id": "s80251",
         "title": "Sistema 8025",
         "tipo": "XO - OX",
         "categoria": "sistema8025",
-        "img": "img/colox.png"
+        "img": "src/img/colox.png"
       },
       {
         "id": "a201",
         "title": "Astral 2.0",
         "tipo": "XO - OX",
         "categoria": "astral20",
-        "img": "img/colox.png"
+        "img": "src/img/colox.png"
       },
       {
         "id": "a202",
         "title": "Astral 2.0",
         "tipo": "XX",
         "categoria": "astral20",
-        "img": "img/colxx.png"
+        "img": "src/img/colxx.png"
       },
       {
         "id": "a171",
         "title": "Astral 1.7",
         "tipo": "XO - OX",
         "categoria": "astral17",
-        "img": "img/colox.png"
+        "img": "src/img/colox.png"
       },
       {
         "id": "c3451",
         "title": "Colosal 345",
         "tipo": "XO - OX",
         "categoria": "colosal345",
-        "img": "img/colosal3.png"
+        "img": "src/img/colosal3.png"
       },
       {
         "id": 5,
         "title":"Tairona",
         "categoria":"tairona",
-        "img":"img/tairona.png"
+        "img":"src/img/tairona.png"
       },
       {
         "id": 7,
         "title":"Zinu",
         "categoria":"Zinu",
-        "img":"img/zinu.png"
+        "img":"src/img/zinu.png"
       },
       {
         "id": 8,
         "title":"Awa",
         "categoria":"Awa",
-        "img":"img/awa.png"
+        "img":"src/img/awa.png"
       },
       {
         "id": 9,
         "title":"Sideral 2.4",
         "categoria":"sideral",
-        "img":"img/sideral2.png"
+        "img":"src/img/sideral2.png"
       }
       
         ],
