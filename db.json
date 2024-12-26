@@ -5,28 +5,28 @@
         "title": "Colosal PC 2.6",
         "tipo": "XO - OX",
         "categoria": "colosalpc26",
-        "img": "https://api-cotizador.vercel.app/img/colox.png"
+        "img": "https://Api-cotizador.vercel.app/img/colox.png"
       },
       {
         "id": "cp2",
         "title": "Colosal PC 2.6",
         "tipo": "XX",
         "categoria": "colosalpc26",
-        "img": "https://api-cotizador.vercel.app/src/img/colxx.png"
+        "img": "https://Api-cotizador.vercel.app/img/colxx.png"
       },
       {
         "id": "cp3",
         "title": "Colosal PC 2.6",
         "tipo": "XXX",
         "categoria": "colosalpc26",
-        "img": "/img/colxxx.png"
+        "img": "https://Api-cotizador.vercel.app/img/colxxx.png"
       },
       {
         "id": "cp4",
         "title": "Colosal PC 2.6",
         "tipo": "OXXO",
         "categoria": "colosalpc26",
-        "img": "/img/coloxxo.png"
+        "img": "https://Api-cotizador.vercel.app/img/coloxxo.png"
       },
   
       {
@@ -34,7 +34,7 @@
         "title":"Kimbaya",
         "tipo": "XO - OX",
         "categoria":"kimbaya",
-        "img":"/img/kimxo.png"
+        "img":"https://Api-cotizador.vercel.app/img/kimxo.png"
       },
       {
         "id": "kim2",
