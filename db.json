@@ -5,7 +5,7 @@
         "title": "Colosal PC 2.6",
         "tipo": "XO - OX",
         "categoria": "colosalpc26",
-        "img": "src/img/colox.png"
+        "img": "./src/img/colox.png"
       },
       {
         "id": "cp2",
