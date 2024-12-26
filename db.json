@@ -41,49 +41,49 @@
         "title":"Kimbaya",
         "tipo":"XXX",
         "categoria":"kimbaya",
-        "img":"/img/kimxxx.png"
+        "img":"https://Api-cotizador.vercel.app/img/kimxxx.png"
       },
       {
         "id": "s741",
         "title": "Sistema 744",
         "tipo": "XO - OX",
         "categoria": "sistema744",
-        "img": "/img/colox.png"
+        "img": "https://Api-cotizador.vercel.app/img/colox.png"
       },
       {      
         "id": "s80251",
         "title": "Sistema 8025",
         "tipo": "XO - OX",
         "categoria": "sistema8025",
-        "img": "/img/colox.png"
+        "img": "https://Api-cotizador.vercel.app/img/colox.png"
       },
       {
         "id": "a201",
         "title": "Astral 2.0",
         "tipo": "XO - OX",
         "categoria": "astral20",
-        "img": "/img/colox.png"
+        "img": "https://Api-cotizador.vercel.app/img/colox.png"
       },
       {
         "id": "a202",
         "title": "Astral 2.0",
         "tipo": "XX",
         "categoria": "astral20",
-        "img": "/img/colxx.png"
+        "img": "https://Api-cotizador.vercel.app/img/colxx.png"
       },
       {
         "id": "a171",
         "title": "Astral 1.7",
         "tipo": "XO - OX",
         "categoria": "astral17",
-        "img": "/img/colox.png"
+        "img": "https://Api-cotizador.vercel.app/img/colox.png"
       },
       {
         "id": "c3451",
         "title": "Colosal 345",
         "tipo": "XO - OX",
         "categoria": "colosal345",
-        "img": "/img/colosal3.png"
+        "img": "https://Api-cotizador.vercel.app/img/colosal3.png"
       },
       {
         "id": 5,
