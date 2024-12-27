@@ -1,7 +1,7 @@
 {
-  "name": "alurageek-api",
+  "name": "api-cotizador",
   "version": "1.0.0",
-  "description": "Products for Alura Geek fake store api",
+  "description": "productos de la empresa vidrio al arte",
   "main": "index.js",
   "scripts": {
     "start": "node api/server.js"
@@ -17,7 +17,7 @@
     "javascript",
     "API"
   ],
-  "author": "Sofidev, contact@itssofi.dev",
+  "author": "Jonathan, jodavelo3040@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/SofiDevO/alurageek-API/issues"
