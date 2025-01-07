@@ -158,7 +158,13 @@
       "id": "s3890",
       "title": "Sistema 3890",
       "img": "img/sistema3890.png" 
+    },
+    {
+      "id": "zin",
+      "title": "Sistema Zinu",
+      "img": "src/img/zinu.png" 
     }
+    
 
     
       
