@@ -107,23 +107,23 @@
         "img":"/img/zinuxo.png"
       },
       {
+        "id": "sid",
+        "title":"Sideral 2.4",
+        "tipo":"X Plus",
+        "categoria":"sideral",
+        "img":"/img/sideral.png"
+      },
+      {
         "id": 5,
         "title":"Tairona",
         "categoria":"tairona",
         "img":"src/img/tairona.png"
       },
-
       {
         "id": 8,
         "title":"Awa",
         "categoria":"Awa",
         "img":"src/img/awa.png"
-      },
-      {
-        "id": 9,
-        "title":"Sideral 2.4",
-        "categoria":"sideral",
-        "img":"src/img/sideral2.png"
       }
       
         ],
@@ -172,6 +172,11 @@
       "id": "zin",
       "title": "Sistema Zinu",
       "img": "img/zinu.png" 
+    },
+    {
+      "id": "sid1",
+      "title": "Sideral 2.4",
+      "img": "img/sideralx.png"
     }
     
 
