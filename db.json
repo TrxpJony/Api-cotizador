@@ -93,17 +93,19 @@
         "img": "/img/sistema3890.png"
       },
       {
+        "id": "zin1",
+        "title":"Zinu",
+        "tipo":"X",
+        "categoria":"zinu",
+        "img":"/img/zinu.png"
+      },
+      {
         "id": 5,
         "title":"Tairona",
         "categoria":"tairona",
         "img":"src/img/tairona.png"
       },
-      {
-        "id": 7,
-        "title":"Zinu",
-        "categoria":"Zinu",
-        "img":"src/img/zinu.png"
-      },
+
       {
         "id": 8,
         "title":"Awa",
