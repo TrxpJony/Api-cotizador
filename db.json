@@ -111,7 +111,7 @@
         "title":"Sideral 2.4",
         "tipo":"X Plus",
         "categoria":"sideral",
-        "img":"/img/sideral.png"
+        "img":"/img/sideralx.png"
       },
       {
         "id": 5,
@@ -174,9 +174,9 @@
       "img": "img/zinu.png" 
     },
     {
-      "id": "sid1",
+      "id": "sid",
       "title": "Sideral 2.4",
-      "img": "img/sideralx.png"
+      "img": "img/sideral.png"
     }
     
 
