@@ -44,6 +44,13 @@
         "img":"/img/kimxxx.png"
       },
       {
+        "id": "kim3",
+        "title":"Kimbaya",
+        "tipo":"OXXO",
+        "categoria":"kimbaya",
+        "img":"/img/coloxxo.png"
+      },
+      {
         "id": "s741",
         "title": "Sistema 744",
         "tipo": "XO - OX",
