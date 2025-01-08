@@ -163,10 +163,11 @@
         "img":"/img/sideralxo.png"
       },
       {
-        "id": 5,
+        "id": "tai1",
         "title":"Tairona",
+        "tipo": "X",
         "categoria":"tairona",
-        "img":"src/img/tairona.png"
+        "img":"/img/zinux.png"
       },
       {
         "id": 8,
@@ -226,7 +227,14 @@
       "id": "sid",
       "title": "Sideral 2.4",
       "img": "img/sideral.png"
-    }
+    },
+    
+    {     
+      "id": "tai", 
+      "title": "Sistema Tairona",
+      "img": "img/tairona.png"
+        }
+
     
 
     
