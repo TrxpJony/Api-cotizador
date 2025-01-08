@@ -100,6 +100,13 @@
         "img": "/img/colxxx.png"
       },
       {
+        "id": "c3453",
+        "title": "Colosal 345",
+        "tipo": "OXXO",
+        "categoria": "colosal345",
+        "img": "/img/coloxxo.png"
+      },
+      {
         "id": "s38901",
         "title": "Sistema 3890",
         "tipo": "X",
