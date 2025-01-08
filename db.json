@@ -170,6 +170,13 @@
         "img":"/img/zinux.png"
       },
       {
+        "id": "tai2",
+        "title":"Tairona",
+        "tipo": "XX",
+        "categoria":"tairona",
+        "img":"/img/taironaxx.png"
+      },
+      {
         "id": 8,
         "title":"Awa",
         "categoria":"Awa",
