@@ -72,6 +72,13 @@
         "img": "/img/colxx.png"
       },
       {
+        "id": "a203",
+        "title": "Astral 2.0",
+        "tipo": "OXXO",
+        "categoria": "astral20",
+        "img": "/img/coloxxo.png"
+      },
+      {
         "id": "a171",
         "title": "Astral 1.7",
         "tipo": "XO - OX",
