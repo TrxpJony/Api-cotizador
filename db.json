@@ -121,6 +121,13 @@
         "img":"/img/sideralx.png"
       },
       {
+        "id": "sid2",
+        "title":"Sideral 2.4",
+        "tipo":"XO Plus",
+        "categoria":"sideral",
+        "img":"/img/sideralxo.png"
+      },
+      {
         "id": 5,
         "title":"Tairona",
         "categoria":"tairona",
