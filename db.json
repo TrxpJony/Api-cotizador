@@ -100,6 +100,13 @@
         "img": "/img/colox.png"
       },
       {
+        "id": "a172",
+        "title": "Astral 1.7",
+        "tipo": "XX",
+        "categoria": "astral17",
+        "img": "/img/colxx.png"
+      },
+      {
         "id": "c3451",
         "title": "Colosal 345",
         "tipo": "XO - OX",
