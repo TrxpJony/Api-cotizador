@@ -177,12 +177,33 @@
         "img":"/img/taironaxx.png"
       },
       {
-        "id": 8,
+        "id": "awa1",
         "title":"Awa",
+        "tipo": "2 Hojas",
         "categoria":"Awa",
-        "img":"src/img/awa.png"
+        "img":"img/awa2h.png"
+      },
+      {
+        "id": "awa2",
+        "title":"Awa",
+        "tipo": "3 Hojas",
+        "categoria":"Awa",
+        "img":"img/awa3h.png"
+      },
+      {
+        "id": "awa3",
+        "title":"Awa",
+        "tipo": "4 Hojas",
+        "categoria":"Awa",
+        "img":"img/awa4h.png"
+      },
+      {
+        "id": "awa4",
+        "title":"Awa",
+        "tipo": "5 Hojas",
+        "categoria":"Awa",
+        "img":"img/awa5h.png"
       }
-      
         ],
       "categoria": [
       { 
@@ -214,38 +235,37 @@
       "id": "ast17",
       "title": "Astral 1.7",
       "img": "img/astral.png"
-    },
-    {
-      "id": "c345",
-      "title": "Colosal 345",
-      "img": "img/colosal3.png" 
-    },
-    {
-      "id": "s3890",
-      "title": "Sistema 3890",
-      "img": "img/sistema3890.png" 
-    },
-    {
-      "id": "zin",
-      "title": "Sistema Zinu",
-      "img": "img/zinu.png" 
-    },
-    {
-      "id": "sid",
-      "title": "Sideral 2.4",
-      "img": "img/sideral.png"
-    },
-    
-    {     
-      "id": "tai", 
-      "title": "Sistema Tairona",
-      "img": "img/tairona.png"
-        }
-
-    
-
-    
-      
+      },
+      {
+        "id": "c345",
+        "title": "Colosal 345",
+        "img": "img/colosal3.png" 
+      },
+      {
+        "id": "s3890",
+        "title": "Sistema 3890",
+        "img": "img/sistema3890.png" 
+      },
+      {
+        "id": "zin",
+        "title": "Sistema Zinu",
+        "img": "img/zinu.png" 
+      },
+      {
+        "id": "sid",
+        "title": "Sideral 2.4",
+        "img": "img/sideral.png"
+      },
+      {     
+        "id": "tai", 
+        "title": "Sistema Tairona",
+        "img": "img/tairona.png"
+      },
+      {     
+        "id": "awa", 
+        "title": "Sistema awa",
+        "img": "img/awa.png"
+      }
       ],
       "precios": {
         "cabezalcol": 25000,
