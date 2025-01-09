@@ -203,6 +203,13 @@
         "tipo": "5 Hojas",
         "categoria":"Awa",
         "img":"img/awa5h.png"
+      },
+      {
+        "id": "awa5",
+        "title":"Awa",
+        "tipo": "6 Hojas",
+        "categoria":"Awa",
+        "img":"img/awa6h.png"
       }
         ],
       "categoria": [
