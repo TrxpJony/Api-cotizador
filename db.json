@@ -301,6 +301,33 @@
           "title": "Espejo Redondo",
           "img": "img/espejo1.png"
         }
-    ]
+    ],
+  "tiposAccesorios": [
+    { 
+      "id": "ac1",
+      "title": "Sistemas Batientes",
+      "img": "img/img_productos/accesorios.png"
+    },
+    { 
+      "id": "ac2",
+      "title": "Bisagras Pivotadas",
+      "img": "/img/img_productos/img_accesorios/bisagra.png"
+    },
+    { 
+      "id": "ac3",
+      "title": "Divisones",
+      "img": "/img/img_productos/img_accesorios/division.png"
+    },
+    { 
+      "id": "ac4",
+      "title": "Pasadores",
+      "img": "img/espejo1.png"
+    },
+    { 
+      "id": "ac5",
+      "title": "Cerraduras",
+      "img": "img/espejo1.png"
+    }
+]
   }
   
