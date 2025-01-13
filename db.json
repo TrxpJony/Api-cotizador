@@ -11,6 +11,12 @@
         "title": "Espejos",
         "categoria": "espejos",
         "img": "/img/espejo1.png"
+      },
+      {
+        "id": "p3",
+        "title": "Accesorios",
+        "categoria": "accesorios",
+        "img": "/img/espejo1.png"
       }
   ],
 
