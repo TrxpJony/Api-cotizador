@@ -1,7 +1,7 @@
 {
   "Productos": [
       {
-        "id": "p1",
+        "id": "tipos",
         "title": "Catalogo Vitral",
         "categoria": "espejos",
         "img": "/img/img_productos/vitral.png"
