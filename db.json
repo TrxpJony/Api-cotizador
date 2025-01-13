@@ -287,22 +287,14 @@
         "id": "awa", 
         "title": "Sistema awa",
         "img": "img/awa.png"
-      },
-      { 
-        "id": "espe",
-        "title": "Espejo Redondo",
-        "img": "img/espejo1.png"
       }
     ],
-      "Espejos": [
-      { 
-        "id": "esp",
-        "title": "Colosal PC 2.6",
-        "img": "img/espejo1.png"
-      }
+      "tiposEspejos": [
+        { 
+          "id": "espe1",
+          "title": "Espejo Redondo",
+          "img": "img/espejo1.png"
+        }
     ]
-      
-      
-  
   }
   
