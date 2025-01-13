@@ -321,12 +321,12 @@
     { 
       "id": "ac4",
       "title": "Pasadores",
-      "img": "img/espejo1.png"
+      "img": "/img/img_productos/img_accesorios/pasador.png"
     },
     { 
       "id": "ac5",
       "title": "Cerraduras",
-      "img": "img/espejo1.png"
+      "img": "/img/img_productos/img_accesorios/Cerradura.png"
     }
 ]
   }
