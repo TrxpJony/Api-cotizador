@@ -1,4 +1,19 @@
 {
+  "Productos": [
+      {
+        "id": "p1",
+        "title": "Catalogo Vitral",
+        "categoria": "espejos",
+        "img": "/img/img_productos/vitral.png"
+      },
+      {
+        "id": "p2",
+        "title": "Espejos",
+        "categoria": "espejos",
+        "img": "/img/espejo1.png"
+      }
+  ],
+
     "vidrio": [
       {
         "id": "cp1",
