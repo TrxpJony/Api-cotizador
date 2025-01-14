@@ -202,35 +202,35 @@
         "title":"Awa",
         "tipo": "2 Hojas",
         "categoria":"Awa",
-        "img":"img/colosal.png"
+        "img":"/img/awa2h.png"
       },
       {
         "id": "awa2",
         "title":"Awa",
         "tipo": "3 Hojas",
         "categoria":"Awa",
-        "img":"img/awa3h.png"
+        "img":"/img/awa3h.png"
       },
       {
         "id": "awa3",
         "title":"Awa",
         "tipo": "4 Hojas",
         "categoria":"Awa",
-        "img":"img/awa4h.png"
+        "img":"/img/awa4h.png"
       },
       {
         "id": "awa4",
         "title":"Awa",
         "tipo": "5 Hojas",
         "categoria":"Awa",
-        "img":"img/awa5h.png"
+        "img":"/img/awa5h.png"
       },
       {
         "id": "awa5",
         "title":"Awa",
         "tipo": "6 Hojas",
         "categoria":"Awa",
-        "img":"img/awa6h.png"
+        "img":"/img/awa6h.png"
       }
         ],
       "categoria": [
