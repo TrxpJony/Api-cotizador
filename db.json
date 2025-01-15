@@ -355,10 +355,42 @@
     {
       "id": "ba4",
       "title": "AFI002",
-      "description": "Fijo Medio Punto 25 - 30 y 25 - 40",
+      "description": "Fijo Medio Punto 25-30 y 25-40",
       "color": "Negro",
       "precio": "4.000",
       "img": "/img/img_productos/img_accesorios/batientes/afi001.png"
+    },
+    {
+      "id": "ba5",
+      "title": "ABQ001",
+      "description": "Boquete Fijo Cuadrado",
+      "color": "satinado",
+      "precio": "6.000",
+      "img": "/img/img_productos/img_accesorios/batientes/abq001.png"
+    },
+    {
+      "id": "ba6",
+      "title": "ABQ002",
+      "description": "Boquete Fijo Cuadrado",
+      "color": "Negro",
+      "precio": "5.000",
+      "img": "/img/img_productos/img_accesorios/batientes/abq001.png"
+    },
+    {
+      "id": "ba7",
+      "title": "ABI003",
+      "description": "Fijo Cuadrado 25-30",
+      "color": "satinado",
+      "precio": "7.000",
+      "img": "/img/img_productos/img_accesorios/batientes/abi003.png"
+    },
+    {
+      "id": "ba8",
+      "title": "AFI003",
+      "description": "Boquete Fijo Cuadrado",
+      "color": "satinado",
+      "precio": "8.000",
+      "img": "/img/img_productos/img_accesorios/batientes/afi003.png"
     }
   ]
 }
