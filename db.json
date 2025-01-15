@@ -728,7 +728,7 @@
       "description": "Pasador Sobreponer Sencillo",
       "color": "Satinado",
       "precio": "20.000",
-      "img": "/img/img_productos/img_accesorios/divisiones/PVC001.png"
+      "img": "/img/img_productos/img_accesorios/pasadores/PVC001.png"
     },
     {
       "id": "pa2",
@@ -736,7 +736,7 @@
       "description": "Pasador Sobreponer Cuadrado",
       "color": "Satinado",
       "precio": "28.000",
-      "img": "/img/img_productos/img_accesorios/divisiones/PVC002.png"
+      "img": "/img/img_productos/img_accesorios/pasadores/PVC002.png"
     },
     {
       "id": "pa3",
@@ -744,7 +744,7 @@
       "description": "Pasador Sobreponer Cerrucho",
       "color": "Satinado",
       "precio": "15.000",
-      "img": "/img/img_productos/img_accesorios/divisiones/PVC003.png"
+      "img": "/img/img_productos/img_accesorios/pasadores/PVC003.png"
     },
     {
       "id": "pa4",
@@ -752,7 +752,7 @@
       "description": "Chapa de Ombrigo Vitrina",
       "color": "Satinado",
       "precio": "9.000",
-      "img": "/img/img_productos/img_accesorios/divisiones/PVC004.png"
+      "img": "/img/img_productos/img_accesorios/pasadores/PVC004.png"
     }
   ]
 }
