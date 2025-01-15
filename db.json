@@ -379,7 +379,7 @@
     {
       "id": "ba7",
       "title": "ABI003",
-      "description": "Fijo Cuadrado 25-30",
+      "description": "Bisagra Cuadrada 25-30",
       "color": "satinado",
       "precio": "7.000",
       "img": "/img/img_productos/img_accesorios/batientes/abi003.png"
@@ -387,10 +387,50 @@
     {
       "id": "ba8",
       "title": "AFI003",
-      "description": "Boquete Fijo Cuadrado",
+      "description": "Fijo Cuadrado 25-30",
       "color": "satinado",
       "precio": "8.000",
       "img": "/img/img_productos/img_accesorios/batientes/afi003.png"
+    },
+    {
+      "id": "ba9",
+      "title": "ABI005",
+      "description": "Bisagra medio Punto 90°",
+      "color": "satinado",
+      "precio": "5.500",
+      "img": "/img/img_productos/img_accesorios/batientes/abi005.png"
+    },
+    {
+      "id": "ba10",
+      "title": "ABI006",
+      "description": "Bisagra medio Punto 180°",
+      "color": "satinado",
+      "precio": "8.000",
+      "img": "/img/img_productos/img_accesorios/batientes/abi006.png"
+    },
+    {
+      "id": "ba11",
+      "title": "ABI007",
+      "description": "Bisagra Escualizable",
+      "color": "satinado",
+      "precio": "8.000",
+      "img": "/img/img_productos/img_accesorios/batientes/abi007.png"
+    },
+    {
+      "id": "ba12",
+      "title": "AMA001",
+      "description": "Manija Tipo Mariposa",
+      "color": "satinado",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/batientes/ama001.png"
+    },
+    {
+      "id": "ba13",
+      "title": "AMA002",
+      "description": "Manija Tipo Mariposa",
+      "color": "satinado",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/batientes/ama001.png"
     }
   ]
 }
