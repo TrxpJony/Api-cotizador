@@ -313,7 +313,7 @@
     },
     {
       "id": "ac3",
-      "title": "Divisones",
+      "title": "Divisiones",
       "img": "/img/img_productos/img_accesorios/division.png"
     },
     {
@@ -710,7 +710,7 @@
       "description": "Burbuja de 6 mm",
       "color": "Satinado",
       "precio": "16.000",
-      "img": "/img/img_productos/img_accesorios/divisiones/PBU005.png"
+      "img": "/img/img_productos/img_accesorios/divisiones/PBU006.png"
     },
     {
       "id": "di18",
@@ -718,7 +718,7 @@
       "description": "Burbuja de 8 mm",
       "color": "Satinado",
       "precio": "16.000",
-      "img": "/img/img_productos/img_accesorios/divisiones/PBU005.png"
+      "img": "/img/img_productos/img_accesorios/divisiones/PBU006.png"
     }
   ]
 }
