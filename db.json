@@ -759,7 +759,7 @@
     {
       "id": "ce1",
       "title": "ARE001",
-      "description": "Recibidor Grande Para Portacerradura",
+      "description": "Recibidor Grande",
       "color": "Satinado",
       "precio": "15.000",
       "img": "/img/img_productos/img_accesorios/cerraduras/ARE001.png"
@@ -767,7 +767,7 @@
     {
       "id": "ce2",
       "title": "ARE002",
-      "description": "Recibidor Grande Para Portacerradura Medio Punto",
+      "description": "Recibidor Grande Medio Punto",
       "color": "Satinado",
       "precio": "19.000",
       "img": "/img/img_productos/img_accesorios/cerraduras/ARE002.png"
