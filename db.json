@@ -754,5 +754,87 @@
       "precio": "9.000",
       "img": "/img/img_productos/img_accesorios/pasadores/PVC004.png"
     }
+  ],
+  "cerraduras": [
+    {
+      "id": "ce1",
+      "title": "ARE001",
+      "description": "Recibidor Grande Para Portacerradura",
+      "color": "Satinado",
+      "precio": "15.000",
+      "img": "/img/img_productos/img_accesorios/cerraduras/ARE001.png"
+    },
+    {
+      "id": "ce2",
+      "title": "ARE002",
+      "description": "Recibidor Grande Para Portacerradura Medio Punto",
+      "color": "Satinado",
+      "precio": "19.000",
+      "img": "/img/img_productos/img_accesorios/cerraduras/ARE002.png"
+    },
+    {
+      "id": "ce3",
+      "title": "ARE003",
+      "description": "Recibidor Pequeño",
+      "color": "Satinado",
+      "precio": "12.000",
+      "img": "/img/img_productos/img_accesorios/cerraduras/ARE003.png"
+    },
+    {
+      "id": "ce4",
+      "title": "ARE004",
+      "description": "Recibidor Pico Loro",
+      "color": "Satinado",
+      "precio": "15.000",
+      "img": "/img/img_productos/img_accesorios/cerraduras/ARE004.png"
+    },
+    {
+      "id": "ce5",
+      "title": "AFA001",
+      "description": "Cerradura Pico Loro",
+      "color": "Satinado",
+      "precio": "28.000",
+      "img": "/img/img_productos/img_accesorios/cerraduras/AFA001.png"
+    },
+    {
+      "id": "ce6",
+      "title": "APC001",
+      "description": "Cerradura Rectangular Batiente",
+      "color": "Satinado",
+      "precio": "25.000",
+      "img": "/img/img_productos/img_accesorios/cerraduras/APC001.png"
+    },
+    {
+      "id": "ce7",
+      "title": "APC001",
+      "description": "Cerradura Punto Medio Esferica",
+      "color": "Satinado",
+      "precio": "18.000",
+      "img": "/img/img_productos/img_accesorios/cerraduras/APC001.png"
+    },
+    {
+      "id": "ce8",
+      "title": "PPC001",
+      "description": "Cerradura Media Luna",
+      "color": "Satinado",
+      "precio": "30.000",
+      "img": "/img/img_productos/img_accesorios/cerraduras/PPC001.png"
+    },
+    {
+      "id": "ce9",
+      "title": "AFA001",
+      "description": "Fabella a Piso con Platina",
+      "color": "Satinado",
+      "precio": "12.000",
+      "img": "/img/img_productos/img_accesorios/cerraduras/AFA001.png"
+    },
+    {
+      "id": "ce10",
+      "title": "APS001",
+      "description": "Portacerradura Cuadradro sin Chapa",
+      "color": "Satinado",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/cerraduras/APS001.png"
+    }
   ]
 }
