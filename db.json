@@ -333,7 +333,7 @@
       "title": "ABI001",
       "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
       "color": "satinado",
-      "precio": "5000",
+      "precio": "5.000",
       "img": "/img/img_productos/img_accesorios/batientes/abi001.png"
     },
     {
@@ -341,7 +341,7 @@
       "title": "ABI002",
       "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
       "color": "Negro",
-      "precio": "5000",
+      "precio": "5.000",
       "img": "/img/img_productos/img_accesorios/batientes/abi001.png"
     },
     {
@@ -349,7 +349,7 @@
       "title": "AFI001",
       "description": "Fijo Medio Punto 25 - 30 y 25 - 40",
       "color": "satinado",
-      "precio": "4000",
+      "precio": "4.000",
       "img": "/img/img_productos/img_accesorios/batientes/afi001.png"
     },
     {
@@ -357,7 +357,7 @@
       "title": "AFI002",
       "description": "Fijo Medio Punto 25 - 30 y 25 - 40",
       "color": "Negro",
-      "precio": "4000",
+      "precio": "4.000",
       "img": "/img/img_productos/img_accesorios/batientes/afi001.png"
     }
   ]
