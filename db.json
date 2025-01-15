@@ -325,6 +325,66 @@
       "id": "ac5",
       "title": "Cerraduras",
       "img": "/img/img_productos/img_accesorios/Cerradura.png"
+    },
+    {
+      "id": "ac6",
+      "title": "Soportes",
+      "img": "/img/img_productos/img_accesorios/soporte.png"
+    },
+    {
+      "id": "ac7",
+      "title": "Brocas",
+      "img": "/img/img_productos/img_accesorios/broca.png"
+    },
+    {
+      "id": "ac8",
+      "title": "Manijas",
+      "img": "/img/img_productos/img_accesorios/manija.png"
+    },
+    {
+      "id": "ac9",
+      "title": "Chupas",
+      "img": "/img/img_productos/img_accesorios/chupa.png"
+    },
+    {
+      "id": "ac10",
+      "title": "Kit Sistemas Deslizantes",
+      "img": "/img/img_productos/img_accesorios/deslizante.png"
+    },
+    {
+      "id": "ac11",
+      "title": "Lijas",
+      "img": "/img/img_productos/img_accesorios/lija.png"
+    },
+    {
+      "id": "ac12",
+      "title": "Disco Verde Para Pulir Vidiro",
+      "img": "/img/img_productos/img_accesorios/disco.png"
+    },
+    {
+      "id": "ac13",
+      "title": "Maquina de Disco Amarrillo",
+      "img": "/img/img_productos/img_accesorios/maquina.png"
+    },
+    {
+      "id": "ac14",
+      "title": "Herramientas e Insimos",
+      "img": "/img/img_productos/img_accesorios/herramienta.png"
+    },
+    {
+      "id": "ac15",
+      "title": "Accesorios para Fachadas",
+      "img": "/img/img_productos/img_accesorios/fachada.png"
+    },
+    {
+      "id": "ac16",
+      "title": "Adhesivos",
+      "img": "/img/img_productos/img_accesorios/adhesivo.png"
+    },
+    {
+      "id": "ac17",
+      "title": "Fotocurados",
+      "img": "/img/img_productos/img_accesorios/fotocurado.png"
     }
   ],
   "batientes": [
