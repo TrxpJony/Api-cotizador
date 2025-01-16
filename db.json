@@ -1144,5 +1144,63 @@
       "precio": "30.000",
       "img": "/img/img_productos/img_accesorios/brocas/PBR009.png"
     }
+  ],
+  "manijas": [
+    {
+      "id": "ma1",
+      "title": "AMA003",
+      "description": "Manija Tipo Romana en Acero 20 - 40 cm",
+      "color": "Satinado",
+      "precio": "38.000",
+      "img": "/img/img_productos/img_accesorios/brocas/AMA003.png"
+    },
+    {
+      "id": "ma2",
+      "title": "AMA004",
+      "description": "Manija Tipo Romana en Acero 40 - 60 cm",
+      "color": "Satinado",
+      "precio": "40.000",
+      "img": "/img/img_productos/img_accesorios/brocas/AMA003.png"
+    },
+    {
+      "id": "ma3",
+      "title": "AMA005",
+      "description": "Manija Tipo Romana en Acero 60 - 80 cm",
+      "color": "Satinado",
+      "precio": "42.000",
+      "img": "/img/img_productos/img_accesorios/brocas/AMA003.png"
+    },
+    {
+      "id": "ma4",
+      "title": "AMA006",
+      "description": "Manija Tipo Romana en Acero 80 - 100 cm",
+      "color": "Satinado",
+      "precio": "45.000",
+      "img": "/img/img_productos/img_accesorios/brocas/AMA003.png"
+    },
+    {
+      "id": "ma5",
+      "title": "AMA008",
+      "description": "Manija Maciza 15 - 25 cm",
+      "color": "Satinado",
+      "precio": "35.000",
+      "img": "/img/img_productos/img_accesorios/brocas/AMA008.png"
+    },
+    {
+      "id": "ma6",
+      "title": "AMA009",
+      "description": "Manija Maciza 20 - 30 cm",
+      "color": "Satinado",
+      "precio": "38.000",
+      "img": "/img/img_productos/img_accesorios/brocas/AMA008.png"
+    },
+    {
+      "id": "ma7",
+      "title": "AMA010",
+      "description": "Manija Maciza 30 - 40 cm",
+      "color": "Satinado",
+      "precio": "42.000",
+      "img": "/img/img_productos/img_accesorios/brocas/AMA008.png"
+    }
   ]
 }
