@@ -1236,5 +1236,55 @@
       "precio": "5.000",
       "img": "/img/img_productos/img_accesorios/chupas/PCH002.png" 
     }
+  ],
+  "deslizantes":[
+    {
+      "id": "de1",
+      "title": "ACD001",
+      "description": "Kit Sistema Redondo",
+      "color": "Satinado",
+      "precio": "29.000",
+      "img": "/img/img_productos/img_accesorios/deslizantes/ACD001.png" 
+    },
+    {
+      "id": "de2",
+      "title": "ACD002",
+      "description": "Kit Sistema Hueso",
+      "color": "Satinado - Negro",
+      "precio": "25.000",
+      "img": "/img/img_productos/img_accesorios/deslizantes/ACD002.png" 
+    },
+    {
+      "id": "de3",
+      "title": "ACD004",
+      "description": "Kit Sistema J",
+      "color": "Satinado - Negro",
+      "precio": "25.000",
+      "img": "/img/img_productos/img_accesorios/deslizantes/ACD004.png" 
+    },
+    {
+      "id": "de4",
+      "title": "ACD005",
+      "description": "Kit Sistema Garra",
+      "color": "Satinado - Negro",
+      "precio": "27.000",
+      "img": "/img/img_productos/img_accesorios/deslizantes/ACD005.png" 
+    },
+    {
+      "id": "de5",
+      "title": "ACD006",
+      "description": "MD 40",
+      "color": "Satinado - Negro",
+      "precio": "25.000",
+      "img": "/img/img_productos/img_accesorios/deslizantes/ACD006.png" 
+    },
+    {
+      "id": "de5",
+      "title": "ACD007",
+      "description": "MD 30",
+      "color": "Satinado - Negro",
+      "precio": "22.000",
+      "img": "/img/img_productos/img_accesorios/deslizantes/ACD006.png" 
+    }
   ]
 }
