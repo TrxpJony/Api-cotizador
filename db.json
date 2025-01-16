@@ -1514,35 +1514,35 @@
   "fachadas": [
     {
       "id": "fa1",
-      "title": "PPSC001",
+      "title": "PSC001",
       "description": "Carro Importado 2 Rodachinas Acero",
       "color": "Platinado",
       "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/PPSC001.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC001.png"  
     },
     {
       "id": "fa2",
-      "title": "PPSC002",
+      "title": "PSC002",
       "description": "Carro Importado 4 Rodachinas Acero",
       "color": "Platinado",
       "precio": "13.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/PPSC002.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC002.png"  
     },
     {
       "id": "fa3",
-      "title": "PPSC003",
+      "title": "PSC003",
       "description": "Carro Importado 2 Rodachinas Aluminio",
       "color": "Platinado",
       "precio": "16.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/PPSC003.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC003.png"  
     },
     {
       "id": "fa4",
-      "title": "PPSC004",
+      "title": "PSC004",
       "description": "Carro Importado 4 Rodachinas Aluminio",
       "color": "Platinado",
       "precio": "19.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/PPSC004.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC004.png"  
     },
     {
       "id": "fa5",
