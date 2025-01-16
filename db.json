@@ -575,7 +575,7 @@
       "img": "/img/img_productos/img_accesorios/bisagras/ABT002.png"
     }
   ],
-  "divisiones":[
+  "divisiones": [
     {
       "id": "di1",
       "title": "PGU001",
@@ -1029,6 +1029,120 @@
       "color": "Satinado",
       "precio": "20.000",
       "img": "/img/img_productos/img_accesorios/soportes/PDI001.png"
+    }
+  ],
+  "brocas": [
+    {
+      "id": "br1",
+      "title": "PBR001",
+      "description": "Broca de 5 mm",
+      "color": "Satinado",
+      "precio": "7.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR001.png"
+    },
+    {
+      "id": "br2",
+      "title": "PBR002",
+      "description": "Broca de 6 mm",
+      "color": "Satinado",
+      "precio": "7.500",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR001.png"
+    },
+    {
+      "id": "br3",
+      "title": "PBR003",
+      "description": "Broca de 8 mm",
+      "color": "Satinado",
+      "precio": "8.500",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR001.png"
+    },
+    {
+      "id": "br4",
+      "title": "PBR004",
+      "description": "Broca de 10 mm",
+      "color": "Satinado",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR001.png"
+    },
+    {
+      "id": "br5",
+      "title": "PBR005",
+      "description": "Broca de 12 mm",
+      "color": "Satinado",
+      "precio": "11.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR005.png"
+    },
+    {
+      "id": "br6",
+      "title": "PBR006",
+      "description": "Broca de 14 mm",
+      "color": "Satinado",
+      "precio": "12.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR005.png"
+    },
+    {
+      "id": "br7",
+      "title": "PBR007",
+      "description": "Broca de 16 mm",
+      "color": "Satinado",
+      "precio": "13.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR005.png"
+    },
+    {
+      "id": "br8",
+      "title": "PBR008",
+      "description": "Broca de 19 mm",
+      "color": "Satinado",
+      "precio": "14.500",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR005.png"
+    },
+    {
+      "id": "br9",
+      "title": "PBR009",
+      "description": "Broca de 21 mm",
+      "color": "Satinado",
+      "precio": "16.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR009.png"
+    },
+    {
+      "id": "br10",
+      "title": "PBR010",
+      "description": "Broca de 25 mm",
+      "color": "Satinado",
+      "precio": "17.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR009.png"
+    },
+    {
+      "id": "br11",
+      "title": "PBR011",
+      "description": "Broca de 50 mm",
+      "color": "Satinado",
+      "precio": "22.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR009.png"
+    },
+    {
+      "id": "br12",
+      "title": "PBR012",
+      "description": "Broca de 65 mm",
+      "color": "Satinado",
+      "precio": "25.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR009.png"
+    },
+    {
+      "id": "br13",
+      "title": "PBR013",
+      "description": "Broca de 70 mm",
+      "color": "Satinado",
+      "precio": "28.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR009.png"
+    },
+    {
+      "id": "br14",
+      "title": "PBR014",
+      "description": "Broca de 85 mm",
+      "color": "Satinado",
+      "precio": "30.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR009.png"
     }
   ]
 }
