@@ -1510,5 +1510,159 @@
       "precio": "10.000",
       "img": "/img/img_productos/img_accesorios/herramientas/PLB001.png" 
     }
+  ],
+  "fachadas": [
+    {
+      "id": "fa1",
+      "title": "PPSC001",
+      "description": "Carro Importado 2 Rodachinas Acero",
+      "color": "Platinado",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PPSC001.png"  
+    },
+    {
+      "id": "fa2",
+      "title": "PPSC002",
+      "description": "Carro Importado 4 Rodachinas Acero",
+      "color": "Platinado",
+      "precio": "13.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PPSC002.png"  
+    },
+    {
+      "id": "fa3",
+      "title": "PPSC003",
+      "description": "Carro Importado 2 Rodachinas Aluminio",
+      "color": "Platinado",
+      "precio": "16.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PPSC003.png"  
+    },
+    {
+      "id": "fa4",
+      "title": "PPSC004",
+      "description": "Carro Importado 4 Rodachinas Aluminio",
+      "color": "Platinado",
+      "precio": "19.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PPSC004.png"  
+    },
+    {
+      "id": "fa5",
+      "title": "PSC005",
+      "description": "Kit Sistema Rodadizo 4 Rodachinas",
+      "color": "Platinado",
+      "precio": "20.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC005.png"  
+    },
+    {
+      "id": "fa6",
+      "title": "PSC006",
+      "description": "Kit Sistema Rodadizo 4 Rodachinas",
+      "color": "Negro",
+      "precio": "20.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC006.png"  
+    },
+    {
+      "id": "fa7",
+      "title": "PSC007",
+      "description": "Sistema Corredizo 2 Puntos",
+      "color": "Dorado",
+      "precio": "15.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC007.png"  
+    },
+    {
+      "id": "fa8",
+      "title": "PSC008",
+      "description": "Sistema Para Escualizable",
+      "color": "Dorado",
+      "precio": "14.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC008.png"  
+    },
+    {
+      "id": "fa9",
+      "title": "ACD008",
+      "description": "Polea Doble 1 Punto",
+      "color": "Satinado",
+      "precio": "12.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/ACD008.png"  
+    },
+    {
+      "id": "fa10",
+      "title": "AFI010",
+      "description": "Fijo Marciano Sencillo Pequeño",
+      "color": "Dorado",
+      "precio": "12.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/AFI010.png"  
+    },
+    {
+      "id": "fa11",
+      "title": "AFI011",
+      "description": "Fijo Marciano Sencillo Grande",
+      "color": "Dorado",
+      "precio": "15.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/AFI010.png"  
+    },
+    {
+      "id": "fa12",
+      "title": "AFI012",
+      "description": "Fijo Marciano Doble Grande",
+      "color": "Dorado",
+      "precio": "18.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/AFI012.png"  
+    },
+    {
+      "id": "fa13",
+      "title": "AFI004",
+      "description": "Fijo Marciano Doble Pequeño",
+      "color": "Dorado",
+      "precio": "20.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/AFI012.png"  
+    },
+    {
+      "id": "fa14",
+      "title": "AFI005",
+      "description": "Soporte de 3 Puntos Para Vitrina",
+      "color": "Dorado",
+      "precio": "22.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/AFI005.png"  
+    },
+    {
+      "id": "fa15",
+      "title": "API001",
+      "description": "Pie de Amigo Sencillo de 10cm con Tapa Escudo",
+      "color": "Dorado",
+      "precio": "16.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/API001.png"  
+    },
+    {
+      "id": "fa16",
+      "title": "API002",
+      "description": "Pie de Amigo Doble de 10cm con Tapa Escudo",
+      "color": "Dorado",
+      "precio": "22.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/API002.png"  
+    },
+    {
+      "id": "fa17",
+      "title": "PMA001",
+      "description": "Cajuela",
+      "color": "Dorado",
+      "precio": "22.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PMA001.png"  
+    },
+    {
+      "id": "fa17",
+      "title": "PSC007",
+      "description": "Guia de Rodillos",
+      "color": "Dorado",
+      "precio": "22.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC007.png"  
+    },
+    {
+      "id": "fa18",
+      "title": "ATS003",
+      "description": "Tope a Piso",
+      "color": "Dorado",
+      "precio": "12.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/ATS003.png"  
+    }
   ]
 }
