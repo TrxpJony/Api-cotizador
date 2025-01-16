@@ -17,6 +17,12 @@
       "title": "Accesorios",
       "categoria": "accesorios",
       "img": "/img/img_productos/accesorios.png"
+    },
+    {
+      "id": "p4",
+      "title": "Catalogo SKYLEDS",
+      "categoria": "skyleds",
+      "img": "/img/img_productos/skyleds.png"
     }
   ],
   "vidrio": [
