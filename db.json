@@ -1286,5 +1286,63 @@
       "precio": "22.000",
       "img": "/img/img_productos/img_accesorios/deslizantes/ACD006.png" 
     }
+  ],
+  "lijas": [
+    {
+      "id": "li1",
+      "title": "PLI006",
+      "description": "Adhesivo Grano 60",
+      "color": "Negro",
+      "precio": "2.000",
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png" 
+    },
+    {
+      "id": "li2",
+      "title": "PLI007",
+      "description": "Adhesivo Grano 80",
+      "color": "Negro",
+      "precio": "3.000",
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png" 
+    },
+    {
+      "id": "li3",
+      "title": "PLI008",
+      "description": "Adhesivo Grano 100",
+      "color": "Negro",
+      "precio": "4.000",
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png" 
+    },
+    {
+      "id": "li4",
+      "title": "PLI009",
+      "description": "Adhesivo Grano 120",
+      "color": "Negro",
+      "precio": "4.500",
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png" 
+    },
+    {
+      "id": "li5",
+      "title": "PLI010",
+      "description": "Adhesivo Grano 400",
+      "color": "Negro",
+      "precio": "6.500",
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png" 
+    },
+    {
+      "id": "li6",
+      "title": "PLI011",
+      "description": "Velcro Grano 60",
+      "color": "Negro",
+      "precio": "4.500",
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png" 
+    },
+    {
+      "id": "li7",
+      "title": "PLI012",
+      "description": "Velcro Grano 320",
+      "color": "Negro",
+      "precio": "8.500",
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png" 
+    }
   ]
 }
