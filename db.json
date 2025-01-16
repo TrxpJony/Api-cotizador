@@ -1664,5 +1664,119 @@
       "precio": "12.000",
       "img": "/img/img_productos/img_accesorios/fachadas/ATS003.png"  
     }
+  ],
+  "adhesivos":[
+    {
+      "id": "ad1",
+      "title": "PSL001",
+      "description": "Silicona Tek Bond Para Espejos",
+      "color": "Negro",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL001.png" 
+    },
+    {
+      "id": "ad2",
+      "title": "PSL002",
+      "description": "Silicona Tek Bond Neutra Negra",
+      "color": "Negro",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL002.png" 
+    },
+    {
+      "id": "ad3",
+      "title": "PSL003",
+      "description": "Silicona Tek Bond",
+      "color": "Negro",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL003.png" 
+    },
+    {
+      "id": "ad4",
+      "title": "PSL004",
+      "description": "Silicona Tek Bond Acetica Negra ",
+      "color": "Negro",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL004.png" 
+    },
+    {
+      "id": "ad5",
+      "title": "PSL005",
+      "description": "Silicona Tek Bond Acetica Transparente ",
+      "color": "Transparente",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL005.png" 
+    },
+    {
+      "id": "ad6",
+      "title": "PSL006",
+      "description": "Silicona Tek Bond Sella Grietas",
+      "color": "Negro",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL006.png" 
+    },
+    {
+      "id": "ad7",
+      "title": "PSL007",
+      "description": "Silicona Tek Bond Acetica Pequeña 50 gr",
+      "color": "Negro",
+      "precio": "5.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL007.png" 
+    },
+    {
+      "id": "ad8",
+      "title": "PSL008",
+      "description": "Protector de Bordes",
+      "color": "Negro",
+      "precio": "5.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL008.png" 
+    },
+    {
+      "id": "ad9",
+      "title": "PCD001",
+      "description": "Vinipel",
+      "color": "Transparente",
+      "precio": "5.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PCD001.png" 
+    },
+    {
+      "id": "ad10",
+      "title": "PCD002",
+      "description": "Cinta Doble Faz 20 mts",
+      "color": "Blanco",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PCD002.png" 
+    },
+    {
+      "id": "ad11",
+      "title": "PCD003",
+      "description": "Cinta Doble Faz 33 mts",
+      "color": "Blanco",
+      "precio": "12.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PCD003.png" 
+    },
+    {
+      "id": "ad12",
+      "title": "PCD004",
+      "description": "Cinta Acrilica Doble Faz 20 mts",
+      "color": "Blanco",
+      "precio": "18.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PCD004.png" 
+    },
+    {
+      "id": "ad13",
+      "title": "PCD005",
+      "description": "Cinta Acrilica Doble Faz 1 mts",
+      "color": "Blanco",
+      "precio": "5.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PCD005.png" 
+    },
+    {
+      "id": "ad14",
+      "title": "PCD006",
+      "description": "Cinta Acrilica Doble Faz 3 mts",
+      "color": "Blanco",
+      "precio": "9.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PCD006.png" 
+    }
   ]
 }
