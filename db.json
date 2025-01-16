@@ -7,6 +7,12 @@
       "img": "/img/img_productos/vitral.png"
     },
     {
+      "id": "p4",
+      "title": "Catalogo SKYLEDS",
+      "categoria": "skyleds",
+      "img": "/img/img_productos/skyleds.png"
+    },
+    {
       "id": "p2",
       "title": "Espejos",
       "categoria": "espejos",
@@ -17,12 +23,6 @@
       "title": "Accesorios",
       "categoria": "accesorios",
       "img": "/img/img_productos/accesorios.png"
-    },
-    {
-      "id": "p4",
-      "title": "Catalogo SKYLEDS",
-      "categoria": "skyleds",
-      "img": "/img/img_productos/skyleds.png"
     }
   ],
   "vidrio": [
@@ -391,6 +391,43 @@
       "id": "ac17",
       "title": "Fotocurados",
       "img": "/img/img_productos/img_accesorios/fotocurado.png"
+    }
+  ],
+  "tiposSkyleds": [
+    {
+      "id": "sk1",
+      "title": "Luces Led a 110 v",
+      "img": "/img/img_productos/img_skyleds/luces110.png"
+    },
+    {
+      "id": "sk2",
+      "title": "Luces Led a 12 v",
+      "img": "/img/img_productos/img_skyleds/luces12.png"
+    },
+    {
+      "id": "sk3",
+      "title": "Perfiles Led con Difusores",
+      "img": "/img/img_productos/img_skyleds/perfiles.png"
+    },
+    {
+      "id": "sk4",
+      "title": "Fuentes",
+      "img": "/img/img_productos/img_skyleds/fuentes"
+    },
+    {
+      "id": "sk5",
+      "title": "Sensores Para Espejo",
+      "img": "/img/img_productos/img_skyleds/sensores1"
+    },
+    {
+      "id": "sk6",
+      "title": "Sensores Para Cocina",
+      "img": "/img/img_productos/img_skyleds/sensores2"
+    },
+    {
+      "id": "sk7",
+      "title": "Sensores Especiales",
+      "img": "/img/img_productos/img_skyleds/sensores3"
     }
   ],
   "batientes": [
