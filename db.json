@@ -1202,5 +1202,39 @@
       "precio": "42.000",
       "img": "/img/img_productos/img_accesorios/manijas/AMA008.png"
     }
+  ],
+  "chupas": [
+    {
+      "id": "ch1",
+      "title": "PCH001",
+      "description": "Chupa 1 ventoza",
+      "color": "Satinado",
+      "precio": "12.000",
+      "img": "/img/img_productos/img_accesorios/chupas/PCH001.png" 
+    },
+    {
+      "id": "ch2",
+      "title": "PCH003",
+      "description": "Chupa de 2 Soportes",
+      "color": "Satinado",
+      "precio": "15.000",
+      "img": "/img/img_productos/img_accesorios/chupas/PCH003.png" 
+    },
+    {
+      "id": "ch3",
+      "title": "PCH004",
+      "description": "Chupa de 3 Soportes",
+      "color": "Satinado",
+      "precio": "18.000",
+      "img": "/img/img_productos/img_accesorios/chupas/PCH004.png" 
+    },
+    {
+      "id": "ch4",
+      "title": "PCH002",
+      "description": "Ventosa",
+      "color": "Satinado",
+      "precio": "5.000",
+      "img": "/img/img_productos/img_accesorios/chupas/PCH002.png" 
+    }
   ]
 }
