@@ -1344,5 +1344,47 @@
       "precio": "8.500",
       "img": "/img/img_productos/img_accesorios/lijas/lija.png" 
     }
+  ],
+  "discosv": [
+    {
+      "id": "dv1",
+      "title": "PLI006",
+      "description": "Grano 60",
+      "color": "Negro",
+      "precio": "2.000",
+      "img": "/img/img_productos/img_accesorios/discos/disco.png" 
+    },
+    {
+      "id": "dv2",
+      "title": "PLI007",
+      "description": "Grano 80",
+      "color": "Negro",
+      "precio": "3.000",
+      "img": "/img/img_productos/img_accesorios/discos/disco.png" 
+    },
+    {
+      "id": "dv3",
+      "title": "PLI008",
+      "description": "Grano 120",
+      "color": "Negro",
+      "precio": "4.000",
+      "img": "/img/img_productos/img_accesorios/discos/disco.png" 
+    },
+    {
+      "id": "dv4",
+      "title": "PLI009",
+      "description": "Grano 300",
+      "color": "Negro",
+      "precio": "4.500",
+      "img": "/img/img_productos/img_accesorios/discos/disco.png" 
+    },
+    {
+      "id": "dv5",
+      "title": "PLI010",
+      "description": "Grano 400",
+      "color": "Negro",
+      "precio": "6.500",
+      "img": "/img/img_productos/img_accesorios/discos/disco.png" 
+    }
   ]
 }
