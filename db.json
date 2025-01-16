@@ -1778,5 +1778,31 @@
       "precio": "9.000",
       "img": "/img/img_productos/img_accesorios/adhesivos/PCD005.png" 
     }
+  ],
+  "fotocurados":[
+    {
+      "id": "fo1",
+      "title": "PF002",
+      "description": "Fotocurado de 3 ml con Activador",
+      "color": "Negro",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/fotocurado/PF002.png" 
+    },
+    {
+      "id": "fo2",
+      "title": "PF003",
+      "description": "Fotocurado Permabondde 10 ml",
+      "color": "Negro",
+      "precio": "16.000",
+      "img": "/img/img_productos/img_accesorios/fotocurado/PF003.png" 
+    },
+    {
+      "id": "fo3",
+      "title": "PF004",
+      "description": "Fotocurado Permabondde 50 ml",
+      "color": "Negro",
+      "precio": "22.000",
+      "img": "/img/img_productos/img_accesorios/fotocurado/PF004.png" 
+    }
   ]
 }
