@@ -368,7 +368,7 @@
     },
     {
       "id": "ac14",
-      "title": "Herramientas e Insimos",
+      "title": "Herramientas e Insumos",
       "img": "/img/img_productos/img_accesorios/herramienta.png"
     },
     {
@@ -1403,6 +1403,112 @@
       "color": "Negro",
       "precio": "6.500",
       "img": "/img/img_productos/img_accesorios/maquina/PLI014.png" 
+    }
+  ],
+  "herramientas": [
+    {
+      "id": "he1",
+      "title": "PPV001",
+      "description": "Pinza Plastica Pequeñas",
+      "color": "Satinado",
+      "precio": "12.500",
+      "img": "/img/img_productos/img_accesorios/herramientas/PPV001.png" 
+    },
+    {
+      "id": "he2",
+      "title": "PPV002",
+      "description": "Pinza Plastica Grande",
+      "color": "Satinado",
+      "precio": "14.500",
+      "img": "/img/img_productos/img_accesorios/herramientas/PPV001.png" 
+    },
+    {
+      "id": "he3",
+      "title": "PPV003",
+      "description": "Pinzas Para Vidrio",
+      "color": "Satinado",
+      "precio": "20.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PPV003.png" 
+    },
+    {
+      "id": "he4",
+      "title": "PTY001",
+      "description": "Toyo Original",
+      "color": "Satinado",
+      "precio": "25.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PTY001.png" 
+    },
+    {
+      "id": "he5",
+      "title": "PTY002",
+      "description": "Toyo Imitacion China",
+      "color": "Satinado",
+      "precio": "12.500",
+      "img": "/img/img_productos/img_accesorios/herramientas/PTY001.png" 
+    },
+    {
+      "id": "he6",
+      "title": "PTY003",
+      "description": "Cabeza Toyo Original",
+      "color": "Satinado",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PTY003.png" 
+    },
+    {
+      "id": "he7",
+      "title": "PTY004",
+      "description": "Cabeza Toyo Imitacion",
+      "color": "Satinado",
+      "precio": "5.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PTY003.png" 
+    },
+    {
+      "id": "he8",
+      "title": "PCC001",
+      "description": "Repuesto Circular",
+      "color": "Satinado",
+      "precio": "12.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PCC001.png" 
+    },
+    {
+      "id": "he9",
+      "title": "PCC002",
+      "description": "Circular",
+      "color": "Satinado",
+      "precio": "24.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PCC002.png" 
+    },
+    {
+      "id": "he10",
+      "title": "PF001",
+      "description": "Lampara de Fotocurado",
+      "color": "Satinado",
+      "precio": "28.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PF001.png" 
+    },
+    {
+      "id": "he11",
+      "title": "PPS001",
+      "description": "Pistola para silicona",
+      "color": "Platinado - Naranja",
+      "precio": "22.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PPS001.png" 
+    },
+    {
+      "id": "he12",
+      "title": "PBS001",
+      "description": "Bisturi",
+      "color": "Platinado",
+      "precio": "15.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PBS001.png" 
+    },
+    {
+      "id": "he13",
+      "title": "PLB001",
+      "description": "Llave Bristol Navaja X 7 Pc",
+      "color": "Platinado",
+      "precio": "25.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PLB001.png" 
     }
   ]
 }
