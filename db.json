@@ -836,5 +836,199 @@
       "precio": "10.000",
       "img": "/img/img_productos/img_accesorios/cerraduras/APS001.png"
     }
+  ],
+  "soportes": [
+    {
+      "id": "so1",
+      "title": "PSE001",
+      "description": "Soporte Para Escritorio Chino",
+      "color": "Gris",
+      "precio": "7.000",
+      "img": "/img/img_productos/img_accesorios/soportes/PSE001.png"
+    },
+    {
+      "id": "so2",
+      "title": "PSE002",
+      "description": "Soporte Para Escritorio Chino",
+      "color": "Blanco",
+      "precio": "7.000",
+      "img": "/img/img_productos/img_accesorios/soportes/PSE001.png"
+    },
+    {
+      "id": "so3",
+      "title": "PSE003",
+      "description": "Soporte Para Escritorio Chino",
+      "color": "Negro",
+      "precio": "7.000",
+      "img": "/img/img_productos/img_accesorios/soportes/PSE001.png"
+    },
+    {
+      "id": "so4",
+      "title": "PSE008",
+      "description": "Soporte Media Luna",
+      "color": "Satinado",
+      "precio": "8.000",
+      "img": "/img/img_productos/img_accesorios/soportes/PSE008.png"
+    },
+    {
+      "id": "so5",
+      "title": "PSE009",
+      "description": "Soporte Media Luna",
+      "color": "Negro",
+      "precio": "8.000",
+      "img": "/img/img_productos/img_accesorios/soportes/PSE008.png"
+    },
+    {
+      "id": "so6",
+      "title": "PSE004",
+      "description": "Soporte Chino con Anclaje Lateral",
+      "color": "Satinado",
+      "precio": "6.000",
+      "img": "/img/img_productos/img_accesorios/soportes/PSE004.png"
+    },
+    {
+      "id": "so7",
+      "title": "PSE005",
+      "description": "Soporte Para Escritorio Chino con Anclaje",
+      "color": "Satinado",
+      "precio": "12.000",
+      "img": "/img/img_productos/img_accesorios/soportes/PSE005.png"
+    },
+    {
+      "id": "so8",
+      "title": "PSO001",
+      "description": "Soporte Repisa Tipo Bala Pequeña",
+      "color": "Satinado",
+      "precio": "8.000",
+      "img": "/img/img_productos/img_accesorios/soportes/PSO001.png"
+    },
+    {
+      "id": "so9",
+      "title": "PSO002",
+      "description": "Soporte Repisa Entrepaño Sencillo",
+      "color": "Satinado",
+      "precio": "15.000",
+      "img": "/img/img_productos/img_accesorios/soportes/PSO002.png"
+    },
+    {
+      "id": "so10",
+      "title": "PSO003",
+      "description": "Soporte Repisa Entrepaño Doble",
+      "color": "Satinado",
+      "precio": "22.000",
+      "img": "/img/img_productos/img_accesorios/soportes/PSO003.png"
+    },
+    {
+      "id": "so11",
+      "title": "PSO004",
+      "description": "Soporte Repisa Entrepaño a Muro",
+      "color": "Satinado",
+      "precio": "20.000",
+      "img": "/img/img_productos/img_accesorios/soportes/PSO004.png"
+    },
+    {
+      "id": "so12",
+      "title": "SP001",
+      "description": "Soporte Repisa Pelicano Pequeño",
+      "color": "Satinado",
+      "precio": "12.000",
+      "img": "/img/img_productos/img_accesorios/soportes/SP001.png"
+    },
+    {
+      "id": "so13",
+      "title": "SP002",
+      "description": "Soporte Repisa Pelicano Mediano",
+      "color": "Satinado - Cromado",
+      "precio": "15.000",
+      "img": "/img/img_productos/img_accesorios/soportes/SP001.png"
+    },
+    {
+      "id": "so14",
+      "title": "SP003",
+      "description": "Soporte Repisa Pelicano Grande",
+      "color": "Satinado - Cromado",
+      "precio": "18.000",
+      "img": "/img/img_productos/img_accesorios/soportes/SP001.png"
+    },
+    {
+      "id": "so15",
+      "title": "SP004",
+      "description": "Soporte Repisa Pelicano XL",
+      "color": "Satinado - Cromado",
+      "precio": "22.000",
+      "img": "/img/img_productos/img_accesorios/soportes/SP001.png"
+    },
+    {
+      "id": "so16",
+      "title": "ASO001",
+      "description": "Soporte Repisa Curva Doble 20cm - 8/10 mm",
+      "color": "Satinado",
+      "precio": "18.000",
+      "img": "/img/img_productos/img_accesorios/soportes/ASO001.png"
+    },
+    {
+      "id": "so17",
+      "title": "ASO003",
+      "description": "Soporte Repisa Curva Doble 25cm - 8/10 mm",
+      "color": "Satinado",
+      "precio": "21.000",
+      "img": "/img/img_productos/img_accesorios/soportes/ASO001.png"
+    },
+    {
+      "id": "so18",
+      "title": "ASO005",
+      "description": "Soporte Barandilla Sencilla 38cm - 6/8 mm",
+      "color": "Satinado",
+      "precio": "25.000",
+      "img": "/img/img_productos/img_accesorios/soportes/ASO005.png"
+    },
+    {
+      "id": "so19",
+      "title": "ASO006",
+      "description": "Soporte Barandilla Sencilla 48cm - 6/8 mm",
+      "color": "Satinado",
+      "precio": "28.000",
+      "img": "/img/img_productos/img_accesorios/soportes/ASO005.png"
+    },
+    {
+      "id": "so20",
+      "title": "ASO007",
+      "description": "Soporte Barandilla Sencilla 58cm - 6/8 mm",
+      "color": "Satinado",
+      "precio": "32.000",
+      "img": "/img/img_productos/img_accesorios/soportes/ASO005.png"
+    },
+    {
+      "id": "so21",
+      "title": "PDI001",
+      "description": "Dilatadores 12x25",
+      "color": "Satinado",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/soportes/PDI001.png"
+    },
+    {
+      "id": "so22",
+      "title": "PDI002",
+      "description": "Dilatadores 19x25",
+      "color": "Satinado",
+      "precio": "12.000",
+      "img": "/img/img_productos/img_accesorios/soportes/PDI001.png"
+    },
+    {
+      "id": "so23",
+      "title": "PDI003",
+      "description": "Dilatadores 15x30",
+      "color": "Satinado",
+      "precio": "16.000",
+      "img": "/img/img_productos/img_accesorios/soportes/PDI001.png"
+    },
+    {
+      "id": "so24",
+      "title": "PDI004",
+      "description": "Dilatadores 25x40",
+      "color": "Satinado",
+      "precio": "20.000",
+      "img": "/img/img_productos/img_accesorios/soportes/PDI001.png"
+    }
   ]
 }
