@@ -1386,5 +1386,23 @@
       "precio": "6.500",
       "img": "/img/img_productos/img_accesorios/discos/disco.png" 
     }
+  ],
+  "maquina": [
+    {
+      "id": "mq1",
+      "title": "PLI013",
+      "description": "Maquina de Disco",
+      "color": "Negro",
+      "precio": "120.500",
+      "img": "/img/img_productos/img_accesorios/maquina/PLI013.png" 
+    },
+    {
+      "id": "mq2",
+      "title": "PLI014",
+      "description": "Plato Amarillo Adhesivo y Velcro",
+      "color": "Negro",
+      "precio": "6.500",
+      "img": "/img/img_productos/img_accesorios/maquina/PLI014.png" 
+    }
   ]
 }
