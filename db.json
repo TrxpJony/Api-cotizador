@@ -2043,6 +2043,24 @@
       "precio": 10000,
       "img": "/img/img_productos/img_skyleds/luzled110/luz110neutra.png",
       "categoria": "luzled110"
+    },
+    {
+      "id": "ll4",
+      "title": "Luz Blanca Doble Carril 110 v",
+      "description": "Luz blanca doble carril con 240 leds por metro, esta luz nos regala una intensidad magnífica apta para proyectos arquitectónicos y de alto brillo.",
+      "color": "Blanco",
+      "precio": 12000,
+      "img": "/img/img_productos/img_skyleds/luzled110/luz110dblanca.png",
+      "categoria": "luzled110"
+    },
+    {
+      "id": "ll5",
+      "title": "Luz Calida Doble Carril 110 v",
+      "description": "Luz calida doble carril con 240 leds por metro, esta luz nos regala una intensidad magnífica apta para proyectos arquitectónicos y de alto brillo.",
+      "color": "Calido",
+      "precio": 14000,
+      "img": "/img/img_productos/img_skyleds/luzled110/luz110dcalida.png",
+      "categoria": "luzled110"
     }
   ]
 }
