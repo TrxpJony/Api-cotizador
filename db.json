@@ -2068,7 +2068,7 @@
       "description": "Luz COB blanca nos ofrece una iluminación lineal gracias a sus 320 o 480 leds por metro, ideal para canaletas y proyectos arquitectónicos.",
       "color": "Blanco",
       "precio": 14000,
-      "img": "/img/img_productos/img_skyleds/luzled110/luz110dcblanca.png",
+      "img": "/img/img_productos/img_skyleds/luzled110/luz110cblanca.png",
       "categoria": "luzled110"
     },
     {
@@ -2086,7 +2086,7 @@
       "description": "Luz COB neutra nos ofrece una iluminación lineal gracias a sus 320 o 480 leds por metro, ideal para canaletas y proyectos arquitectónicos.",
       "color": "Neutro",
       "precio": 20000,
-      "img": "/img/img_productos/img_skyleds/luzled110/luz110cneutra.png",
+      "img": "/img/img_productos/img_skyleds/luzled110/luz110cblanca.png",
       "categoria": "luzled110"
     }
   ]
