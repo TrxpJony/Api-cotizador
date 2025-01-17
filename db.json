@@ -549,18 +549,18 @@
     },
     {
       "id": "vi6",
-      "title": "Astral 1.7",
-      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
-      "color": "Satinado",
+      "title": "Sistema Astral 1.7",
+      "description": "Ventana Corrediza Astral l.7, que consta de naves enmarcadas, que se desplazan en forma suave, silenciosa y sin movimientos laterales sobre una guía angulada ampliando la superficie de contacto con el rodamiento.",
+      "color": "XO - OX - XX",
       "precio": "0",
       "img": "img/astral.png",
       "categoria": "vitral"
     },
     {
       "id": "vi7",
-      "title": "Colosal 345",
-      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
-      "color": "Satinado",
+      "title": "Sistema Colosal 345",
+      "description": " Puerta Corrediza Colosal 345, ensamblada con 3 perfiles con corte a 45 grados, unidas mediante escuadras de alineación y armado, proporcionan una mayor resistencia.",
+      "color": "XO - OX - XXX - OXXO",
       "precio": "0",
       "img": "img/colosal3.png",
       "categoria": "vitral"
