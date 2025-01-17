@@ -504,10 +504,10 @@
   "detalleProductos": [
     {
       "id": "vi1",
-      "title": "Colosal PC 2.6",
-      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
-      "color": "Satinado",
-      "precio": "5.000",
+      "title": "Sistema Colosal PC 2.6",
+      "description": " Puerta Corrediza Colosal 2.6, que cuenta  con elegante diseño de un cuerpo fijo y  una  nave  móvil,  con máxima  estanqueidad y seguridad, gracias al  diseño de sus perfiles y localización de  las felpas. La nave se desplaza en forma,  silenciosa y sin movimientos laterales,  sobre un riel angulado que amplia la  superficie de contacto con el  rodamiento, montado sobre balineras o  agujas para garantizar las cargas y ciclos  de operación.",
+      "color": "OX - XO - XX - XOX - OXXO - XXX",
+      "precio": "0",
       "img": "img/colosal.png",
       "categoria": "vitral"
     },
@@ -516,7 +516,7 @@
       "title": "Kimbaya",
       "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
       "color": "Satinado",
-      "precio": "5.000",
+      "precio": "0",
       "img": "img/kimbaya.png",
       "categoria": "vitral"
     },
@@ -525,7 +525,7 @@
       "title": "Sistema 744",
       "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
       "color": "Satinado",
-      "precio": "5.000",
+      "precio": "0",
       "img": "img/sistema744.png",
       "categoria": "vitral"
     },
@@ -534,7 +534,7 @@
       "title": "Sistema 8025",
       "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
       "color": "Satinado",
-      "precio": "5.000",
+      "precio": "0",
       "img": "img/sistema8025.png",
       "categoria": "vitral"
     },
@@ -543,7 +543,7 @@
       "title": "Astral 2.0",
       "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
       "color": "Satinado",
-      "precio": "5.000",
+      "precio": "0",
       "img": "img/astral20.png",
       "categoria": "vitral"
     },
@@ -552,7 +552,7 @@
       "title": "Astral 1.7",
       "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
       "color": "Satinado",
-      "precio": "5.000",
+      "precio": "0",
       "img": "img/astral.png",
       "categoria": "vitral"
     },
@@ -561,7 +561,7 @@
       "title": "Colosal 345",
       "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
       "color": "Satinado",
-      "precio": "5.000",
+      "precio": "0",
       "img": "img/colosal3.png",
       "categoria": "vitral"
     },
@@ -570,7 +570,7 @@
       "title": "Sistema 3890",
       "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
       "color": "Satinado",
-      "precio": "5.000",
+      "precio": "0",
       "img": "img/sistema3890.png",
       "categoria": "vitral"
     },
@@ -579,7 +579,7 @@
       "title": "Sistema Zinu",
       "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
       "color": "Satinado",
-      "precio": "5.000",
+      "precio": "0",
       "img": "img/zinu.png",
       "categoria": "vitral"
     },
@@ -588,7 +588,7 @@
       "title": "Sideral 2.4",
       "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
       "color": "Satinado",
-      "precio": "5.000",
+      "precio": "0",
       "img": "img/sideral.png",
       "categoria": "vitral"
     },
@@ -597,7 +597,7 @@
       "title": "Sistema Tairona",
       "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
       "color": "Satinado",
-      "precio": "5.000",
+      "precio": "0",
       "img": "img/tairona.png",
       "categoria": "vitral"
     },
@@ -606,7 +606,7 @@
       "title": "Sistema awa",
       "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
       "color": "Satinado",
-      "precio": "5.000",
+      "precio": "0",
       "img": "img/awa.png",
       "categoria": "vitral"
     },
