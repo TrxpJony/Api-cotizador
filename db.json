@@ -1692,172 +1692,330 @@
       "precio": "10.000",
       "img": "/img/img_productos/img_accesorios/herramientas/PLB001.png",
       "categoria": "herramientas"
-    }
-  ],
-  "discosv": [
-    {
-      "id": "dv1",
-      "title": "PLI006",
-      "description": "Grano 60",
-      "color": "Negro",
-      "precio": "2.000",
-      "img": "/img/img_productos/img_accesorios/discos/disco.png"
     },
     {
-      "id": "dv2",
-      "title": "PLI007",
-      "description": "Grano 80",
-      "color": "Negro",
-      "precio": "3.000",
-      "img": "/img/img_productos/img_accesorios/discos/disco.png"
-    },
-    {
-      "id": "dv3",
-      "title": "PLI008",
-      "description": "Grano 120",
-      "color": "Negro",
-      "precio": "4.000",
-      "img": "/img/img_productos/img_accesorios/discos/disco.png"
-    },
-    {
-      "id": "dv4",
-      "title": "PLI009",
-      "description": "Grano 300",
-      "color": "Negro",
-      "precio": "4.500",
-      "img": "/img/img_productos/img_accesorios/discos/disco.png"
-    },
-    {
-      "id": "dv5",
-      "title": "PLI010",
-      "description": "Grano 400",
-      "color": "Negro",
-      "precio": "6.500",
-      "img": "/img/img_productos/img_accesorios/discos/disco.png"
-    }
-  ],
-  "maquina": [
-    {
-      "id": "mq1",
-      "title": "PLI013",
-      "description": "Maquina de Disco",
-      "color": "Negro",
-      "precio": "120.500",
-      "img": "/img/img_productos/img_accesorios/maquina/PLI013.png"
-    },
-    {
-      "id": "mq2",
-      "title": "PLI014",
-      "description": "Plato Amarillo Adhesivo y Velcro",
-      "color": "Negro",
-      "precio": "6.500",
-      "img": "/img/img_productos/img_accesorios/maquina/PLI014.png"
-    }
-  ],
-  "herramientas": [
-    {
-      "id": "he1",
-      "title": "PPV001",
-      "description": "Pinza Plastica Pequeñas",
-      "color": "Satinado",
-      "precio": "12.500",
-      "img": "/img/img_productos/img_accesorios/herramientas/PPV001.png"
-    },
-    {
-      "id": "he2",
-      "title": "PPV002",
-      "description": "Pinza Plastica Grande",
-      "color": "Satinado",
-      "precio": "14.500",
-      "img": "/img/img_productos/img_accesorios/herramientas/PPV001.png"
-    },
-    {
-      "id": "he3",
-      "title": "PPV003",
-      "description": "Pinzas Para Vidrio",
-      "color": "Satinado",
-      "precio": "20.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PPV003.png"
-    },
-    {
-      "id": "he4",
-      "title": "PTY001",
-      "description": "Toyo Original",
-      "color": "Satinado",
-      "precio": "25.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PTY001.png"
-    },
-    {
-      "id": "he5",
-      "title": "PTY002",
-      "description": "Toyo Imitacion China",
-      "color": "Satinado",
-      "precio": "12.500",
-      "img": "/img/img_productos/img_accesorios/herramientas/PTY001.png"
-    },
-    {
-      "id": "he6",
-      "title": "PTY003",
-      "description": "Cabeza Toyo Original",
-      "color": "Satinado",
+      "id": "fa1",
+      "title": "PSC001",
+      "description": "Carro Importado 2 Rodachinas Acero",
+      "color": "Platinado",
       "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PTY003.png"
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC001.png",
+      "categoria": "Fachadas"
     },
     {
-      "id": "he7",
-      "title": "PTY004",
-      "description": "Cabeza Toyo Imitacion",
-      "color": "Satinado",
-      "precio": "5.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PTY003.png"
+      "id": "fa2",
+      "title": "PSC002",
+      "description": "Carro Importado 4 Rodachinas Acero",
+      "color": "Platinado",
+      "precio": "13.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC002.png",
+      "categoria": "Fachadas"
     },
     {
-      "id": "he8",
-      "title": "PCC001",
-      "description": "Repuesto Circular",
+      "id": "fa3",
+      "title": "PSC003",
+      "description": "Carro Importado 2 Rodachinas Aluminio",
+      "color": "Platinado",
+      "precio": "16.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC003.png",
+      "categoria": "Fachadas"
+    },
+    {
+      "id": "fa4",
+      "title": "PSC004",
+      "description": "Carro Importado 4 Rodachinas Aluminio",
+      "color": "Platinado",
+      "precio": "19.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC004.png",
+      "categoria": "Fachadas"
+    },
+    {
+      "id": "fa5",
+      "title": "PSC005",
+      "description": "Kit Sistema Rodadizo 4 Rodachinas",
+      "color": "Platinado",
+      "precio": "20.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC005.png",
+      "categoria": "Fachadas"
+    },
+    {
+      "id": "fa6",
+      "title": "PSC006",
+      "description": "Kit Sistema Rodadizo 4 Rodachinas",
+      "color": "Negro",
+      "precio": "20.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC006.png",
+      "categoria": "Fachadas"
+    },
+    {
+      "id": "fa7",
+      "title": "PSC007",
+      "description": "Sistema Corredizo 2 Puntos",
+      "color": "Dorado",
+      "precio": "15.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC007.png",
+      "categoria": "Fachadas"
+    },
+    {
+      "id": "fa8",
+      "title": "PSC008",
+      "description": "Sistema Para Escualizable",
+      "color": "Dorado",
+      "precio": "14.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC008.png",
+      "categoria": "Fachadas"
+    },
+    {
+      "id": "fa9",
+      "title": "ACD008",
+      "description": "Polea Doble 1 Punto",
       "color": "Satinado",
       "precio": "12.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PCC001.png"
+      "img": "/img/img_productos/img_accesorios/fachadas/ACD008.png",
+      "categoria": "Fachadas"
     },
     {
-      "id": "he9",
-      "title": "PCC002",
-      "description": "Circular",
-      "color": "Satinado",
-      "precio": "24.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PCC002.png"
+      "id": "fa10",
+      "title": "AFI010",
+      "description": "Fijo Marciano Sencillo Pequeño",
+      "color": "Dorado",
+      "precio": "12.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/AFI010.png",
+      "categoria": "Fachadas"
     },
     {
-      "id": "he10",
-      "title": "PF001",
-      "description": "Lampara de Fotocurado",
-      "color": "Satinado",
-      "precio": "28.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PF001.png"
-    },
-    {
-      "id": "he11",
-      "title": "PPS001",
-      "description": "Pistola para silicona",
-      "color": "Platinado - Naranja",
-      "precio": "22.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PPS001.png"
-    },
-    {
-      "id": "he12",
-      "title": "PBS001",
-      "description": "Bisturi",
-      "color": "Platinado",
+      "id": "fa11",
+      "title": "AFI011",
+      "description": "Fijo Marciano Sencillo Grande",
+      "color": "Dorado",
       "precio": "15.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PBS001.png"
+      "img": "/img/img_productos/img_accesorios/fachadas/AFI010.png",
+      "categoria": "Fachadas"
     },
     {
-      "id": "he13",
-      "title": "PLB001",
-      "description": "Llave Bristol Navaja X 7 Pc",
-      "color": "Platinado",
+      "id": "fa12",
+      "title": "AFI012",
+      "description": "Fijo Marciano Doble Grande",
+      "color": "Dorado",
+      "precio": "18.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/AFI012.png",
+      "categoria": "Fachadas"
+    },
+    {
+      "id": "fa13",
+      "title": "AFI004",
+      "description": "Fijo Marciano Doble Pequeño",
+      "color": "Dorado",
+      "precio": "20.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/AFI012.png",
+      "categoria": "Fachadas"
+    },
+    {
+      "id": "fa14",
+      "title": "AFI005",
+      "description": "Soporte de 3 Puntos Para Vitrina",
+      "color": "Dorado",
+      "precio": "22.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/AFI005.png",
+      "categoria": "Fachadas"
+    },
+    {
+      "id": "fa15",
+      "title": "API001",
+      "description": "Pie de Amigo Sencillo de 10cm con Tapa Escudo",
+      "color": "Dorado",
+      "precio": "16.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/API001.png",
+      "categoria": "Fachadas"
+    },
+    {
+      "id": "fa16",
+      "title": "API002",
+      "description": "Pie de Amigo Doble de 10cm con Tapa Escudo",
+      "color": "Dorado",
+      "precio": "22.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/API002.png",
+      "categoria": "Fachadas"
+    },
+    {
+      "id": "fa17",
+      "title": "PMA001",
+      "description": "Cajuela",
+      "color": "Dorado",
+      "precio": "22.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PMA001.png",
+      "categoria": "Fachadas"
+    },
+    {
+      "id": "fa17",
+      "title": "PSC007",
+      "description": "Guia de Rodillos",
+      "color": "Dorado",
+      "precio": "22.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC007.png",
+      "categoria": "Fachadas"
+    },
+    {
+      "id": "fa18",
+      "title": "ATS003",
+      "description": "Tope a Piso",
+      "color": "Dorado",
+      "precio": "12.000",
+      "img": "/img/img_productos/img_accesorios/fachadas/ATS003.png",
+      "categoria": "Fachadas"
+    },
+    {
+      "id": "ad1",
+      "title": "PSL001",
+      "description": "Silicona Tek Bond Para Espejos",
+      "color": "Negro",
       "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PLB001.png"
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL001.png",
+      "categoria": "Adhesivos"
+    },
+    {
+      "id": "ad2",
+      "title": "PSL002",
+      "description": "Silicona Tek Bond Neutra Negra",
+      "color": "Negro",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL002.png",
+      "categoria": "Adhesivos"
+    },
+    {
+      "id": "ad3",
+      "title": "PSL003",
+      "description": "Silicona Tek Bond",
+      "color": "Negro",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL003.png",
+      "categoria": "Adhesivos"
+    },
+    {
+      "id": "ad4",
+      "title": "PSL004",
+      "description": "Silicona Tek Bond Acetica Negra ",
+      "color": "Negro",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL004.png",
+      "categoria": "Adhesivos"
+    },
+    {
+      "id": "ad5",
+      "title": "PSL005",
+      "description": "Silicona Tek Bond Acetica Transparente ",
+      "color": "Transparente",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL005.png",
+      "categoria": "Adhesivos"
+    },
+    {
+      "id": "ad6",
+      "title": "PSL006",
+      "description": "Silicona Tek Bond Sella Grietas",
+      "color": "Negro",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL006.png",
+      "categoria": "Adhesivos"
+    },
+    {
+      "id": "ad7",
+      "title": "PSL007",
+      "description": "Silicona Tek Bond Acetica Pequeña 50 gr",
+      "color": "Negro",
+      "precio": "5.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL007.png",
+      "categoria": "Adhesivos"
+    },
+    {
+      "id": "ad8",
+      "title": "PSL008",
+      "description": "Protector de Bordes",
+      "color": "Negro",
+      "precio": "5.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL008.png",
+      "categoria": "Adhesivos"
+    },
+    {
+      "id": "ad9",
+      "title": "PCD001",
+      "description": "Vinipel",
+      "color": "Transparente",
+      "precio": "5.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PCD001.png",
+      "categoria": "Adhesivos"
+    },
+    {
+      "id": "ad10",
+      "title": "PCD002",
+      "description": "Cinta Doble Faz 20 mts",
+      "color": "Blanco",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PCD002.png",
+      "categoria": "Adhesivos"
+    },
+    {
+      "id": "ad11",
+      "title": "PCD003",
+      "description": "Cinta Doble Faz 33 mts",
+      "color": "Blanco",
+      "precio": "12.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PCD003.png",
+      "categoria": "Adhesivos"
+    },
+    {
+      "id": "ad12",
+      "title": "PCD004",
+      "description": "Cinta Acrilica Doble Faz 20 mts",
+      "color": "Blanco",
+      "precio": "18.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PCD004.png",
+      "categoria": "Adhesivos"
+    },
+    {
+      "id": "ad13",
+      "title": "PCD005",
+      "description": "Cinta Acrilica Doble Faz 1 mts",
+      "color": "Blanco",
+      "precio": "5.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PCD005.png",
+      "categoria": "Adhesivos"
+    },
+    {
+      "id": "ad14",
+      "title": "PCD006",
+      "description": "Cinta Acrilica Doble Faz 3 mts",
+      "color": "Blanco",
+      "precio": "9.000",
+      "img": "/img/img_productos/img_accesorios/adhesivos/PCD005.png",
+      "categoria": "Adhesivos"
+    },
+    {
+      "id": "fo1",
+      "title": "PF002",
+      "description": "Fotocurado de 3 ml con Activador",
+      "color": "Negro",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/fotocurado/PF002.png",
+      "categoria": "Fotocurados"
+    },
+    {
+      "id": "fo2",
+      "title": "PF003",
+      "description": "Fotocurado Permabondde 10 ml",
+      "color": "Negro",
+      "precio": "16.000",
+      "img": "/img/img_productos/img_accesorios/fotocurado/PF003.png",
+      "categoria": "Fotocurados"
+    },
+    {
+      "id": "fo3",
+      "title": "PF004",
+      "description": "Fotocurado Permabondde 50 ml",
+      "color": "Negro",
+      "precio": "22.000",
+      "img": "/img/img_productos/img_accesorios/fotocurado/PF004.png",
+      "categoria": "Fotocurados"
     }
   ],
   "fachadas": [
