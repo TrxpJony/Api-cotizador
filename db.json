@@ -309,13 +309,20 @@
       "title": "Sistema awa",
       "img": "img/awa.png",
       "categoria": "vitral"
+    },
+    {
+      "id": "espe1",
+      "title": "Espejo Redondo",
+      "img": "img/espejo1.png",
+      "categoria": "Espejos"
     }
   ],
   "tiposEspejos": [
     {
       "id": "espe1",
       "title": "Espejo Redondo",
-      "img": "img/espejo1.png"
+      "img": "img/espejo1.png",
+      "categoria": "Espejos"
     }
   ],
   "tiposAccesorios": [
