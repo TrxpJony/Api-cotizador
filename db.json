@@ -1170,304 +1170,195 @@
       "precio": "10.000",
       "img": "/img/img_productos/img_accesorios/cerraduras/APS001.png",
       "categoria": "cerraduras"
-    }
-  ],
-  "cerraduras": [
-    {
-      "id": "ce1",
-      "title": "ARE001",
-      "description": "Recibidor Grande",
-      "color": "Satinado",
-      "precio": "15.000",
-      "img": "/img/img_productos/img_accesorios/cerraduras/ARE001.png"
     },
     {
-      "id": "ce2",
-      "title": "ARE002",
-      "description": "Recibidor Grande Medio Punto",
+      "id": "br1",
+      "title": "PBR001",
+      "description": "Broca de 5 mm",
       "color": "Satinado",
-      "precio": "19.000",
-      "img": "/img/img_productos/img_accesorios/cerraduras/ARE002.png"
+      "precio": "7.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR001.png",
+      "categoria": "brocas"
     },
     {
-      "id": "ce3",
-      "title": "ARE003",
-      "description": "Recibidor Pequeño",
+      "id": "br2",
+      "title": "PBR002",
+      "description": "Broca de 6 mm",
       "color": "Satinado",
-      "precio": "12.000",
-      "img": "/img/img_productos/img_accesorios/cerraduras/ARE003.png"
+      "precio": "7.500",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR001.png",
+      "categoria": "brocas"
     },
     {
-      "id": "ce4",
-      "title": "ARE004",
-      "description": "Recibidor Pico Loro",
+      "id": "br3",
+      "title": "PBR003",
+      "description": "Broca de 8 mm",
       "color": "Satinado",
-      "precio": "15.000",
-      "img": "/img/img_productos/img_accesorios/cerraduras/ARE004.png"
+      "precio": "8.500",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR001.png",
+      "categoria": "brocas"
     },
     {
-      "id": "ce5",
-      "title": "AFA001",
-      "description": "Cerradura Pico Loro",
-      "color": "Satinado",
-      "precio": "28.000",
-      "img": "/img/img_productos/img_accesorios/cerraduras/AFA001.png"
-    },
-    {
-      "id": "ce6",
-      "title": "APC002",
-      "description": "Cerradura Rectangular Batiente",
-      "color": "Satinado",
-      "precio": "25.000",
-      "img": "/img/img_productos/img_accesorios/cerraduras/APC002.png"
-    },
-    {
-      "id": "ce7",
-      "title": "APC001",
-      "description": "Cerradura Punto Medio Esferica",
-      "color": "Satinado",
-      "precio": "18.000",
-      "img": "/img/img_productos/img_accesorios/cerraduras/APC001.png"
-    },
-    {
-      "id": "ce8",
-      "title": "PPC001",
-      "description": "Cerradura Media Luna",
-      "color": "Satinado",
-      "precio": "30.000",
-      "img": "/img/img_productos/img_accesorios/cerraduras/PPC001.png"
-    },
-    {
-      "id": "ce9",
-      "title": "AFA002",
-      "description": "Fabella a Piso con Platina",
-      "color": "Satinado",
-      "precio": "12.000",
-      "img": "/img/img_productos/img_accesorios/cerraduras/AFA002.png"
-    },
-    {
-      "id": "ce10",
-      "title": "APS001",
-      "description": "Portacerradura Cuadradro sin Chapa",
+      "id": "br4",
+      "title": "PBR004",
+      "description": "Broca de 10 mm",
       "color": "Satinado",
       "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/cerraduras/APS001.png"
-    }
-  ],
-  "soportes": [
-    {
-      "id": "so1",
-      "title": "PSE001",
-      "description": "Soporte Para Escritorio Chino",
-      "color": "Gris",
-      "precio": "7.000",
-      "img": "/img/img_productos/img_accesorios/soportes/PSE001.png",
-      "categoria": "soportes"
+      "img": "/img/img_productos/img_accesorios/brocas/PBR001.png",
+      "categoria": "brocas"
     },
     {
-      "id": "so2",
-      "title": "PSE002",
-      "description": "Soporte Para Escritorio Chino",
-      "color": "Blanco",
-      "precio": "7.000",
-      "img": "/img/img_productos/img_accesorios/soportes/PSE001.png",
-      "categoria": "soportes"
-    },
-    {
-      "id": "so3",
-      "title": "PSE003",
-      "description": "Soporte Para Escritorio Chino",
-      "color": "Negro",
-      "precio": "7.000",
-      "img": "/img/img_productos/img_accesorios/soportes/PSE001.png",
-      "categoria": "soportes"
-    },
-    {
-      "id": "so4",
-      "title": "PSE008",
-      "description": "Soporte Media Luna",
+      "id": "br5",
+      "title": "PBR005",
+      "description": "Broca de 12 mm",
       "color": "Satinado",
-      "precio": "8.000",
-      "img": "/img/img_productos/img_accesorios/soportes/PSE008.png",
-      "categoria": "soportes"
+      "precio": "11.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR005.png",
+      "categoria": "brocas"
     },
     {
-      "id": "so5",
-      "title": "PSE009",
-      "description": "Soporte Media Luna",
-      "color": "Negro",
-      "precio": "8.000",
-      "img": "/img/img_productos/img_accesorios/soportes/PSE008.png",
-      "categoria": "soportes"
-    },
-    {
-      "id": "so6",
-      "title": "PSE004",
-      "description": "Soporte Chino con Anclaje Lateral",
-      "color": "Satinado",
-      "precio": "6.000",
-      "img": "/img/img_productos/img_accesorios/soportes/PSE004.png",
-      "categoria": "soportes"
-    },
-    {
-      "id": "so7",
-      "title": "PSE005",
-      "description": "Soporte Para Escritorio Chino con Anclaje",
+      "id": "br6",
+      "title": "PBR006",
+      "description": "Broca de 14 mm",
       "color": "Satinado",
       "precio": "12.000",
-      "img": "/img/img_productos/img_accesorios/soportes/PSE005.png",
-      "categoria": "soportes"
+      "img": "/img/img_productos/img_accesorios/brocas/PBR005.png",
+      "categoria": "brocas"
     },
     {
-      "id": "so8",
-      "title": "PSO001",
-      "description": "Soporte Repisa Tipo Bala Pequeña",
+      "id": "br7",
+      "title": "PBR007",
+      "description": "Broca de 16 mm",
       "color": "Satinado",
-      "precio": "8.000",
-      "img": "/img/img_productos/img_accesorios/soportes/PSO001.png",
-      "categoria": "soportes"
+      "precio": "13.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR005.png",
+      "categoria": "brocas"
     },
     {
-      "id": "so9",
-      "title": "PSO002",
-      "description": "Soporte Repisa Entrepaño Sencillo",
+      "id": "br8",
+      "title": "PBR008",
+      "description": "Broca de 19 mm",
       "color": "Satinado",
-      "precio": "15.000",
-      "img": "/img/img_productos/img_accesorios/soportes/PSO002.png"
+      "precio": "14.500",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR005.png",
+      "categoria": "brocas"
     },
     {
-      "id": "so10",
-      "title": "PSO003",
-      "description": "Soporte Repisa Entrepaño Doble",
-      "color": "Satinado",
-      "precio": "22.000",
-      "img": "/img/img_productos/img_accesorios/soportes/PSO003.png"
-    },
-    {
-      "id": "so11",
-      "title": "PSO004",
-      "description": "Soporte Repisa Entrepaño a Muro",
-      "color": "Satinado",
-      "precio": "20.000",
-      "img": "/img/img_productos/img_accesorios/soportes/PSO004.png",
-      "categoria": "soportes"
-    },
-    {
-      "id": "so12",
-      "title": "SP001",
-      "description": "Soporte Repisa Pelicano Pequeño",
-      "color": "Satinado",
-      "precio": "12.000",
-      "img": "/img/img_productos/img_accesorios/soportes/SP001.png",
-      "categoria": "soportes"
-    },
-    {
-      "id": "so13",
-      "title": "SP002",
-      "description": "Soporte Repisa Pelicano Mediano",
-      "color": "Satinado - Cromado",
-      "precio": "15.000",
-      "img": "/img/img_productos/img_accesorios/soportes/SP001.png",
-      "categoria": "soportes"
-    },
-    {
-      "id": "so14",
-      "title": "SP003",
-      "description": "Soporte Repisa Pelicano Grande",
-      "color": "Satinado - Cromado",
-      "precio": "18.000",
-      "img": "/img/img_productos/img_accesorios/soportes/SP001.png",
-      "categoria": "soportes"
-    },
-    {
-      "id": "so15",
-      "title": "SP004",
-      "description": "Soporte Repisa Pelicano XL",
-      "color": "Satinado - Cromado",
-      "precio": "22.000",
-      "img": "/img/img_productos/img_accesorios/soportes/SP001.png",
-      "categoria": "soportes"
-    },
-    {
-      "id": "so16",
-      "title": "ASO001",
-      "description": "Soporte Repisa Curva Doble 20cm - 8/10 mm",
-      "color": "Satinado",
-      "precio": "18.000",
-      "img": "/img/img_productos/img_accesorios/soportes/ASO001.png",
-      "categoria": "soportes"
-    },
-    {
-      "id": "so17",
-      "title": "ASO003",
-      "description": "Soporte Repisa Curva Doble 25cm - 8/10 mm",
-      "color": "Satinado",
-      "precio": "21.000",
-      "img": "/img/img_productos/img_accesorios/soportes/ASO001.png",
-      "categoria": "soportes"
-    },
-    {
-      "id": "so18",
-      "title": "ASO005",
-      "description": "Soporte Barandilla Sencilla 38cm - 6/8 mm",
-      "color": "Satinado",
-      "precio": "25.000",
-      "img": "/img/img_productos/img_accesorios/soportes/ASO005.png",
-      "categoria": "soportes"
-    },
-    {
-      "id": "so19",
-      "title": "ASO006",
-      "description": "Soporte Barandilla Sencilla 48cm - 6/8 mm",
-      "color": "Satinado",
-      "precio": "28.000",
-      "img": "/img/img_productos/img_accesorios/soportes/ASO005.png",
-      "categoria": "soportes"
-    },
-    {
-      "id": "so20",
-      "title": "ASO007",
-      "description": "Soporte Barandilla Sencilla 58cm - 6/8 mm",
-      "color": "Satinado",
-      "precio": "32.000",
-      "img": "/img/img_productos/img_accesorios/soportes/ASO005.png",
-      "categoria": "soportes"
-    },
-    {
-      "id": "so21",
-      "title": "PDI001",
-      "description": "Dilatadores 12x25",
-      "color": "Satinado",
-      "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/soportes/PDI001.png",
-      "categoria": "soportes"
-    },
-    {
-      "id": "so22",
-      "title": "PDI002",
-      "description": "Dilatadores 19x25",
-      "color": "Satinado",
-      "precio": "12.000",
-      "img": "/img/img_productos/img_accesorios/soportes/PDI001.png",
-      "categoria": "soportes"
-    },
-    {
-      "id": "so23",
-      "title": "PDI003",
-      "description": "Dilatadores 15x30",
+      "id": "br9",
+      "title": "PBR009",
+      "description": "Broca de 21 mm",
       "color": "Satinado",
       "precio": "16.000",
-      "img": "/img/img_productos/img_accesorios/soportes/PDI001.png",
-      "categoria": "soportes"
+      "img": "/img/img_productos/img_accesorios/brocas/PBR009.png",
+      "categoria": "brocas"
     },
     {
-      "id": "so24",
-      "title": "PDI004",
-      "description": "Dilatadores 25x40",
+      "id": "br10",
+      "title": "PBR010",
+      "description": "Broca de 25 mm",
       "color": "Satinado",
-      "precio": "20.000",
-      "img": "/img/img_productos/img_accesorios/soportes/PDI001.png",
-      "categoria": "soportes"
+      "precio": "17.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR009.png",
+      "categoria": "brocas"
+    },
+    {
+      "id": "br11",
+      "title": "PBR011",
+      "description": "Broca de 50 mm",
+      "color": "Satinado",
+      "precio": "22.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR009.png",
+      "categoria": "brocas"
+    },
+    {
+      "id": "br12",
+      "title": "PBR012",
+      "description": "Broca de 65 mm",
+      "color": "Satinado",
+      "precio": "25.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR009.png",
+      "categoria": "brocas"
+    },
+    {
+      "id": "br13",
+      "title": "PBR013",
+      "description": "Broca de 70 mm",
+      "color": "Satinado",
+      "precio": "28.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR009.png",
+      "categoria": "brocas"
+    },
+    {
+      "id": "br14",
+      "title": "PBR014",
+      "description": "Broca de 85 mm",
+      "color": "Satinado",
+      "precio": "30.000",
+      "img": "/img/img_productos/img_accesorios/brocas/PBR009.png",
+      "categoria": "brocas"
+    },
+    {
+      "id": "ma1",
+      "title": "AMA003",
+      "description": "Manija Tipo Romana en Acero 20 - 40 cm",
+      "color": "Satinado",
+      "precio": "38.000",
+      "img": "/img/img_productos/img_accesorios/manijas/AMA003.png",
+      "categoria": "manijas"
+    },
+    {
+      "id": "ma2",
+      "title": "AMA004",
+      "description": "Manija Tipo Romana en Acero 40 - 60 cm",
+      "color": "Satinado",
+      "precio": "40.000",
+      "img": "/img/img_productos/img_accesorios/manijas/AMA003.png",
+      "categoria": "manijas"
+    },
+    {
+      "id": "ma3",
+      "title": "AMA005",
+      "description": "Manija Tipo Romana en Acero 60 - 80 cm",
+      "color": "Satinado",
+      "precio": "42.000",
+      "img": "/img/img_productos/img_accesorios/manijas/AMA003.png",
+      "categoria": "manijas"
+    },
+    {
+      "id": "ma4",
+      "title": "AMA006",
+      "description": "Manija Tipo Romana en Acero 80 - 100 cm",
+      "color": "Satinado",
+      "precio": "45.000",
+      "img": "/img/img_productos/img_accesorios/manijas/AMA003.png",
+      "categoria": "manijas"
+    },
+    {
+      "id": "ma5",
+      "title": "AMA008",
+      "description": "Manija Maciza 15 - 25 cm",
+      "color": "Satinado",
+      "precio": "35.000",
+      "img": "/img/img_productos/img_accesorios/manijas/AMA008.png",
+      "categoria": "manijas"
+    },
+    {
+      "id": "ma6",
+      "title": "AMA009",
+      "description": "Manija Maciza 20 - 30 cm",
+      "color": "Satinado",
+      "precio": "38.000",
+      "img": "/img/img_productos/img_accesorios/manijas/AMA008.png",
+      "categoria": "manijas"
+    },
+    {
+      "id": "ma7",
+      "title": "AMA010",
+      "description": "Manija Maciza 30 - 40 cm",
+      "color": "Satinado",
+      "precio": "42.000",
+      "img": "/img/img_productos/img_accesorios/manijas/AMA008.png",
+      "categoria": "manijas"
     }
   ],
   "brocas": [
@@ -1591,7 +1482,8 @@
       "description": "Manija Tipo Romana en Acero 20 - 40 cm",
       "color": "Satinado",
       "precio": "38.000",
-      "img": "/img/img_productos/img_accesorios/manijas/AMA003.png"
+      "img": "/img/img_productos/img_accesorios/manijas/AMA003.png",
+      "categoria": "manijas"
     },
     {
       "id": "ma2",
@@ -1599,7 +1491,8 @@
       "description": "Manija Tipo Romana en Acero 40 - 60 cm",
       "color": "Satinado",
       "precio": "40.000",
-      "img": "/img/img_productos/img_accesorios/manijas/AMA003.png"
+      "img": "/img/img_productos/img_accesorios/manijas/AMA003.png",
+      "categoria": "manijas"
     },
     {
       "id": "ma3",
@@ -1607,7 +1500,8 @@
       "description": "Manija Tipo Romana en Acero 60 - 80 cm",
       "color": "Satinado",
       "precio": "42.000",
-      "img": "/img/img_productos/img_accesorios/manijas/AMA003.png"
+      "img": "/img/img_productos/img_accesorios/manijas/AMA003.png",
+      "categoria": "manijas"
     },
     {
       "id": "ma4",
@@ -1615,7 +1509,8 @@
       "description": "Manija Tipo Romana en Acero 80 - 100 cm",
       "color": "Satinado",
       "precio": "45.000",
-      "img": "/img/img_productos/img_accesorios/manijas/AMA003.png"
+      "img": "/img/img_productos/img_accesorios/manijas/AMA003.png",
+      "categoria": "manijas"
     },
     {
       "id": "ma5",
@@ -1623,7 +1518,8 @@
       "description": "Manija Maciza 15 - 25 cm",
       "color": "Satinado",
       "precio": "35.000",
-      "img": "/img/img_productos/img_accesorios/manijas/AMA008.png"
+      "img": "/img/img_productos/img_accesorios/manijas/AMA008.png",
+      "categoria": "manijas"
     },
     {
       "id": "ma6",
@@ -1631,7 +1527,8 @@
       "description": "Manija Maciza 20 - 30 cm",
       "color": "Satinado",
       "precio": "38.000",
-      "img": "/img/img_productos/img_accesorios/manijas/AMA008.png"
+      "img": "/img/img_productos/img_accesorios/manijas/AMA008.png",
+      "categoria": "manijas"
     },
     {
       "id": "ma7",
@@ -1639,7 +1536,8 @@
       "description": "Manija Maciza 30 - 40 cm",
       "color": "Satinado",
       "precio": "42.000",
-      "img": "/img/img_productos/img_accesorios/manijas/AMA008.png"
+      "img": "/img/img_productos/img_accesorios/manijas/AMA008.png",
+      "categoria": "manijas"
     }
   ],
   "chupas": [
