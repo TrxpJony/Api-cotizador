@@ -2,8 +2,8 @@
   "usuarios": [
     {
       "id": "001",
-      "usuario": "1",
-      "contraseña": "1",
+      "usuario": "VarteSCotizador",
+      "contraseña": "ValArteSAS3204391328*/",
       "rol": "cotizador"
     }
   ],
@@ -24,6 +24,35 @@
     },
     {
       "id": "p2",
+      "title": "Espejos",
+      "categoria": "espejos",
+      "tipo":"cotizar",
+      "img": "/img/espejo1.png"
+    },
+    {
+      "id": "p3",
+      "title": "Accesorios",
+      "categoria": "accesorios",
+      "img": "/img/img_productos/accesorios.png"
+    }
+  ],
+  "catalogo": [
+    {
+      "id": "vitral",
+      "title": "Catalogo Vitral",
+      "categoria": "espejos",
+      "tipo":"cotizar",
+      "img": "/img/img_productos/vitral.png"
+    },
+    {
+      "id": "skyleds",
+      "title": "Catalogo SKYLEDS",
+      "categoria": "skyleds",
+      "tipo": "cotizar",
+      "img": "/img/img_productos/skyleds.png"
+    },
+    {
+      "id": "espejos",
       "title": "Espejos",
       "categoria": "espejos",
       "tipo":"cotizar",
