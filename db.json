@@ -578,6 +578,96 @@
       "precio": "10.000",
       "img": "/img/img_productos/img_accesorios/batientes/ama001.png",
       "categoria": "batientes"
+    },
+    {
+      "id": "bi1",
+      "title": "PBI001",
+      "description": "Bisagra Sobreponer Vitrina",
+      "color": "Satinado",
+      "precio": "5.000",
+      "img": "/img/img_productos/img_accesorios/bisagras/PBI001.png",
+      "categoria": "bisagras"
+    },
+    {
+      "id": "bi2",
+      "title": "PBI002",
+      "description": "Kit Bisagra de Sobreponer Sencilla",
+      "color": "Satinado",
+      "precio": "15.000",
+      "img": "/img/img_productos/img_accesorios/bisagras/PBI002.png",
+      "categoria": "bisagras"
+    },
+    {
+      "id": "bi3",
+      "title": "PBI003",
+      "description": "Kit Bisagra de Sobreponer Doble Manija",
+      "color": "Satinado",
+      "precio": "20.000",
+      "img": "/img/img_productos/img_accesorios/bisagras/PBI003.png",
+      "categoria": "bisagras"
+    },
+    {
+      "id": "bi4",
+      "title": "PBI004",
+      "description": "Bisagra Pivotada Ita",
+      "color": "Satinado",
+      "precio": "8.000",
+      "img": "/img/img_productos/img_accesorios/bisagras/PBI004.png",
+      "categoria": "bisagras"
+    },
+    {
+      "id": "bi5",
+      "title": "PBI005",
+      "description": "Bisagra Speedy M60",
+      "color": "Satinado",
+      "precio": "18.000",
+      "img": "/img/img_productos/img_accesorios/bisagras/PBI005.png",
+      "categoria": "bisagras"
+    },
+    {
+      "id": "bi6",
+      "title": "AEP001",
+      "description": "Chapeta de Giro Grande",
+      "color": "Satinado",
+      "precio": "19.000",
+      "img": "/img/img_productos/img_accesorios/bisagras/AEP001.png",
+      "categoria": "bisagras"
+    },
+    {
+      "id": "bi7",
+      "title": "AEP002",
+      "description": "Chapeta de Giro Mediano",
+      "color": "Satinado",
+      "precio": "17.000",
+      "img": "/img/img_productos/img_accesorios/bisagras/AEP001.png",
+      "categoria": "bisagras"
+    },
+    {
+      "id": "bi8",
+      "title": "AEP003",
+      "description": "Chapeta de Giro Pequeño",
+      "color": "Satinado",
+      "precio": "15.000",
+      "img": "/img/img_productos/img_accesorios/bisagras/AEP001.png",
+      "categoria": "bisagras"
+    },
+    {
+      "id": "bi9",
+      "title": "ABT001",
+      "description": "Botella Batiente Tipo Bala 1x50mm",
+      "color": "Satinado",
+      "precio": "12.000",
+      "img": "/img/img_productos/img_accesorios/bisagras/ABT001.png",
+      "categoria": "bisagras"
+    },
+    {
+      "id": "bi10",
+      "title": "ABT002",
+      "description": "Botella de Giro",
+      "color": "Satinado",
+      "precio": "18.000",
+      "img": "/img/img_productos/img_accesorios/bisagras/ABT002.png",
+      "categoria": "bisagras"
     }
   ],
   "bisagras": [
