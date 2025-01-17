@@ -2,8 +2,8 @@
   "usuarios": [
     {
       "id": "001",
-      "usuario": "VarteSCotizador",
-      "contraseña": "ValArteSAS3204391328*/",
+      "usuario": "1",
+      "contraseña": "1",
       "rol": "cotizador"
     }
   ],
