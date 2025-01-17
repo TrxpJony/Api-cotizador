@@ -3,7 +3,8 @@
     {
       "id": "001",
       "usuario": "VarteSCotizador",
-      "contraseña": "ValArteSAS3204391328*/"
+      "contraseña": "ValArteSAS3204391328*/",
+      "rol": "cotizador"
     }
   ],
   "Productos": [
