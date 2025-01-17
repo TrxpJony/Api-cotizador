@@ -2086,7 +2086,106 @@
       "description": "Luz COB neutra nos ofrece una iluminación lineal gracias a sus 320 o 480 leds por metro, ideal para canaletas y proyectos arquitectónicos.",
       "color": "Neutro",
       "precio": 20000,
+      "img": "/img/img_productos/img_skyleds/luzled110/luz110cneutra.png",
+      "categoria": "luzled110"
+    },
+    {
+      "id": "ll7",
+      "title": "Luz Calida 12 v",
+      "description": "Cinta led 12v de 120 leds por metro, color cálida, ideal para los espacios que quieran resaltar o decorar.",
+      "color": "Calido",
+      "precio": 15000,
+      "img": "/img/img_productos/img_skyleds/luzled110/luz12calida.png",
+      "categoria": "luzled12"
+    },
+    {
+      "id": "ll8",
+      "title": "Luz Dual 12 v",
+      "description": " Cinta led 12v de 120 leds por metros dual, ideal para los espacios que quieran resaltar o decorar.",
+      "color": "Blanco - Calido - Neutro",
+      "precio": 16000,
+      "img": "/img/img_productos/img_skyleds/luzled110/luzdual12.png",
+      "categoria": "luzled12"
+    },
+    {
+      "id": "ll9",
+      "title": "Luz COB Blanca 12 v",
+      "description": "Luz COB blanca nos ofrece una iluminación lineal gracias a sus 320 o 480 leds por metro, ideal para canaletas y proyectos arquitectónicos.",
+      "color": "Blanco",
+      "precio": 4000,
       "img": "/img/img_productos/img_skyleds/luzled110/luz110cblanca.png",
+      "categoria": "luzled110"
+    },
+    {
+      "id": "ll10",
+      "title": "Luz COB Calida 12 v",
+      "description": "Luz COB cálida nos ofrece una iluminación lineal gracias a sus 320 o 480 leds por metro, ideal para canaletas y proyectos arquitectónicos.",
+      "color": "Calido",
+      "precio": 8000,
+      "img": "/img/img_productos/img_skyleds/luzled110/luz110ccalida.png",
+      "categoria": "luzled110"
+    },
+    {
+      "id": "ll11",
+      "title": "Luz COB Neutra 12 v",
+      "description": "Luz COB neutra nos ofrece una iluminación lineal gracias a sus 320 o 480 leds por metro, ideal para canaletas y proyectos arquitectónicos.",
+      "color": "Neutro",
+      "precio": 10000,
+      "img": "/img/img_productos/img_skyleds/luzled110/luz110cneutra.png",
+      "categoria": "luzled110"
+    },
+    {
+      "id": "ll12",
+      "title": "Luz Calida 240 Leds  12 v",
+      "description": "Cinta led 12v de 240 leds por metros color cálida, logrando una mayor intensidad, ideal para los espacios que quieran resaltar o decorar.",
+      "color": "Calido",
+      "precio": 13000,
+      "img": "/img/img_productos/img_skyleds/luzled110/luz240calida.png",
+      "categoria": "luzled110"
+    },
+    {
+      "id": "ll13",
+      "title": "Luz Blanca 240 Leds  12 v",
+      "description": "Cinta led 12v de 240 leds por metros color blanco, logrando una mayor intensidad, ideal para los espacios que quieran resaltar o decorar.",
+      "color": "Blanco",
+      "precio": 10000,
+      "img": "/img/img_productos/img_skyleds/luzled110/luz240blanca.png",
+      "categoria": "luzled110"
+    },
+    {
+      "id": "ll14",
+      "title": "Luz Neutra 240 Leds  12 v",
+      "description": "Cinta led 12v de 240 leds por metros color Neutro, logrando una mayor intensidad, ideal para los espacios que quieran resaltar o decorar.",
+      "color": "Neutro",
+      "precio": 12000,
+      "img": "/img/img_productos/img_skyleds/luzled110/luz240neutra.png",
+      "categoria": "luzled110"
+    },
+    {
+      "id": "ll15",
+      "title": "Luz Dual 180 Leds 12 v",
+      "description": "Cinta led 12v de 180 leds por metros, logrando una mayor intensidad, ideal para los espacios que quieran resaltar o decorar.",
+      "color": "Blanco - Calido - Neutro",
+      "precio": 18000,
+      "img": "/img/img_productos/img_skyleds/luzled110/luzdual.png",
+      "categoria": "luzled110"
+    },
+    {
+      "id": "ll16",
+      "title": "Luz RGB Para Sensor",
+      "description": "Luz RGB con todos lo colores, apto solo para el sensor RGB (NO INCLUYE SENSOR), con control de aplicación y diferentes modos de luz.",
+      "color": "Blanco - Calido - Neutro",
+      "precio": 22000,
+      "img": "/img/img_productos/img_skyleds/luzled110/luzrgb.png",
+      "categoria": "luzled110"
+    },
+    {
+      "id": "ll17",
+      "title": "Luz ARP 12 v",
+      "description": "Luz ARP, apta solo para el sensor ARP (NO INCLUYE SENSOR), de control touch.",
+      "color": "Azul - Rosado - Morado",
+      "precio": 16000,
+      "img": "/img/img_productos/img_skyleds/luzled110/luzarp.png",
       "categoria": "luzled110"
     }
   ]
