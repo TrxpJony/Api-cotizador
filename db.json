@@ -1512,148 +1512,186 @@
       "precio": "8.500",
       "img": "/img/img_productos/img_accesorios/lijas/lija.png",
       "categoria": "lijas"
-    }
-  ],
-  "chupas": [
-    {
-      "id": "ch1",
-      "title": "PCH001",
-      "description": "Chupa 1 ventoza",
-      "color": "Satinado",
-      "precio": "12.000",
-      "img": "/img/img_productos/img_accesorios/chupas/PCH001.png"
     },
     {
-      "id": "ch2",
-      "title": "PCH003",
-      "description": "Chupa de 2 Soportes",
-      "color": "Satinado",
-      "precio": "15.000",
-      "img": "/img/img_productos/img_accesorios/chupas/PCH003.png"
-    },
-    {
-      "id": "ch3",
-      "title": "PCH004",
-      "description": "Chupa de 3 Soportes",
-      "color": "Satinado",
-      "precio": "18.000",
-      "img": "/img/img_productos/img_accesorios/chupas/PCH004.png"
-    },
-    {
-      "id": "ch4",
-      "title": "PCH002",
-      "description": "Ventosa",
-      "color": "Satinado",
-      "precio": "5.000",
-      "img": "/img/img_productos/img_accesorios/chupas/PCH002.png"
-    }
-  ],
-  "deslizantes": [
-    {
-      "id": "de1",
-      "title": "ACD001",
-      "description": "Kit Sistema Redondo",
-      "color": "Satinado",
-      "precio": "29.000",
-      "img": "/img/img_productos/img_accesorios/deslizantes/ACD001.png"
-    },
-    {
-      "id": "de2",
-      "title": "ACD002",
-      "description": "Kit Sistema Hueso",
-      "color": "Satinado - Negro",
-      "precio": "25.000",
-      "img": "/img/img_productos/img_accesorios/deslizantes/ACD002.png"
-    },
-    {
-      "id": "de3",
-      "title": "ACD004",
-      "description": "Kit Sistema J",
-      "color": "Satinado - Negro",
-      "precio": "25.000",
-      "img": "/img/img_productos/img_accesorios/deslizantes/ACD004.png"
-    },
-    {
-      "id": "de4",
-      "title": "ACD005",
-      "description": "Kit Sistema Garra",
-      "color": "Satinado - Negro",
-      "precio": "27.000",
-      "img": "/img/img_productos/img_accesorios/deslizantes/ACD005.png"
-    },
-    {
-      "id": "de5",
-      "title": "ACD006",
-      "description": "MD 40",
-      "color": "Satinado - Negro",
-      "precio": "25.000",
-      "img": "/img/img_productos/img_accesorios/deslizantes/ACD006.png"
-    },
-    {
-      "id": "de5",
-      "title": "ACD007",
-      "description": "MD 30",
-      "color": "Satinado - Negro",
-      "precio": "22.000",
-      "img": "/img/img_productos/img_accesorios/deslizantes/ACD006.png"
-    }
-  ],
-  "lijas": [
-    {
-      "id": "li1",
+      "id": "dv1",
       "title": "PLI006",
-      "description": "Adhesivo Grano 60",
+      "description": "Grano 60",
       "color": "Negro",
       "precio": "2.000",
-      "img": "/img/img_productos/img_accesorios/lijas/lija.png"
+      "img": "/img/img_productos/img_accesorios/discos/disco.png",
+      "categoria": "discosv"
     },
     {
-      "id": "li2",
+      "id": "dv2",
       "title": "PLI007",
-      "description": "Adhesivo Grano 80",
+      "description": "Grano 80",
       "color": "Negro",
       "precio": "3.000",
-      "img": "/img/img_productos/img_accesorios/lijas/lija.png"
+      "img": "/img/img_productos/img_accesorios/discos/disco.png",
+      "categoria": "discosv"
     },
     {
-      "id": "li3",
+      "id": "dv3",
       "title": "PLI008",
-      "description": "Adhesivo Grano 100",
+      "description": "Grano 120",
       "color": "Negro",
       "precio": "4.000",
-      "img": "/img/img_productos/img_accesorios/lijas/lija.png"
+      "img": "/img/img_productos/img_accesorios/discos/disco.png",
+      "categoria": "discosv"
     },
     {
-      "id": "li4",
+      "id": "dv4",
       "title": "PLI009",
-      "description": "Adhesivo Grano 120",
+      "description": "Grano 300",
       "color": "Negro",
       "precio": "4.500",
-      "img": "/img/img_productos/img_accesorios/lijas/lija.png"
+      "img": "/img/img_productos/img_accesorios/discos/disco.png",
+      "categoria": "discosv"
     },
     {
-      "id": "li5",
+      "id": "dv5",
       "title": "PLI010",
-      "description": "Adhesivo Grano 400",
+      "description": "Grano 400",
       "color": "Negro",
       "precio": "6.500",
-      "img": "/img/img_productos/img_accesorios/lijas/lija.png"
+      "img": "/img/img_productos/img_accesorios/discos/disco.png",
+      "categoria": "discosv"
     },
     {
-      "id": "li6",
-      "title": "PLI011",
-      "description": "Velcro Grano 60",
+      "id": "mq1",
+      "title": "PLI013",
+      "description": "Maquina de Disco",
       "color": "Negro",
-      "precio": "4.500",
-      "img": "/img/img_productos/img_accesorios/lijas/lija.png"
+      "precio": "120.500",
+      "img": "/img/img_productos/img_accesorios/maquina/PLI013.png",
+      "categoria": "maquina"
     },
     {
-      "id": "li7",
-      "title": "PLI012",
-      "description": "Velcro Grano 320",
+      "id": "mq2",
+      "title": "PLI014",
+      "description": "Plato Amarillo Adhesivo y Velcro",
       "color": "Negro",
-      "precio": "8.500",
-      "img": "/img/img_productos/img_accesorios/lijas/lija.png"
+      "precio": "6.500",
+      "img": "/img/img_productos/img_accesorios/maquina/PLI014.png",
+      "categoria": "maquina"
+    },
+    {
+      "id": "he1",
+      "title": "PPV001",
+      "description": "Pinza Plastica Pequeñas",
+      "color": "Satinado",
+      "precio": "12.500",
+      "img": "/img/img_productos/img_accesorios/herramientas/PPV001.png",
+      "categoria": "herramientas"
+    },
+    {
+      "id": "he2",
+      "title": "PPV002",
+      "description": "Pinza Plastica Grande",
+      "color": "Satinado",
+      "precio": "14.500",
+      "img": "/img/img_productos/img_accesorios/herramientas/PPV001.png",
+      "categoria": "herramientas"
+    },
+    {
+      "id": "he3",
+      "title": "PPV003",
+      "description": "Pinzas Para Vidrio",
+      "color": "Satinado",
+      "precio": "20.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PPV003.png",
+      "categoria": "herramientas"
+    },
+    {
+      "id": "he4",
+      "title": "PTY001",
+      "description": "Toyo Original",
+      "color": "Satinado",
+      "precio": "25.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PTY001.png",
+      "categoria": "herramientas"
+    },
+    {
+      "id": "he5",
+      "title": "PTY002",
+      "description": "Toyo Imitacion China",
+      "color": "Satinado",
+      "precio": "12.500",
+      "img": "/img/img_productos/img_accesorios/herramientas/PTY001.png",
+      "categoria": "herramientas"
+    },
+    {
+      "id": "he6",
+      "title": "PTY003",
+      "description": "Cabeza Toyo Original",
+      "color": "Satinado",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PTY003.png",
+      "categoria": "herramientas"
+    },
+    {
+      "id": "he7",
+      "title": "PTY004",
+      "description": "Cabeza Toyo Imitacion",
+      "color": "Satinado",
+      "precio": "5.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PTY003.png",
+      "categoria": "herramientas"
+    },
+    {
+      "id": "he8",
+      "title": "PCC001",
+      "description": "Repuesto Circular",
+      "color": "Satinado",
+      "precio": "12.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PCC001.png",
+      "categoria": "herramientas"
+    },
+    {
+      "id": "he9",
+      "title": "PCC002",
+      "description": "Circular",
+      "color": "Satinado",
+      "precio": "24.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PCC002.png",
+      "categoria": "herramientas"
+    },
+    {
+      "id": "he10",
+      "title": "PF001",
+      "description": "Lampara de Fotocurado",
+      "color": "Satinado",
+      "precio": "28.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PF001.png",
+      "categoria": "herramientas"
+    },
+    {
+      "id": "he11",
+      "title": "PPS001",
+      "description": "Pistola para silicona",
+      "color": "Platinado - Naranja",
+      "precio": "22.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PPS001.png",
+      "categoria": "herramientas"
+    },
+    {
+      "id": "he12",
+      "title": "PBS001",
+      "description": "Bisturi",
+      "color": "Platinado",
+      "precio": "15.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PBS001.png",
+      "categoria": "herramientas"
+    },
+    {
+      "id": "he13",
+      "title": "PLB001",
+      "description": "Llave Bristol Navaja X 7 Pc",
+      "color": "Platinado",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/herramientas/PLB001.png",
+      "categoria": "herramientas"
     }
   ],
   "discosv": [
