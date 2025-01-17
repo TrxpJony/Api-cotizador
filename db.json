@@ -241,62 +241,74 @@
     {
       "id": "col",
       "title": "Colosal PC 2.6",
-      "img": "img/colosal.png"
+      "img": "img/colosal.png",
+      "categoria": "vitral"
     },
     {
       "id": "kim",
       "title": "Kimbaya",
-      "img": "img/kimbaya.png"
+      "img": "img/kimbaya.png",
+      "categoria": "vitral"
     },
     {
       "id": "744",
       "title": "Sistema 744",
-      "img": "img/sistema744.png"
+      "img": "img/sistema744.png",
+      "categoria": "vitral"
     },
     {
       "id": "8025",
       "title": "Sistema 8025",
-      "img": "img/sistema8025.png"
+      "img": "img/sistema8025.png",
+      "categoria": "vitral"
     },
     {
       "id": "ast",
       "title": "Astral 2.0",
-      "img": "img/astral20.png"
+      "img": "img/astral20.png",
+      "categoria": "vitral"
     },
     {
       "id": "ast17",
       "title": "Astral 1.7",
-      "img": "img/astral.png"
+      "img": "img/astral.png",
+      "categoria": "vitral"
     },
     {
       "id": "c345",
       "title": "Colosal 345",
-      "img": "img/colosal3.png"
+      "img": "img/colosal3.png",
+      "categoria": "vitral"
     },
     {
       "id": "s3890",
       "title": "Sistema 3890",
-      "img": "img/sistema3890.png"
+      "img": "img/sistema3890.png",
+      "categoria": "vitral"
     },
     {
       "id": "zin",
       "title": "Sistema Zinu",
-      "img": "img/zinu.png"
+      "img": "img/zinu.png",
+      "categoria": "vitral"
     },
     {
       "id": "sid",
       "title": "Sideral 2.4",
-      "img": "img/sideral.png"
+      "img": "img/sideral.png",
+      "categoria": "vitral"
     },
     {
       "id": "tai",
       "title": "Sistema Tairona",
-      "img": "img/tairona.png"
+      "img": "img/tairona.png",
+      "categoria": "vitral"
     },
     {
       "id": "awa",
       "title": "Sistema awa",
-      "img": "img/awa.png"
+      "img": "img/awa.png",
+      "categoria": "vitral"
     }
   ],
   "tiposEspejos": [
