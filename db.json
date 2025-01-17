@@ -2019,7 +2019,7 @@
     },
         {
       "id": "ll2",
-      "title": "Luz Blanca a 110 v",
+      "title": "Luz Blanca 110 v",
       "description": "Luz blanca a 110v directa a la corriente, regalándonos así la mayor intensidad en cada metro.",
       "color": "Blanco",
       "precio": 5000,
@@ -2028,7 +2028,7 @@
     },
     {
       "id": "ll1",
-      "title": "Luz Calida a 110 v",
+      "title": "Luz Calida 110 v",
       "description": "Luz Calida a 110v directa a la corriente, regalándonos así la mayor intensidad en cada metro.",
       "color": "Calido",
       "precio": 8000,
@@ -2037,7 +2037,7 @@
     },
     {
       "id": "ll3",
-      "title": "Luz Neutra a 110 v",
+      "title": "Luz Neutra 110 v",
       "description": "Luz neutra a 110v directa a la corriente, regalándonos así la mayor intensidad en cada metro.",
       "color": "Neutro",
       "precio": 10000,
@@ -2060,6 +2060,33 @@
       "color": "Calido",
       "precio": 14000,
       "img": "/img/img_productos/img_skyleds/luzled110/luz110dcalida.png",
+      "categoria": "luzled110"
+    },
+    {
+      "id": "ll6",
+      "title": "Luz COB Blanca 110 v",
+      "description": "Luz COB blanca nos ofrece una iluminación lineal gracias a sus 320 o 480 leds por metro, ideal para canaletas y proyectos arquitectónicos.",
+      "color": "Blanco",
+      "precio": 14000,
+      "img": "/img/img_productos/img_skyleds/luzled110/luz110dcblanca.png",
+      "categoria": "luzled110"
+    },
+    {
+      "id": "ll6",
+      "title": "Luz COB Calida 110 v",
+      "description": "Luz COB cálida nos ofrece una iluminación lineal gracias a sus 320 o 480 leds por metro, ideal para canaletas y proyectos arquitectónicos.",
+      "color": "Calido",
+      "precio": 18000,
+      "img": "/img/img_productos/img_skyleds/luzled110/luz110dccalida.png",
+      "categoria": "luzled110"
+    },
+    {
+      "id": "ll6",
+      "title": "Luz COB Neutra 110 v",
+      "description": "Luz COB neutra nos ofrece una iluminación lineal gracias a sus 320 o 480 leds por metro, ideal para canaletas y proyectos arquitectónicos.",
+      "color": "Neutro",
+      "precio": 20000,
+      "img": "/img/img_productos/img_skyleds/luzled110/luz110dcneutra.png",
       "categoria": "luzled110"
     }
   ]
