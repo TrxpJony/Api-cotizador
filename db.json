@@ -668,6 +668,204 @@
       "precio": "18.000",
       "img": "/img/img_productos/img_accesorios/bisagras/ABT002.png",
       "categoria": "bisagras"
+    },
+    {
+      "id": "pa1",
+      "title": "PVC001",
+      "description": "Pasador Sobreponer Sencillo",
+      "color": "Satinado",
+      "precio": "20.000",
+      "img": "/img/img_productos/img_accesorios/pasadores/PVC001.png",
+      "categoria": "pasadores"
+    },
+    {
+      "id": "pa2",
+      "title": "PVC002",
+      "description": "Pasador Sobreponer Cuadrado",
+      "color": "Satinado",
+      "precio": "28.000",
+      "img": "/img/img_productos/img_accesorios/pasadores/PVC002.png",
+      "categoria": "pasadores"
+    },
+    {
+      "id": "pa3",
+      "title": "PVC003",
+      "description": "Pasador Sobreponer Cerrucho",
+      "color": "Satinado",
+      "precio": "15.000",
+      "img": "/img/img_productos/img_accesorios/pasadores/PVC003.png",
+      "categoria": "pasadores"
+    },
+    {
+      "id": "pa4",
+      "title": "PVC004",
+      "description": "Chapa de Ombrigo Vitrina",
+      "color": "Satinado",
+      "precio": "9.000",
+      "img": "/img/img_productos/img_accesorios/pasadores/PVC004.png",
+      "categoria": "pasadores"
+    },
+    {
+      "id": "di1",
+      "title": "PGU001",
+      "description": "Guia Sencilla",
+      "color": "Cristal",
+      "precio": "5.000",
+      "img": "/img/img_productos/img_accesorios/divisiones/PGU001.png",
+      "categoria": "divisiones"
+    },
+    {
+      "id": "di2",
+      "title": "PGU002",
+      "description": "Guia Sencilla",
+      "color": "Enchapada",
+      "precio": "6.000",
+      "img": "/img/img_productos/img_accesorios/divisiones/PGU001.png",
+      "categoria": "divisiones"
+    },
+    {
+      "id": "di3",
+      "title": "PGU003",
+      "description": "Guia Doble",
+      "color": "Cristal",
+      "precio": "8.000",
+      "img": "/img/img_productos/img_accesorios/divisiones/PGU003.png",
+      "categoria": "divisiones"
+    },
+    {
+      "id": "di4",
+      "title": "PGU004",
+      "description": "Guia Doble",
+      "color": "Enchapada",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/divisiones/PGU003.png",
+      "categoria": "divisiones"
+    },
+    {
+      "id": "di5",
+      "title": "ABO001",
+      "description": "Boton Toallero",
+      "color": "Satinado",
+      "precio": "15.000",
+      "img": "/img/img_productos/img_accesorios/divisiones/ABO001.png",
+      "categoria": "divisiones"
+    },
+    {
+      "id": "di6",
+      "title": "ABO002",
+      "description": "Boton Toallero",
+      "color": "Negro",
+      "precio": "15.000",
+      "img": "/img/img_productos/img_accesorios/divisiones/ABO001.png",
+      "categoria": "divisiones"
+    },
+    {
+      "id": "di7",
+      "title": "ABO003",
+      "description": "Boton de 3/4 Doble Redondo",
+      "color": "Satinado",
+      "precio": "12.000",
+      "img": "/img/img_productos/img_accesorios/divisiones/ABO003.png",
+      "categoria": "divisiones"
+    },
+    {
+      "id": "di8",
+      "title": "ABO004",
+      "description": "Boton de 3/4 Tapa Sencilla",
+      "color": "Satinado",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/divisiones/ABO003.png",
+      "categoria": "divisiones"
+    },
+    {
+      "id": "di9",
+      "title": "ABO005",
+      "description": "Boton de 3/4",
+      "color": "Satinado",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/divisiones/ABO003.png",
+      "categoria": "divisiones"
+    },
+    {
+      "id": "di10",
+      "title": "ATS001",
+      "description": "Tope Para Sistema Deslizante",
+      "color": "Satinado",
+      "precio": "8.000",
+      "img": "/img/img_productos/img_accesorios/divisiones/ATS001.png",
+      "categoria": "divisiones"
+    },
+    {
+      "id": "di11",
+      "title": "ATS002",
+      "description": "Tope Para Sistema Deslizante",
+      "color": "Negro",
+      "precio": "10.000",
+      "img": "/img/img_productos/img_accesorios/divisiones/ATS001.png",
+      "categoria": "divisiones"
+    },
+    {
+      "id": "di12",
+      "title": "PSI001",
+      "description": "Sillar En aluminio X 6 mts",
+      "color": "Satinado",
+      "precio": "66.000",
+      "img": "/img/img_productos/img_accesorios/divisiones/PSI001.png",
+      "categoria": "divisiones"
+    },
+    {
+      "id": "di13",
+      "title": "PRI001",
+      "description": "Riel Para Sistemas Corredisos X 6 mts",
+      "color": "Satinado",
+      "precio": "60.000",
+      "img": "/img/img_productos/img_accesorios/divisiones/PRI001.png",
+      "categoria": "divisiones"
+    },
+    {
+      "id": "di14",
+      "title": "PBA001",
+      "description": "Barra Acrilica X 2.4M",
+      "color": "Satinado",
+      "precio": "32.000",
+      "img": "/img/img_productos/img_accesorios/divisiones/PBA001.png",
+      "categoria": "divisiones"
+    },
+    {
+      "id": "di15",
+      "title": "PBA002",
+      "description": "Barra Acrilica X 1.8M",
+      "color": "Satinado",
+      "precio": "16.000",
+      "img": "/img/img_productos/img_accesorios/divisiones/PBA001.png",
+      "categoria": "divisiones"
+    },
+    {
+      "id": "di16",
+      "title": "PBU003",
+      "description": "Barredor de 6 mm y 8 mm",
+      "color": "Satinado",
+      "precio": "20.000",
+      "img": "/img/img_productos/img_accesorios/divisiones/PBU003.png",
+      "categoria": "divisiones"
+    },
+    {
+      "id": "di17",
+      "title": "PBU005",
+      "description": "Burbuja de 6 mm",
+      "color": "Satinado",
+      "precio": "16.000",
+      "img": "/img/img_productos/img_accesorios/divisiones/PBU006.png",
+      "categoria": "divisiones"
+    },
+    {
+      "id": "di18",
+      "title": "PBU006",
+      "description": "Burbuja de 8 mm",
+      "color": "Satinado",
+      "precio": "16.000",
+      "img": "/img/img_productos/img_accesorios/divisiones/PBU006.png",
+      "categoria": "divisiones"
     }
   ],
   "bisagras": [
@@ -905,7 +1103,8 @@
       "description": "Pasador Sobreponer Sencillo",
       "color": "Satinado",
       "precio": "20.000",
-      "img": "/img/img_productos/img_accesorios/pasadores/PVC001.png"
+      "img": "/img/img_productos/img_accesorios/pasadores/PVC001.png",
+      "categoria": "pasadores"
     },
     {
       "id": "pa2",
@@ -913,7 +1112,8 @@
       "description": "Pasador Sobreponer Cuadrado",
       "color": "Satinado",
       "precio": "28.000",
-      "img": "/img/img_productos/img_accesorios/pasadores/PVC002.png"
+      "img": "/img/img_productos/img_accesorios/pasadores/PVC002.png",
+      "categoria": "pasadores"
     },
     {
       "id": "pa3",
@@ -921,7 +1121,8 @@
       "description": "Pasador Sobreponer Cerrucho",
       "color": "Satinado",
       "precio": "15.000",
-      "img": "/img/img_productos/img_accesorios/pasadores/PVC003.png"
+      "img": "/img/img_productos/img_accesorios/pasadores/PVC003.png",
+      "categoria": "pasadores"
     },
     {
       "id": "pa4",
@@ -929,7 +1130,8 @@
       "description": "Chapa de Ombrigo Vitrina",
       "color": "Satinado",
       "precio": "9.000",
-      "img": "/img/img_productos/img_accesorios/pasadores/PVC004.png"
+      "img": "/img/img_productos/img_accesorios/pasadores/PVC004.png",
+      "categoria": "pasadores"
     }
   ],
   "cerraduras": [
