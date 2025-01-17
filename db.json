@@ -506,16 +506,16 @@
       "id": "vi1",
       "title": "Sistema Colosal PC 2.6",
       "description": " Puerta Corrediza Colosal 2.6, que cuenta  con elegante diseño de un cuerpo fijo y  una  nave  móvil,  con máxima  estanqueidad y seguridad, gracias al  diseño de sus perfiles y localización de  las felpas. La nave se desplaza en forma,  silenciosa y sin movimientos laterales,  sobre un riel angulado que amplia la  superficie de contacto con el  rodamiento, montado sobre balineras o  agujas para garantizar las cargas y ciclos  de operación.",
-      "color": "OX - XO - XX - XOX - OXXO - XXX",
+      "color": "OX - XO - XX - XXX - OXXO",
       "precio": "0",
       "img": "img/colosal.png",
       "categoria": "vitral"
     },
     {
       "id": "vi2",
-      "title": "Kimbaya",
-      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
-      "color": "Satinado",
+      "title": "Sistema Kimbaya",
+      "description": " Perfiles de tamaño uniforme donde se aprecia la esbeltez y armonía de líneas. Perfiles tubulares que proporcionan  resistencia, solidez y estabilidad, con  cavidad de  camara europea para el  alojamiento de accesorios.",
+      "color": "XO - OX - XXX - OXX - XXO.",
       "precio": "0",
       "img": "img/kimbaya.png",
       "categoria": "vitral"
@@ -523,8 +523,8 @@
     {
       "id": "vi3",
       "title": "Sistema 744",
-      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
-      "color": "Satinado",
+      "description": "Sistema tradicional que permite fabricar ventanas y puertas de baja altura (hasta 1.90m según la zona del proyecto) para construcciones de tipo residenciales en zonas como alcobas. Cuenta con una opción de enganche reforzado para dar cumplimiento a la norma NSR-10 vigente en Colombia. Su sillar, o perfil inferior, está diseñando con la inclinación y altura adecuados para garantizar una correcta evacuación del agua. Cuenta con divisores horizontales para reducir áreas de vidrio. Con este sistema, pueden diseñarse puertas de 2 hasta 6 naves gracias a sus marcos de dos y tres rieles. Permite el uso de vidrio desde 4mm hasta 8mm de espesor.",
+      "color": "XO - OX",
       "precio": "0",
       "img": "img/sistema744.png",
       "categoria": "vitral"
