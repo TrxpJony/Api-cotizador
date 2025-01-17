@@ -568,8 +568,8 @@
     {
       "id": "vi8",
       "title": "Sistema 3890",
-      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
-      "color": "Satinado",
+      "description": "Sistema que permite fabricar puertas batientes. Permite alturas hasta 2.10 mts dependiendo de la zona del proyecto. Se puede usar vidrios de 4 mm hasta 23 mm, dependiendo del pisavidrio utilizado.",
+      "color": "X",
       "precio": "0",
       "img": "img/sistema3890.png",
       "categoria": "vitral"
@@ -577,17 +577,17 @@
     {
       "id": "vi9",
       "title": "Sistema Zinu",
-      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
-      "color": "Satinado",
+      "description": " Los ejes para el desarrollo y concepción de este producto, son la necesidad en el manejo de la ventilación y control de comunicación entre espacios, cumpliendo con elegancia altas prestaciones de hermeticidad y seguridad en su operación.INDICEPerfiles con estructura tubular que da solidez y resistencia al sistema; diseño con cavidad europea para el alojamiento de accesorios",
+      "color": "X - XO",
       "precio": "0",
       "img": "img/zinu.png",
       "categoria": "vitral"
     },
     {
       "id": "vi10",
-      "title": "Sideral 2.4",
-      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
-      "color": "Satinado",
+      "title": "Sistema Sideral 2.4",
+      "description": "Puerta Batiente Sideral 2.4. robusta, elegante, de fácil instalación y suave operación, con bisagras para canal europeo, con excelente calidad y variadas aplicaciones, con empaques y felpas perimetrales, que aíslan el ruido y el polvo.",
+      "color": "X - XO Plus",
       "precio": "0",
       "img": "img/sideral.png",
       "categoria": "vitral"
@@ -595,8 +595,8 @@
     {
       "id": "vi11",
       "title": "Sistema Tairona",
-      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
-      "color": "Satinado",
+      "description": "Los ejes para el desarrollo y concepción de este producto, son la necesidad en el manejo de la ventilación y control de comunicación entre espacios, cumpliendo con elegancia altas prestaciones de hermeticidad y seguridad en su operación. Perfiles con estructura tubular que da solidez y resistencia al sistema; diseño con cavidad europea para el alojamiento de accesorios.",
+      "color": "X - XX",
       "precio": "0",
       "img": "img/tairona.png",
       "categoria": "vitral"
@@ -604,8 +604,8 @@
     {
       "id": "vi12",
       "title": "Sistema awa",
-      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
-      "color": "Satinado",
+      "description": " Sistema de naves plegadizas hacia el interior o exterior segun conveniencia, sobre un mismo eje que nos permite cubrir grandes luces de accesos, divisiones de espacios interiores y cerramientos comerciales. Diseños flexibles y direcciones. aperturas en ambas Diseño integrado de perfiles de tipo tubular para el marco y las hojas y de tipo solido para las guias de ajuste superior y de piso, con varias alternativas de utilización, empaques y sellos perimetrales.",
+      "color": "2 hojas - 3 hojas - 4 hojas - 5 hojas - 6 hojas",
       "precio": "0",
       "img": "img/awa.png",
       "categoria": "vitral"
