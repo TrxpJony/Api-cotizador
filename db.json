@@ -412,22 +412,22 @@
     {
       "id": "sk4",
       "title": "Fuentes",
-      "img": "/img/img_productos/img_skyleds/fuentes"
+      "img": "/img/img_productos/img_skyleds/fuentes.png"
     },
     {
       "id": "sk5",
       "title": "Sensores Para Espejo",
-      "img": "/img/img_productos/img_skyleds/sensores1"
+      "img": "/img/img_productos/img_skyleds/sensores1.png"
     },
     {
       "id": "sk6",
       "title": "Sensores Para Cocina",
-      "img": "/img/img_productos/img_skyleds/sensores2"
+      "img": "/img/img_productos/img_skyleds/sensores2.png"
     },
     {
       "id": "sk7",
       "title": "Sensores Especiales",
-      "img": "/img/img_productos/img_skyleds/sensores3"
+      "img": "/img/img_productos/img_skyleds/sensores3.png"
     }
   ],
   "batientes": [
