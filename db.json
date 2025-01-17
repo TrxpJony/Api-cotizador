@@ -462,19 +462,19 @@
       "id": "led110",
       "title": "Luces Led a 110 v",
       "img": "/img/img_productos/img_skyleds/luces110.png",
-      "categoria": "catalogoSkyleds"
+      "categoria": "catalogoskyleds"
     },
     {
       "id": "led12",
       "title": "Luces Led a 12 v",
       "img": "/img/img_productos/img_catalogoSluces12.png",
-      "categoria": "catalogoSkyleds"
+      "categoria": "catalogoskyleds"
     },
     {
       "id": "difusores",
       "title": "Perfiles Led con Difusores",
       "img": "/img/img_productos/img_skyleds/perfiles.png",
-      "categoria": "catalogoSkyleds"
+      "categoria": "catalogoskyleds"
     },
     {
       "id": "sk1",
@@ -498,25 +498,25 @@
       "id": "sk4",
       "title": "Fuentes",
       "img": "/img/img_productos/img_skyleds/fuentes.png",
-      "categoria": "catalogoSkyleds"
+      "categoria": "catalogoskyleds"
     },
     {
       "id": "sk5",
       "title": "Sensores Para Espejo",
       "img": "/img/img_productos/img_skyleds/sensores1.png",
-      "categoria": "catalogoSkyleds"
+      "categoria": "catalogoskyleds"
     },
     {
       "id": "sk6",
       "title": "Sensores Para Cocina",
       "img": "/img/img_productos/img_skyleds/sensores2.png",
-      "categoria": "catalogoSkyleds"
+      "categoria": "catalogoskyleds"
     },
     {
       "id": "sk7",
       "title": "Sensores Especiales",
       "img": "/img/img_productos/img_skyleds/sensores3.png",
-      "categoria": "catalogoSkyleds"
+      "categoria": "catalogoskyleds"
     }
   ],
   "detalleProductos": [
