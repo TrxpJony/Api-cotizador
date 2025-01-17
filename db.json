@@ -315,14 +315,108 @@
       "title": "Espejo Redondo",
       "img": "img/espejo1.png",
       "categoria": "espejos"
-    }
-  ],
-  "tiposEspejos": [
+    },
     {
-      "id": "espe1",
-      "title": "Espejo Redondo",
-      "img": "img/espejo1.png",
-      "categoria": "Espejos"
+      "id": "ac1",
+      "title": "Sistemas Batientes",
+      "img": "img/img_productos/img_accesorios/accesorio.png",
+      "categoria": "accesorios"
+    },
+    {
+      "id": "ac2",
+      "title": "Bisagras Pivotadas",
+      "img": "/img/img_productos/img_accesorios/bisagra.png",
+      "categoria": "accesorios"
+    },
+    {
+      "id": "ac3",
+      "title": "Divisiones",
+      "img": "/img/img_productos/img_accesorios/division.png",
+      "categoria": "accesorios"
+    },
+    {
+      "id": "ac4",
+      "title": "Pasadores",
+      "img": "/img/img_productos/img_accesorios/pasador.png",
+      "categoria": "accesorios"
+    },
+    {
+      "id": "ac5",
+      "title": "Cerraduras",
+      "img": "/img/img_productos/img_accesorios/Cerradura.png",
+      "categoria": "accesorios"
+    },
+    {
+      "id": "ac6",
+      "title": "Soportes",
+      "img": "/img/img_productos/img_accesorios/soporte.png",
+      "categoria": "accesorios"
+    },
+    {
+      "id": "ac7",
+      "title": "Brocas",
+      "img": "/img/img_productos/img_accesorios/broca.png",
+      "categoria": "accesorios"
+    },
+    {
+      "id": "ac8",
+      "title": "Manijas",
+      "img": "/img/img_productos/img_accesorios/manija.png",
+      "categoria": "accesorios"
+    },
+    {
+      "id": "ac9",
+      "title": "Chupas",
+      "img": "/img/img_productos/img_accesorios/chupa.png",
+      "categoria": "accesorios"
+    },
+    {
+      "id": "ac10",
+      "title": "Kit Sistemas Deslizantes",
+      "img": "/img/img_productos/img_accesorios/deslizante.png",
+      "categoria": "accesorios"
+    },
+    {
+      "id": "ac11",
+      "title": "Lijas",
+      "img": "/img/img_productos/img_accesorios/lija.png",
+      "categoria": "accesorios"
+    },
+    {
+      "id": "ac12",
+      "title": "Disco Verde Para Pulir Vidrio",
+      "img": "/img/img_productos/img_accesorios/disco.png",
+      "categoria": "accesorios"
+    },
+    {
+      "id": "ac13",
+      "title": "Máquina de Disco Amarillo",
+      "img": "/img/img_productos/img_accesorios/maquina.png",
+      "categoria": "accesorios"
+    },
+    {
+      "id": "ac14",
+      "title": "Herramientas e Insumos",
+      "img": "/img/img_productos/img_accesorios/herramienta.png",
+      "categoria": "accesorios"
+    },
+    {
+      "id": "ac15",
+      "title": "Accesorios para Fachadas",
+      "img": "/img/img_productos/img_accesorios/fachada.png",
+      "categoria": "accesorios"
+    },
+    {
+      "id": "ac16",
+      "title": "Adhesivos",
+      "img": "/img/img_productos/img_accesorios/adhesivo.png",
+      "categoria": "accesorios"
+    },
+    {
+      "id": "ac17",
+      "title": "Fotocurados",
+      "img": "/img/img_productos/img_accesorios/fotocurado.png",
+      "categoria": "accesorios"
     }
   ],
   "tiposAccesorios": [
