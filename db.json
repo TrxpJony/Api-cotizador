@@ -461,15 +461,15 @@
       "categoria": "skyleds"
     }
   ],
-  
-  "batientes": [
+  "detalleProductos": [
     {
       "id": "ba1",
       "title": "ABI001",
       "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
       "color": "Satinado",
       "precio": "5.000",
-      "img": "/img/img_productos/img_accesorios/batientes/abi001.png"
+      "img": "/img/img_productos/img_accesorios/batientes/abi001.png",
+      "categoria": "batientes"
     },
     {
       "id": "ba2",
@@ -477,7 +477,8 @@
       "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
       "color": "Negro",
       "precio": "5.000",
-      "img": "/img/img_productos/img_accesorios/batientes/abi001.png"
+      "img": "/img/img_productos/img_accesorios/batientes/abi001.png",
+      "categoria": "batientes"
     },
     {
       "id": "ba3",
@@ -485,7 +486,8 @@
       "description": "Fijo Medio Punto 25 - 30 y 25 - 40",
       "color": "Satinado",
       "precio": "4.000",
-      "img": "/img/img_productos/img_accesorios/batientes/afi001.png"
+      "img": "/img/img_productos/img_accesorios/batientes/afi001.png",
+      "categoria": "batientes"
     },
     {
       "id": "ba4",
@@ -493,7 +495,8 @@
       "description": "Fijo Medio Punto 25-30 y 25-40",
       "color": "Negro",
       "precio": "4.000",
-      "img": "/img/img_productos/img_accesorios/batientes/afi001.png"
+      "img": "/img/img_productos/img_accesorios/batientes/afi001.png",
+      "categoria": "batientes"
     },
     {
       "id": "ba5",
@@ -501,7 +504,8 @@
       "description": "Boquete Fijo Cuadrado",
       "color": "Satinado",
       "precio": "6.000",
-      "img": "/img/img_productos/img_accesorios/batientes/abq001.png"
+      "img": "/img/img_productos/img_accesorios/batientes/abq001.png",
+      "categoria": "batientes"
     },
     {
       "id": "ba6",
@@ -509,7 +513,8 @@
       "description": "Boquete Fijo Cuadrado",
       "color": "Negro",
       "precio": "5.000",
-      "img": "/img/img_productos/img_accesorios/batientes/abq001.png"
+      "img": "/img/img_productos/img_accesorios/batientes/abq001.png",
+      "categoria": "batientes"
     },
     {
       "id": "ba7",
@@ -517,7 +522,8 @@
       "description": "Bisagra Cuadrada 25-30",
       "color": "Satinado",
       "precio": "7.000",
-      "img": "/img/img_productos/img_accesorios/batientes/abi003.png"
+      "img": "/img/img_productos/img_accesorios/batientes/abi003.png",
+      "categoria": "batientes"
     },
     {
       "id": "ba8",
@@ -525,7 +531,8 @@
       "description": "Fijo Cuadrado 25-30",
       "color": "Satinado",
       "precio": "8.000",
-      "img": "/img/img_productos/img_accesorios/batientes/afi003.png"
+      "img": "/img/img_productos/img_accesorios/batientes/afi003.png",
+      "categoria": "batientes"
     },
     {
       "id": "ba9",
@@ -533,7 +540,8 @@
       "description": "Bisagra medio Punto 90°",
       "color": "Satinado",
       "precio": "5.500",
-      "img": "/img/img_productos/img_accesorios/batientes/abi005.png"
+      "img": "/img/img_productos/img_accesorios/batientes/abi005.png",
+      "categoria": "batientes"
     },
     {
       "id": "ba10",
@@ -541,7 +549,8 @@
       "description": "Bisagra medio Punto 180°",
       "color": "Satinado",
       "precio": "8.000",
-      "img": "/img/img_productos/img_accesorios/batientes/abi006.png"
+      "img": "/img/img_productos/img_accesorios/batientes/abi006.png",
+      "categoria": "batientes"
     },
     {
       "id": "ba11",
@@ -549,7 +558,8 @@
       "description": "Bisagra Escualizable",
       "color": "Satinado",
       "precio": "8.000",
-      "img": "/img/img_productos/img_accesorios/batientes/abi007.png"
+      "img": "/img/img_productos/img_accesorios/batientes/abi007.png",
+      "categoria": "batientes"
     },
     {
       "id": "ba12",
@@ -557,7 +567,8 @@
       "description": "Manija Tipo Mariposa",
       "color": "Satinado",
       "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/batientes/ama001.png"
+      "img": "/img/img_productos/img_accesorios/batientes/ama001.png",
+      "categoria": "batientes"
     },
     {
       "id": "ba13",
@@ -565,7 +576,8 @@
       "description": "Manija Tipo Mariposa",
       "color": "Satinado",
       "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/batientes/ama001.png"
+      "img": "/img/img_productos/img_accesorios/batientes/ama001.png",
+      "categoria": "batientes"
     }
   ],
   "bisagras": [
@@ -1285,7 +1297,7 @@
       "description": "Chupa 1 ventoza",
       "color": "Satinado",
       "precio": "12.000",
-      "img": "/img/img_productos/img_accesorios/chupas/PCH001.png" 
+      "img": "/img/img_productos/img_accesorios/chupas/PCH001.png"
     },
     {
       "id": "ch2",
@@ -1293,7 +1305,7 @@
       "description": "Chupa de 2 Soportes",
       "color": "Satinado",
       "precio": "15.000",
-      "img": "/img/img_productos/img_accesorios/chupas/PCH003.png" 
+      "img": "/img/img_productos/img_accesorios/chupas/PCH003.png"
     },
     {
       "id": "ch3",
@@ -1301,7 +1313,7 @@
       "description": "Chupa de 3 Soportes",
       "color": "Satinado",
       "precio": "18.000",
-      "img": "/img/img_productos/img_accesorios/chupas/PCH004.png" 
+      "img": "/img/img_productos/img_accesorios/chupas/PCH004.png"
     },
     {
       "id": "ch4",
@@ -1309,17 +1321,17 @@
       "description": "Ventosa",
       "color": "Satinado",
       "precio": "5.000",
-      "img": "/img/img_productos/img_accesorios/chupas/PCH002.png" 
+      "img": "/img/img_productos/img_accesorios/chupas/PCH002.png"
     }
   ],
-  "deslizantes":[
+  "deslizantes": [
     {
       "id": "de1",
       "title": "ACD001",
       "description": "Kit Sistema Redondo",
       "color": "Satinado",
       "precio": "29.000",
-      "img": "/img/img_productos/img_accesorios/deslizantes/ACD001.png" 
+      "img": "/img/img_productos/img_accesorios/deslizantes/ACD001.png"
     },
     {
       "id": "de2",
@@ -1327,7 +1339,7 @@
       "description": "Kit Sistema Hueso",
       "color": "Satinado - Negro",
       "precio": "25.000",
-      "img": "/img/img_productos/img_accesorios/deslizantes/ACD002.png" 
+      "img": "/img/img_productos/img_accesorios/deslizantes/ACD002.png"
     },
     {
       "id": "de3",
@@ -1335,7 +1347,7 @@
       "description": "Kit Sistema J",
       "color": "Satinado - Negro",
       "precio": "25.000",
-      "img": "/img/img_productos/img_accesorios/deslizantes/ACD004.png" 
+      "img": "/img/img_productos/img_accesorios/deslizantes/ACD004.png"
     },
     {
       "id": "de4",
@@ -1343,7 +1355,7 @@
       "description": "Kit Sistema Garra",
       "color": "Satinado - Negro",
       "precio": "27.000",
-      "img": "/img/img_productos/img_accesorios/deslizantes/ACD005.png" 
+      "img": "/img/img_productos/img_accesorios/deslizantes/ACD005.png"
     },
     {
       "id": "de5",
@@ -1351,7 +1363,7 @@
       "description": "MD 40",
       "color": "Satinado - Negro",
       "precio": "25.000",
-      "img": "/img/img_productos/img_accesorios/deslizantes/ACD006.png" 
+      "img": "/img/img_productos/img_accesorios/deslizantes/ACD006.png"
     },
     {
       "id": "de5",
@@ -1359,7 +1371,7 @@
       "description": "MD 30",
       "color": "Satinado - Negro",
       "precio": "22.000",
-      "img": "/img/img_productos/img_accesorios/deslizantes/ACD006.png" 
+      "img": "/img/img_productos/img_accesorios/deslizantes/ACD006.png"
     }
   ],
   "lijas": [
@@ -1369,7 +1381,7 @@
       "description": "Adhesivo Grano 60",
       "color": "Negro",
       "precio": "2.000",
-      "img": "/img/img_productos/img_accesorios/lijas/lija.png" 
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png"
     },
     {
       "id": "li2",
@@ -1377,7 +1389,7 @@
       "description": "Adhesivo Grano 80",
       "color": "Negro",
       "precio": "3.000",
-      "img": "/img/img_productos/img_accesorios/lijas/lija.png" 
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png"
     },
     {
       "id": "li3",
@@ -1385,7 +1397,7 @@
       "description": "Adhesivo Grano 100",
       "color": "Negro",
       "precio": "4.000",
-      "img": "/img/img_productos/img_accesorios/lijas/lija.png" 
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png"
     },
     {
       "id": "li4",
@@ -1393,7 +1405,7 @@
       "description": "Adhesivo Grano 120",
       "color": "Negro",
       "precio": "4.500",
-      "img": "/img/img_productos/img_accesorios/lijas/lija.png" 
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png"
     },
     {
       "id": "li5",
@@ -1401,7 +1413,7 @@
       "description": "Adhesivo Grano 400",
       "color": "Negro",
       "precio": "6.500",
-      "img": "/img/img_productos/img_accesorios/lijas/lija.png" 
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png"
     },
     {
       "id": "li6",
@@ -1409,7 +1421,7 @@
       "description": "Velcro Grano 60",
       "color": "Negro",
       "precio": "4.500",
-      "img": "/img/img_productos/img_accesorios/lijas/lija.png" 
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png"
     },
     {
       "id": "li7",
@@ -1417,7 +1429,7 @@
       "description": "Velcro Grano 320",
       "color": "Negro",
       "precio": "8.500",
-      "img": "/img/img_productos/img_accesorios/lijas/lija.png" 
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png"
     }
   ],
   "discosv": [
@@ -1427,7 +1439,7 @@
       "description": "Grano 60",
       "color": "Negro",
       "precio": "2.000",
-      "img": "/img/img_productos/img_accesorios/discos/disco.png" 
+      "img": "/img/img_productos/img_accesorios/discos/disco.png"
     },
     {
       "id": "dv2",
@@ -1435,7 +1447,7 @@
       "description": "Grano 80",
       "color": "Negro",
       "precio": "3.000",
-      "img": "/img/img_productos/img_accesorios/discos/disco.png" 
+      "img": "/img/img_productos/img_accesorios/discos/disco.png"
     },
     {
       "id": "dv3",
@@ -1443,7 +1455,7 @@
       "description": "Grano 120",
       "color": "Negro",
       "precio": "4.000",
-      "img": "/img/img_productos/img_accesorios/discos/disco.png" 
+      "img": "/img/img_productos/img_accesorios/discos/disco.png"
     },
     {
       "id": "dv4",
@@ -1451,7 +1463,7 @@
       "description": "Grano 300",
       "color": "Negro",
       "precio": "4.500",
-      "img": "/img/img_productos/img_accesorios/discos/disco.png" 
+      "img": "/img/img_productos/img_accesorios/discos/disco.png"
     },
     {
       "id": "dv5",
@@ -1459,7 +1471,7 @@
       "description": "Grano 400",
       "color": "Negro",
       "precio": "6.500",
-      "img": "/img/img_productos/img_accesorios/discos/disco.png" 
+      "img": "/img/img_productos/img_accesorios/discos/disco.png"
     }
   ],
   "maquina": [
@@ -1469,7 +1481,7 @@
       "description": "Maquina de Disco",
       "color": "Negro",
       "precio": "120.500",
-      "img": "/img/img_productos/img_accesorios/maquina/PLI013.png" 
+      "img": "/img/img_productos/img_accesorios/maquina/PLI013.png"
     },
     {
       "id": "mq2",
@@ -1477,7 +1489,7 @@
       "description": "Plato Amarillo Adhesivo y Velcro",
       "color": "Negro",
       "precio": "6.500",
-      "img": "/img/img_productos/img_accesorios/maquina/PLI014.png" 
+      "img": "/img/img_productos/img_accesorios/maquina/PLI014.png"
     }
   ],
   "herramientas": [
@@ -1487,7 +1499,7 @@
       "description": "Pinza Plastica Pequeñas",
       "color": "Satinado",
       "precio": "12.500",
-      "img": "/img/img_productos/img_accesorios/herramientas/PPV001.png" 
+      "img": "/img/img_productos/img_accesorios/herramientas/PPV001.png"
     },
     {
       "id": "he2",
@@ -1495,7 +1507,7 @@
       "description": "Pinza Plastica Grande",
       "color": "Satinado",
       "precio": "14.500",
-      "img": "/img/img_productos/img_accesorios/herramientas/PPV001.png" 
+      "img": "/img/img_productos/img_accesorios/herramientas/PPV001.png"
     },
     {
       "id": "he3",
@@ -1503,7 +1515,7 @@
       "description": "Pinzas Para Vidrio",
       "color": "Satinado",
       "precio": "20.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PPV003.png" 
+      "img": "/img/img_productos/img_accesorios/herramientas/PPV003.png"
     },
     {
       "id": "he4",
@@ -1511,7 +1523,7 @@
       "description": "Toyo Original",
       "color": "Satinado",
       "precio": "25.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PTY001.png" 
+      "img": "/img/img_productos/img_accesorios/herramientas/PTY001.png"
     },
     {
       "id": "he5",
@@ -1519,7 +1531,7 @@
       "description": "Toyo Imitacion China",
       "color": "Satinado",
       "precio": "12.500",
-      "img": "/img/img_productos/img_accesorios/herramientas/PTY001.png" 
+      "img": "/img/img_productos/img_accesorios/herramientas/PTY001.png"
     },
     {
       "id": "he6",
@@ -1527,7 +1539,7 @@
       "description": "Cabeza Toyo Original",
       "color": "Satinado",
       "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PTY003.png" 
+      "img": "/img/img_productos/img_accesorios/herramientas/PTY003.png"
     },
     {
       "id": "he7",
@@ -1535,7 +1547,7 @@
       "description": "Cabeza Toyo Imitacion",
       "color": "Satinado",
       "precio": "5.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PTY003.png" 
+      "img": "/img/img_productos/img_accesorios/herramientas/PTY003.png"
     },
     {
       "id": "he8",
@@ -1543,7 +1555,7 @@
       "description": "Repuesto Circular",
       "color": "Satinado",
       "precio": "12.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PCC001.png" 
+      "img": "/img/img_productos/img_accesorios/herramientas/PCC001.png"
     },
     {
       "id": "he9",
@@ -1551,7 +1563,7 @@
       "description": "Circular",
       "color": "Satinado",
       "precio": "24.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PCC002.png" 
+      "img": "/img/img_productos/img_accesorios/herramientas/PCC002.png"
     },
     {
       "id": "he10",
@@ -1559,7 +1571,7 @@
       "description": "Lampara de Fotocurado",
       "color": "Satinado",
       "precio": "28.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PF001.png" 
+      "img": "/img/img_productos/img_accesorios/herramientas/PF001.png"
     },
     {
       "id": "he11",
@@ -1567,7 +1579,7 @@
       "description": "Pistola para silicona",
       "color": "Platinado - Naranja",
       "precio": "22.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PPS001.png" 
+      "img": "/img/img_productos/img_accesorios/herramientas/PPS001.png"
     },
     {
       "id": "he12",
@@ -1575,7 +1587,7 @@
       "description": "Bisturi",
       "color": "Platinado",
       "precio": "15.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PBS001.png" 
+      "img": "/img/img_productos/img_accesorios/herramientas/PBS001.png"
     },
     {
       "id": "he13",
@@ -1583,7 +1595,7 @@
       "description": "Llave Bristol Navaja X 7 Pc",
       "color": "Platinado",
       "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/herramientas/PLB001.png" 
+      "img": "/img/img_productos/img_accesorios/herramientas/PLB001.png"
     }
   ],
   "fachadas": [
@@ -1593,7 +1605,7 @@
       "description": "Carro Importado 2 Rodachinas Acero",
       "color": "Platinado",
       "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/PSC001.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC001.png"
     },
     {
       "id": "fa2",
@@ -1601,7 +1613,7 @@
       "description": "Carro Importado 4 Rodachinas Acero",
       "color": "Platinado",
       "precio": "13.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/PSC002.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC002.png"
     },
     {
       "id": "fa3",
@@ -1609,7 +1621,7 @@
       "description": "Carro Importado 2 Rodachinas Aluminio",
       "color": "Platinado",
       "precio": "16.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/PSC003.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC003.png"
     },
     {
       "id": "fa4",
@@ -1617,7 +1629,7 @@
       "description": "Carro Importado 4 Rodachinas Aluminio",
       "color": "Platinado",
       "precio": "19.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/PSC004.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC004.png"
     },
     {
       "id": "fa5",
@@ -1625,7 +1637,7 @@
       "description": "Kit Sistema Rodadizo 4 Rodachinas",
       "color": "Platinado",
       "precio": "20.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/PSC005.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC005.png"
     },
     {
       "id": "fa6",
@@ -1633,7 +1645,7 @@
       "description": "Kit Sistema Rodadizo 4 Rodachinas",
       "color": "Negro",
       "precio": "20.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/PSC006.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC006.png"
     },
     {
       "id": "fa7",
@@ -1641,7 +1653,7 @@
       "description": "Sistema Corredizo 2 Puntos",
       "color": "Dorado",
       "precio": "15.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/PSC007.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC007.png"
     },
     {
       "id": "fa8",
@@ -1649,7 +1661,7 @@
       "description": "Sistema Para Escualizable",
       "color": "Dorado",
       "precio": "14.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/PSC008.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC008.png"
     },
     {
       "id": "fa9",
@@ -1657,7 +1669,7 @@
       "description": "Polea Doble 1 Punto",
       "color": "Satinado",
       "precio": "12.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/ACD008.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/ACD008.png"
     },
     {
       "id": "fa10",
@@ -1665,7 +1677,7 @@
       "description": "Fijo Marciano Sencillo Pequeño",
       "color": "Dorado",
       "precio": "12.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/AFI010.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/AFI010.png"
     },
     {
       "id": "fa11",
@@ -1673,7 +1685,7 @@
       "description": "Fijo Marciano Sencillo Grande",
       "color": "Dorado",
       "precio": "15.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/AFI010.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/AFI010.png"
     },
     {
       "id": "fa12",
@@ -1681,7 +1693,7 @@
       "description": "Fijo Marciano Doble Grande",
       "color": "Dorado",
       "precio": "18.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/AFI012.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/AFI012.png"
     },
     {
       "id": "fa13",
@@ -1689,7 +1701,7 @@
       "description": "Fijo Marciano Doble Pequeño",
       "color": "Dorado",
       "precio": "20.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/AFI012.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/AFI012.png"
     },
     {
       "id": "fa14",
@@ -1697,7 +1709,7 @@
       "description": "Soporte de 3 Puntos Para Vitrina",
       "color": "Dorado",
       "precio": "22.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/AFI005.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/AFI005.png"
     },
     {
       "id": "fa15",
@@ -1705,7 +1717,7 @@
       "description": "Pie de Amigo Sencillo de 10cm con Tapa Escudo",
       "color": "Dorado",
       "precio": "16.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/API001.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/API001.png"
     },
     {
       "id": "fa16",
@@ -1713,7 +1725,7 @@
       "description": "Pie de Amigo Doble de 10cm con Tapa Escudo",
       "color": "Dorado",
       "precio": "22.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/API002.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/API002.png"
     },
     {
       "id": "fa17",
@@ -1721,7 +1733,7 @@
       "description": "Cajuela",
       "color": "Dorado",
       "precio": "22.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/PMA001.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/PMA001.png"
     },
     {
       "id": "fa17",
@@ -1729,7 +1741,7 @@
       "description": "Guia de Rodillos",
       "color": "Dorado",
       "precio": "22.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/PSC007.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/PSC007.png"
     },
     {
       "id": "fa18",
@@ -1737,17 +1749,17 @@
       "description": "Tope a Piso",
       "color": "Dorado",
       "precio": "12.000",
-      "img": "/img/img_productos/img_accesorios/fachadas/ATS003.png"  
+      "img": "/img/img_productos/img_accesorios/fachadas/ATS003.png"
     }
   ],
-  "adhesivos":[
+  "adhesivos": [
     {
       "id": "ad1",
       "title": "PSL001",
       "description": "Silicona Tek Bond Para Espejos",
       "color": "Negro",
       "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/adhesivos/PSL001.png" 
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL001.png"
     },
     {
       "id": "ad2",
@@ -1755,7 +1767,7 @@
       "description": "Silicona Tek Bond Neutra Negra",
       "color": "Negro",
       "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/adhesivos/PSL002.png" 
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL002.png"
     },
     {
       "id": "ad3",
@@ -1763,7 +1775,7 @@
       "description": "Silicona Tek Bond",
       "color": "Negro",
       "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/adhesivos/PSL003.png" 
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL003.png"
     },
     {
       "id": "ad4",
@@ -1771,7 +1783,7 @@
       "description": "Silicona Tek Bond Acetica Negra ",
       "color": "Negro",
       "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/adhesivos/PSL004.png" 
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL004.png"
     },
     {
       "id": "ad5",
@@ -1779,7 +1791,7 @@
       "description": "Silicona Tek Bond Acetica Transparente ",
       "color": "Transparente",
       "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/adhesivos/PSL005.png" 
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL005.png"
     },
     {
       "id": "ad6",
@@ -1787,7 +1799,7 @@
       "description": "Silicona Tek Bond Sella Grietas",
       "color": "Negro",
       "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/adhesivos/PSL006.png" 
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL006.png"
     },
     {
       "id": "ad7",
@@ -1795,7 +1807,7 @@
       "description": "Silicona Tek Bond Acetica Pequeña 50 gr",
       "color": "Negro",
       "precio": "5.000",
-      "img": "/img/img_productos/img_accesorios/adhesivos/PSL007.png" 
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL007.png"
     },
     {
       "id": "ad8",
@@ -1803,7 +1815,7 @@
       "description": "Protector de Bordes",
       "color": "Negro",
       "precio": "5.000",
-      "img": "/img/img_productos/img_accesorios/adhesivos/PSL008.png" 
+      "img": "/img/img_productos/img_accesorios/adhesivos/PSL008.png"
     },
     {
       "id": "ad9",
@@ -1811,7 +1823,7 @@
       "description": "Vinipel",
       "color": "Transparente",
       "precio": "5.000",
-      "img": "/img/img_productos/img_accesorios/adhesivos/PCD001.png" 
+      "img": "/img/img_productos/img_accesorios/adhesivos/PCD001.png"
     },
     {
       "id": "ad10",
@@ -1819,7 +1831,7 @@
       "description": "Cinta Doble Faz 20 mts",
       "color": "Blanco",
       "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/adhesivos/PCD002.png" 
+      "img": "/img/img_productos/img_accesorios/adhesivos/PCD002.png"
     },
     {
       "id": "ad11",
@@ -1827,7 +1839,7 @@
       "description": "Cinta Doble Faz 33 mts",
       "color": "Blanco",
       "precio": "12.000",
-      "img": "/img/img_productos/img_accesorios/adhesivos/PCD003.png" 
+      "img": "/img/img_productos/img_accesorios/adhesivos/PCD003.png"
     },
     {
       "id": "ad12",
@@ -1835,7 +1847,7 @@
       "description": "Cinta Acrilica Doble Faz 20 mts",
       "color": "Blanco",
       "precio": "18.000",
-      "img": "/img/img_productos/img_accesorios/adhesivos/PCD004.png" 
+      "img": "/img/img_productos/img_accesorios/adhesivos/PCD004.png"
     },
     {
       "id": "ad13",
@@ -1843,7 +1855,7 @@
       "description": "Cinta Acrilica Doble Faz 1 mts",
       "color": "Blanco",
       "precio": "5.000",
-      "img": "/img/img_productos/img_accesorios/adhesivos/PCD005.png" 
+      "img": "/img/img_productos/img_accesorios/adhesivos/PCD005.png"
     },
     {
       "id": "ad14",
@@ -1851,17 +1863,17 @@
       "description": "Cinta Acrilica Doble Faz 3 mts",
       "color": "Blanco",
       "precio": "9.000",
-      "img": "/img/img_productos/img_accesorios/adhesivos/PCD005.png" 
+      "img": "/img/img_productos/img_accesorios/adhesivos/PCD005.png"
     }
   ],
-  "fotocurados":[
+  "fotocurados": [
     {
       "id": "fo1",
       "title": "PF002",
       "description": "Fotocurado de 3 ml con Activador",
       "color": "Negro",
       "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/fotocurado/PF002.png" 
+      "img": "/img/img_productos/img_accesorios/fotocurado/PF002.png"
     },
     {
       "id": "fo2",
@@ -1869,7 +1881,7 @@
       "description": "Fotocurado Permabondde 10 ml",
       "color": "Negro",
       "precio": "16.000",
-      "img": "/img/img_productos/img_accesorios/fotocurado/PF003.png" 
+      "img": "/img/img_productos/img_accesorios/fotocurado/PF003.png"
     },
     {
       "id": "fo3",
@@ -1877,7 +1889,7 @@
       "description": "Fotocurado Permabondde 50 ml",
       "color": "Negro",
       "precio": "22.000",
-      "img": "/img/img_productos/img_accesorios/fotocurado/PF004.png" 
+      "img": "/img/img_productos/img_accesorios/fotocurado/PF004.png"
     }
   ]
 }
