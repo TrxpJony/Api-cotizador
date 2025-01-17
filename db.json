@@ -2114,7 +2114,7 @@
       "color": "Blanco",
       "precio": 4000,
       "img": "/img/img_productos/img_skyleds/luzled110/luz110cblanca.png",
-      "categoria": "luzled110"
+      "categoria": "luzled12"
     },
     {
       "id": "ll10",
@@ -2123,7 +2123,7 @@
       "color": "Calido",
       "precio": 8000,
       "img": "/img/img_productos/img_skyleds/luzled110/luz110ccalida.png",
-      "categoria": "luzled110"
+      "categoria": "luzled12"
     },
     {
       "id": "ll11",
@@ -2132,7 +2132,7 @@
       "color": "Neutro",
       "precio": 10000,
       "img": "/img/img_productos/img_skyleds/luzled110/luz110cneutra.png",
-      "categoria": "luzled110"
+      "categoria": "luzled12"
     },
     {
       "id": "ll12",
@@ -2141,7 +2141,7 @@
       "color": "Calido",
       "precio": 13000,
       "img": "/img/img_productos/img_skyleds/luzled110/luz240calida.png",
-      "categoria": "luzled110"
+      "categoria": "luzled12"
     },
     {
       "id": "ll13",
@@ -2150,7 +2150,7 @@
       "color": "Blanco",
       "precio": 10000,
       "img": "/img/img_productos/img_skyleds/luzled110/luz240blanca.png",
-      "categoria": "luzled110"
+      "categoria": "luzled12"
     },
     {
       "id": "ll14",
@@ -2159,7 +2159,7 @@
       "color": "Neutro",
       "precio": 12000,
       "img": "/img/img_productos/img_skyleds/luzled110/luz240neutra.png",
-      "categoria": "luzled110"
+      "categoria": "luzled12"
     },
     {
       "id": "ll15",
@@ -2168,7 +2168,7 @@
       "color": "Blanco - Calido - Neutro",
       "precio": 18000,
       "img": "/img/img_productos/img_skyleds/luzled110/luzdual.png",
-      "categoria": "luzled110"
+      "categoria": "luzled12"
     },
     {
       "id": "ll16",
@@ -2177,7 +2177,7 @@
       "color": "Blanco - Calido - Neutro",
       "precio": 22000,
       "img": "/img/img_productos/img_skyleds/luzled110/luzrgb.png",
-      "categoria": "luzled110"
+      "categoria": "luzled12"
     },
     {
       "id": "ll17",
@@ -2186,7 +2186,7 @@
       "color": "Azul - Rosado - Morado",
       "precio": 16000,
       "img": "/img/img_productos/img_skyleds/luzled110/luzarp.png",
-      "categoria": "luzled110"
+      "categoria": "luzled12"
     }
   ]
 }
