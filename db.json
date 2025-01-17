@@ -1,21 +1,31 @@
 {
+  "usuarios": [
+    {
+      "id": "001",
+      "usuario": "VarteSCotizador",
+      "contraseña": "ValArteSAS3204391328*/"
+    }
+  ],
   "Productos": [
     {
       "id": "tipos",
       "title": "Catalogo Vitral",
       "categoria": "espejos",
+      "tipo":"cotizar",
       "img": "/img/img_productos/vitral.png"
     },
     {
       "id": "p4",
       "title": "Catalogo SKYLEDS",
       "categoria": "skyleds",
+      "tipo": "cotizar",
       "img": "/img/img_productos/skyleds.png"
     },
     {
       "id": "p2",
       "title": "Espejos",
       "categoria": "espejos",
+      "tipo":"cotizar",
       "img": "/img/espejo1.png"
     },
     {
@@ -2017,7 +2027,7 @@
       "img": "/img/img_productos/img_accesorios/fotocurado/PF004.png",
       "categoria": "Fotocurados"
     },
-        {
+    {
       "id": "ll2",
       "title": "Luz Blanca 110 v",
       "description": "Luz blanca a 110v directa a la corriente, regalándonos así la mayor intensidad en cada metro.",
