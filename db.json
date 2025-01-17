@@ -459,6 +459,24 @@
       "categoria": "accesorios"
     },
     {
+      "id": "led110",
+      "title": "Luces Led a 110 v",
+      "img": "/img/img_productos/img_skyleds/luces110.png",
+      "categoria": "catalogoSkyleds"
+    },
+    {
+      "id": "led12",
+      "title": "Luces Led a 12 v",
+      "img": "/img/img_productos/img_catalogoSluces12.png",
+      "categoria": "catalogoSkyleds"
+    },
+    {
+      "id": "difusores",
+      "title": "Perfiles Led con Difusores",
+      "img": "/img/img_productos/img_skyleds/perfiles.png",
+      "categoria": "catalogoSkyleds"
+    },
+    {
       "id": "sk1",
       "title": "Luces Led a 110 v",
       "img": "/img/img_productos/img_skyleds/luces110.png",
