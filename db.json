@@ -1359,185 +1359,159 @@
       "precio": "42.000",
       "img": "/img/img_productos/img_accesorios/manijas/AMA008.png",
       "categoria": "manijas"
-    }
-  ],
-  "brocas": [
-    {
-      "id": "br1",
-      "title": "PBR001",
-      "description": "Broca de 5 mm",
-      "color": "Satinado",
-      "precio": "7.000",
-      "img": "/img/img_productos/img_accesorios/brocas/PBR001.png"
     },
     {
-      "id": "br2",
-      "title": "PBR002",
-      "description": "Broca de 6 mm",
-      "color": "Satinado",
-      "precio": "7.500",
-      "img": "/img/img_productos/img_accesorios/brocas/PBR001.png"
-    },
-    {
-      "id": "br3",
-      "title": "PBR003",
-      "description": "Broca de 8 mm",
-      "color": "Satinado",
-      "precio": "8.500",
-      "img": "/img/img_productos/img_accesorios/brocas/PBR001.png"
-    },
-    {
-      "id": "br4",
-      "title": "PBR004",
-      "description": "Broca de 10 mm",
-      "color": "Satinado",
-      "precio": "10.000",
-      "img": "/img/img_productos/img_accesorios/brocas/PBR001.png"
-    },
-    {
-      "id": "br5",
-      "title": "PBR005",
-      "description": "Broca de 12 mm",
-      "color": "Satinado",
-      "precio": "11.000",
-      "img": "/img/img_productos/img_accesorios/brocas/PBR005.png"
-    },
-    {
-      "id": "br6",
-      "title": "PBR006",
-      "description": "Broca de 14 mm",
+      "id": "ch1",
+      "title": "PCH001",
+      "description": "Chupa 1 ventoza",
       "color": "Satinado",
       "precio": "12.000",
-      "img": "/img/img_productos/img_accesorios/brocas/PBR005.png"
+      "img": "/img/img_productos/img_accesorios/chupas/PCH001.png",
+      "categoria": "chupas"
     },
     {
-      "id": "br7",
-      "title": "PBR007",
-      "description": "Broca de 16 mm",
+      "id": "ch2",
+      "title": "PCH003",
+      "description": "Chupa de 2 Soportes",
       "color": "Satinado",
-      "precio": "13.000",
-      "img": "/img/img_productos/img_accesorios/brocas/PBR005.png"
+      "precio": "15.000",
+      "img": "/img/img_productos/img_accesorios/chupas/PCH003.png",
+      "categoria": "chupas"
     },
     {
-      "id": "br8",
-      "title": "PBR008",
-      "description": "Broca de 19 mm",
+      "id": "ch3",
+      "title": "PCH004",
+      "description": "Chupa de 3 Soportes",
       "color": "Satinado",
-      "precio": "14.500",
-      "img": "/img/img_productos/img_accesorios/brocas/PBR005.png"
+      "precio": "18.000",
+      "img": "/img/img_productos/img_accesorios/chupas/PCH004.png",
+      "categoria": "chupas"
     },
     {
-      "id": "br9",
-      "title": "PBR009",
-      "description": "Broca de 21 mm",
+      "id": "ch4",
+      "title": "PCH002",
+      "description": "Ventosa",
       "color": "Satinado",
-      "precio": "16.000",
-      "img": "/img/img_productos/img_accesorios/brocas/PBR009.png"
+      "precio": "5.000",
+      "img": "/img/img_productos/img_accesorios/chupas/PCH002.png",
+      "categoria": "chupas"
     },
     {
-      "id": "br10",
-      "title": "PBR010",
-      "description": "Broca de 25 mm",
+      "id": "de1",
+      "title": "ACD001",
+      "description": "Kit Sistema Redondo",
       "color": "Satinado",
-      "precio": "17.000",
-      "img": "/img/img_productos/img_accesorios/brocas/PBR009.png"
+      "precio": "29.000",
+      "img": "/img/img_productos/img_accesorios/deslizantes/ACD001.png",
+      "categoria": "deslizantes"
     },
     {
-      "id": "br11",
-      "title": "PBR011",
-      "description": "Broca de 50 mm",
-      "color": "Satinado",
-      "precio": "22.000",
-      "img": "/img/img_productos/img_accesorios/brocas/PBR009.png"
-    },
-    {
-      "id": "br12",
-      "title": "PBR012",
-      "description": "Broca de 65 mm",
-      "color": "Satinado",
+      "id": "de2",
+      "title": "ACD002",
+      "description": "Kit Sistema Hueso",
+      "color": "Satinado - Negro",
       "precio": "25.000",
-      "img": "/img/img_productos/img_accesorios/brocas/PBR009.png"
+      "img": "/img/img_productos/img_accesorios/deslizantes/ACD002.png",
+      "categoria": "deslizantes"
     },
     {
-      "id": "br13",
-      "title": "PBR013",
-      "description": "Broca de 70 mm",
-      "color": "Satinado",
-      "precio": "28.000",
-      "img": "/img/img_productos/img_accesorios/brocas/PBR009.png"
+      "id": "de3",
+      "title": "ACD004",
+      "description": "Kit Sistema J",
+      "color": "Satinado - Negro",
+      "precio": "25.000",
+      "img": "/img/img_productos/img_accesorios/deslizantes/ACD004.png",
+      "categoria": "deslizantes"
     },
     {
-      "id": "br14",
-      "title": "PBR014",
-      "description": "Broca de 85 mm",
-      "color": "Satinado",
-      "precio": "30.000",
-      "img": "/img/img_productos/img_accesorios/brocas/PBR009.png"
-    }
-  ],
-  "manijas": [
-    {
-      "id": "ma1",
-      "title": "AMA003",
-      "description": "Manija Tipo Romana en Acero 20 - 40 cm",
-      "color": "Satinado",
-      "precio": "38.000",
-      "img": "/img/img_productos/img_accesorios/manijas/AMA003.png",
-      "categoria": "manijas"
+      "id": "de4",
+      "title": "ACD005",
+      "description": "Kit Sistema Garra",
+      "color": "Satinado - Negro",
+      "precio": "27.000",
+      "img": "/img/img_productos/img_accesorios/deslizantes/ACD005.png",
+      "categoria": "deslizantes"
     },
     {
-      "id": "ma2",
-      "title": "AMA004",
-      "description": "Manija Tipo Romana en Acero 40 - 60 cm",
-      "color": "Satinado",
-      "precio": "40.000",
-      "img": "/img/img_productos/img_accesorios/manijas/AMA003.png",
-      "categoria": "manijas"
+      "id": "de5",
+      "title": "ACD006",
+      "description": "MD 40",
+      "color": "Satinado - Negro",
+      "precio": "25.000",
+      "img": "/img/img_productos/img_accesorios/deslizantes/ACD006.png",
+      "categoria": "deslizantes"
     },
     {
-      "id": "ma3",
-      "title": "AMA005",
-      "description": "Manija Tipo Romana en Acero 60 - 80 cm",
-      "color": "Satinado",
-      "precio": "42.000",
-      "img": "/img/img_productos/img_accesorios/manijas/AMA003.png",
-      "categoria": "manijas"
+      "id": "de5",
+      "title": "ACD007",
+      "description": "MD 30",
+      "color": "Satinado - Negro",
+      "precio": "22.000",
+      "img": "/img/img_productos/img_accesorios/deslizantes/ACD006.png",
+      "categoria": "deslizantes"
     },
     {
-      "id": "ma4",
-      "title": "AMA006",
-      "description": "Manija Tipo Romana en Acero 80 - 100 cm",
-      "color": "Satinado",
-      "precio": "45.000",
-      "img": "/img/img_productos/img_accesorios/manijas/AMA003.png",
-      "categoria": "manijas"
+      "id": "li1",
+      "title": "PLI006",
+      "description": "Adhesivo Grano 60",
+      "color": "Negro",
+      "precio": "2.000",
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png",
+      "categoria": "lijas"
     },
     {
-      "id": "ma5",
-      "title": "AMA008",
-      "description": "Manija Maciza 15 - 25 cm",
-      "color": "Satinado",
-      "precio": "35.000",
-      "img": "/img/img_productos/img_accesorios/manijas/AMA008.png",
-      "categoria": "manijas"
+      "id": "li2",
+      "title": "PLI007",
+      "description": "Adhesivo Grano 80",
+      "color": "Negro",
+      "precio": "3.000",
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png",
+      "categoria": "lijas"
     },
     {
-      "id": "ma6",
-      "title": "AMA009",
-      "description": "Manija Maciza 20 - 30 cm",
-      "color": "Satinado",
-      "precio": "38.000",
-      "img": "/img/img_productos/img_accesorios/manijas/AMA008.png",
-      "categoria": "manijas"
+      "id": "li3",
+      "title": "PLI008",
+      "description": "Adhesivo Grano 100",
+      "color": "Negro",
+      "precio": "4.000",
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png",
+      "categoria": "lijas"
     },
     {
-      "id": "ma7",
-      "title": "AMA010",
-      "description": "Manija Maciza 30 - 40 cm",
-      "color": "Satinado",
-      "precio": "42.000",
-      "img": "/img/img_productos/img_accesorios/manijas/AMA008.png",
-      "categoria": "manijas"
+      "id": "li4",
+      "title": "PLI009",
+      "description": "Adhesivo Grano 120",
+      "color": "Negro",
+      "precio": "4.500",
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png",
+      "categoria": "lijas"
+    },
+    {
+      "id": "li5",
+      "title": "PLI010",
+      "description": "Adhesivo Grano 400",
+      "color": "Negro",
+      "precio": "6.500",
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png",
+      "categoria": "lijas"
+    },
+    {
+      "id": "li6",
+      "title": "PLI011",
+      "description": "Velcro Grano 60",
+      "color": "Negro",
+      "precio": "4.500",
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png",
+      "categoria": "lijas"
+    },
+    {
+      "id": "li7",
+      "title": "PLI012",
+      "description": "Velcro Grano 320",
+      "color": "Negro",
+      "precio": "8.500",
+      "img": "/img/img_productos/img_accesorios/lijas/lija.png",
+      "categoria": "lijas"
     }
   ],
   "chupas": [
