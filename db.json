@@ -532,17 +532,17 @@
     {
       "id": "vi4",
       "title": "Sistema 8025",
-      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
-      "color": "Satinado",
+      "description": "Sistema tradicional que permite fabricar puertas y ventanas corredizas de alturas medias (hasta 2.10mt según la zona del proyecto), para construcciones de tipo residencial en zonas como habitaciones o salas. Cuenta con enganche reforzado para dar cumplimiento a la norma NSR-10 vigente en Colombia. Su riel inferior o sillar tiene la altura e inclinación adecuadas permitiendo una correcta evacuación del agua. Al usarse como puerta puede incluirse pisador interior para evitar tropiezos. La puerta posee divisor horizontal de nave para reducir áreas de vidrio o acentuar líneas horizontales. Con este sistema se pueden realizar diseños de 2 hasta 6 naves por sus marcos de 2 y 3 rieles.",
+      "color": "XO - OX",
       "precio": "0",
       "img": "img/sistema8025.png",
       "categoria": "vitral"
     },
     {
       "id": "vi5",
-      "title": "Astral 2.0",
-      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
-      "color": "Satinado",
+      "title": "Sistema Astral 2.0",
+      "description": "Puerta Ventana Corrediza Astral 2.0 que cuenta con naves enmarcadas que se desplazan en forma suave. silenciosa, sin movimientos laterales sobre un riel diseñado para ampliar la superficie de contacto, con rueda angulada, montadas sobre balineras o agujas para garantizar los ciclos de funcionamiento de los diseños según su requerimiento y especifiones técnicas.",
+      "color": "XO - OX - XX - OXXO - XOX",
       "precio": "0",
       "img": "img/astral20.png",
       "categoria": "vitral"
