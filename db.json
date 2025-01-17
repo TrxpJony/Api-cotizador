@@ -503,6 +503,114 @@
   ],
   "detalleProductos": [
     {
+      "id": "vi1",
+      "title": "Colosal PC 2.6",
+      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
+      "color": "Satinado",
+      "precio": "5.000",
+      "img": "img/colosal.png",
+      "categoria": "vitral"
+    },
+    {
+      "id": "vi2",
+      "title": "Kimbaya",
+      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
+      "color": "Satinado",
+      "precio": "5.000",
+      "img": "img/kimbaya.png",
+      "categoria": "vitral"
+    },
+    {
+      "id": "vi3",
+      "title": "Sistema 744",
+      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
+      "color": "Satinado",
+      "precio": "5.000",
+      "img": "img/sistema744.png",
+      "categoria": "vitral"
+    },
+    {
+      "id": "vi4",
+      "title": "Sistema 8025",
+      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
+      "color": "Satinado",
+      "precio": "5.000",
+      "img": "img/sistema8025.png",
+      "categoria": "vitral"
+    },
+    {
+      "id": "vi5",
+      "title": "Astral 2.0",
+      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
+      "color": "Satinado",
+      "precio": "5.000",
+      "img": "img/astral20.png",
+      "categoria": "vitral"
+    },
+    {
+      "id": "vi6",
+      "title": "Astral 1.7",
+      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
+      "color": "Satinado",
+      "precio": "5.000",
+      "img": "img/astral.png",
+      "categoria": "vitral"
+    },
+    {
+      "id": "vi7",
+      "title": "Colosal 345",
+      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
+      "color": "Satinado",
+      "precio": "5.000",
+      "img": "img/colosal3.png",
+      "categoria": "vitral"
+    },
+    {
+      "id": "vi8",
+      "title": "Sistema 3890",
+      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
+      "color": "Satinado",
+      "precio": "5.000",
+      "img": "img/sistema3890.png",
+      "categoria": "vitral"
+    },
+    {
+      "id": "vi9",
+      "title": "Sistema Zinu",
+      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
+      "color": "Satinado",
+      "precio": "5.000",
+      "img": "img/zinu.png",
+      "categoria": "vitral"
+    },
+    {
+      "id": "vi10",
+      "title": "Sideral 2.4",
+      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
+      "color": "Satinado",
+      "precio": "5.000",
+      "img": "img/sideral.png",
+      "categoria": "vitral"
+    },
+    {
+      "id": "vi11",
+      "title": "Sistema Tairona",
+      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
+      "color": "Satinado",
+      "precio": "5.000",
+      "img": "img/tairona.png",
+      "categoria": "vitral"
+    },
+    {
+      "id": "vi12",
+      "title": "Sistema awa",
+      "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
+      "color": "Satinado",
+      "precio": "5.000",
+      "img": "img/awa.png",
+      "categoria": "vitral"
+    },
+    {
       "id": "ba1",
       "title": "ABI001",
       "description": "Bisagra Medio Punto 25 - 30 y 25 - 40",
