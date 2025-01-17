@@ -2022,7 +2022,7 @@
       "title": "Led a 110 v",
       "description": "Cinta led 12 V de 320 o 480 leds por metros, de color cálido, ideal para resaltar los espacios con luz de alta calidad y dejar atrás los puntos visibles en las regletas o espacios",
       "color": "Calida",
-      "precio": "8.000",
+      "precio": 8000,
       "img": "/img/img_productos/img_skyleds/luzled110/luz110calida.png",
       "categoria": "luzled110"
     }
