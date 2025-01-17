@@ -2020,7 +2020,7 @@
         {
       "id": "ll2",
       "title": "Luz Blanca a 110 v",
-      "description": "Luz blanca a 110v directa a la corriente, que no necesita un sensor para funcionar, regalándonos así la mayor intensidad en cada metro.",
+      "description": "Luz blanca a 110v directa a la corriente, regalándonos así la mayor intensidad en cada metro.",
       "color": "Blanco",
       "precio": 5000,
       "img": "/img/img_productos/img_skyleds/luzled110/luz110blanca.png",
@@ -2029,7 +2029,7 @@
     {
       "id": "ll1",
       "title": "Luz Calida a 110 v",
-      "description": "Luz Calida a 110v directa a la corriente, que no necesita un sensor para funcionar, regalándonos así la mayor intensidad en cada metro.",
+      "description": "Luz Calida a 110v directa a la corriente, regalándonos así la mayor intensidad en cada metro.",
       "color": "Calido",
       "precio": 8000,
       "img": "/img/img_productos/img_skyleds/luzled110/luz110calida.png",
@@ -2038,7 +2038,7 @@
     {
       "id": "ll3",
       "title": "Luz Neutra a 110 v",
-      "description": "Luz neutra a 110v directa a la corriente, que no necesita un sensor para funcionar, regalándonos así la mayor intensidad en cada metro.",
+      "description": "Luz neutra a 110v directa a la corriente, regalándonos así la mayor intensidad en cada metro.",
       "color": "Neutro",
       "precio": 10000,
       "img": "/img/img_productos/img_skyleds/luzled110/luz110neutra.png",
