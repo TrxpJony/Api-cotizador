@@ -2353,6 +2353,15 @@
       "precio": 16000,
       "img": "/img/img_productos/img_skyleds/luzled110/luzarp.png",
       "categoria": "luzled12"
+    },
+    {
+      "id": "pe1",
+      "title": "Perfil Esquinero",
+      "description": "Perfil de aluminio de sobreponer para espacios construidos, ideal para las esquinas, apto para luz led e iluminación indirecta, incluye sus tapas finales y 3 novedosos accesorios para la instalación.",
+      "color": "Mate - Negro",
+      "precio": 15000,
+      "img": "/img/img_productos/img_skyleds/prtfiles/esquinero.png",
+      "categoria": "luzled12"
     }
   ]
 }
