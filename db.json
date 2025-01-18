@@ -2461,6 +2461,114 @@
       "precio": 22000,
       "img": "/img/img_productos/img_skyleds/fuentes/5amperios.png",
       "categoria": "fuentes"
+    },
+    {
+      "id": "sen1",
+      "title": "Sensor Touch Dual + Fuente 1 amp",
+      "description": "Sensor para espejo, con tres tonos de luz, enciende la luz apaga y gradúa la intensidad, este trae la fuente integrada. ",
+      "color": "fría - cálida - neutra",
+      "precio": 10000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensor1.png",
+      "categoria": "sensores"
+    },
+    {
+      "id": "sen2",
+      "title": "Sensor Touch  + Fuente 1 amp",
+      "description": "Sensor para espejo con fuente de conexión. Enciende la luz led, apaga y gradúa la intensidad, apto para un solo tono de luz.",
+      "color": "neutra",
+      "precio": 9000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensor2.png",
+      "categoria": "sensores"
+    },
+    {
+      "id": "sen3",
+      "title": "Sensor Proximidad 1 M + Fuente 1 amp",
+      "description": "Este avanzado sensor de proximidad está diseñado para que cuando te acerques a una distancia de 1 metro del espejo, el sensor detecta tu presencia y enciende la luz. Luego, si no detecta movimiento durante 30 segundos, apaga la luz automáticamente, lo que ahorra energía y garantiza un uso eficiente del espejo.",
+      "color": "neutra",
+      "precio": 15000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensor3.png",
+      "categoria": "sensores"
+    },
+    {
+      "id": "sen4",
+      "title": "Sensor Touch Dual + Desempañante + Reloj",
+      "description": "Este sensor nuevo generación, con reloj, botón desempañante y encendido de luz dual y apagado, te permite tener tres funcionalidades en un mismo sensor.",
+      "color": "fría - cálida - neutra",
+      "precio": 25000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensor4.png",
+      "categoria": "sensores"
+    },
+    {
+      "id": "sen5",
+      "title": "Sensor Touch + Reloj",
+      "description": "Diseñado para operar con una fuente de alimentación de 12 V, este sensor touch con reloj digital que permite controlar la luz del espejo y mantenerse al tanto del tiempo y la temperatura ambiente.",
+      "color": "neutra",
+      "precio": 25000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensor5.png",
+      "categoria": "sensores"
+    },
+    {
+      "id": "sen6",
+      "title": "Sensor Bluetooth 2 Botones",
+      "description": "Este innovador sensor nos permite hacer conexión con bluetooth, se puede subir/bajar el sonido de las canciones, pasar a la siguiente/anterior canción. Desempañar el espejo. Este sensor viene con fuente de 3A, 2 bocinas, película desempañante",
+      "color": "neutra",
+      "precio": 19000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensor6.png",
+      "categoria": "sensores"
+    },
+    {
+      "id": "sen7",
+      "title": "Sensor Touch + Desempañante",
+      "description": "Sensor touch dos botones, nos permite el encendido, apagado, subir y bajar la intensidad de la luz, el otro nos da el control total de la película desempañante.",
+      "color": "neutra",
+      "precio": 25000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensor7.png",
+      "categoria": "sensores"
+    },
+    {
+      "id": "sen8",
+      "title": "Sensor no Touch de Proximidad + Desempañante + Reloj",
+      "description": "Este sensor nuevo generación, con reloj, desempañante y encendido de proximidad, luz dual y apagado, te permite tener tres funcionalidades en un mismo sensor.",
+      "color": "fría - cálida - neutra",
+      "precio": 30000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensor8.png",
+      "categoria": "sensores"
+    },
+    {
+      "id": "sen9",
+      "title": "Sensor no Touch Dual de Proximidad",
+      "description": "Este sensor de última generación para espejo funciona con un simple movimiento de mano, puedes encender la luz o apagar la luz del espejo y, si lo sostienes, graduar su intensidad a tu preferencia.",
+      "color": "fría - cálida - neutra",
+      "precio": 18000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensor9.png",
+      "categoria": "sensores"
+    },
+    {
+      "id": "sen10",
+      "title": "Sensor no Touch de Proximidad + Desempañante + Reloj",
+      "description": "Este sensor de última generación te permite controlar la luz RGB por medio del sensor touch, cambiando lo colores y controlando los diferentes modos que el sensor trae integrado.",
+      "color": "RGB",
+      "precio": 30000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensor10.png",
+      "categoria": "sensores"
+    },
+    {
+      "id": "sen11",
+      "title": "Sensor Dual de Proximidad 1 M + Desempañante",
+      "description": "Este sensor de última generación, enciende al sentir movimiento a 1mt y apaga a los 30 segundos, de no sentir movimiento, también se puede encender la luz dual mediante el touch, y adicional trae un desempañante.",
+      "color": "fría - cálida - neutra",
+      "precio": 35000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensor11.png",
+      "categoria": "sensores"
+    },
+    {
+      "id": "sen12",
+      "title": "Sensor Touch ARP",
+      "description": "Ideal para cinta ARP esto nos permite integrar nuevos colores para animar nuestros espejos",
+      "color": "Azul - Rosado - Morado",
+      "precio": 35000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensor12.png",
+      "categoria": "sensores"
     }
   ]
 }
