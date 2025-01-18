@@ -2425,6 +2425,42 @@
       "precio": 18000,
       "img": "/img/img_productos/img_skyleds/perfiles/rectangularn.png",
       "categoria": "perfiles"
+    },
+    {
+      "id": "fu1",
+      "title": "Fuente 1 Amperio",
+      "description": "Fuente de alimentación de 1 amp con entrada a 12 voltios y salida a 110 voltios, apta para mover de 2,5 a 3 metros, esta permite el funcionamiento de todos los sensores que son a 12v como los sensores de cocina y espejo, además por su pequeño tamaño es fácil de instalar en ocultar en tus instalaciones.",
+      "color": "Negro",
+      "precio": 12000,
+      "img": "/img/img_productos/img_skyleds/fuentes/1amperios.png",
+      "categoria": "fuentes"
+    },
+    {
+      "id": "fu2",
+      "title": "Fuente 3 Amperio",
+      "description": "Fuente de alimentación de 3 amp con entrada a 12 voltios y salida a 110 voltios, apta para mover de 3 a 5 metros, esta permite el funcionamiento de todos los sensores que son a 12v como los sensores de cocina y espejo, además por su pequeño tamaño es fácil de instalar en ocultar en tus instalaciones. ",
+      "color": "Negro",
+      "precio": 15000,
+      "img": "/img/img_productos/img_skyleds/fuentes/3amperios.png",
+      "categoria": "fuentes"
+    },
+    {
+      "id": "fu3",
+      "title": "Fuente 4 Amperio",
+      "description": "Fuente de alimentación de 4 amp con entrada a 12 voltios y salida a 110 voltios, apta para mover de 5 a 7 metros, esta permite el funcionamiento de todos los sensores que son a 12v como los sensores de cocina y espejo, además por su pequeño tamaño es fácil de instalar en ocultar en tus instalaciones.",
+      "color": "Negro",
+      "precio": 18000,
+      "img": "/img/img_productos/img_skyleds/fuentes/4amperios.png",
+      "categoria": "fuentes"
+    },
+    {
+      "id": "fu4",
+      "title": "Fuente 5 Amperio",
+      "description": "Fuente de alimentación de 5 amp con entrada a 12 voltios y salida a 110 voltios, apta para mover de 7 hasta 10 metros dependiendo la luz y el sensor, esta permite el funcionamiento de todo los sensores que son a 12v como los sensores de cocina y espejo, además por su pequeño tamaño es fácil de instalar en ocultar en tus instalaciones. ",
+      "color": "Negro",
+      "precio": 22000,
+      "img": "/img/img_productos/img_skyleds/fuentes/5amperios.png",
+      "categoria": "fuentes"
     }
   ]
 }
