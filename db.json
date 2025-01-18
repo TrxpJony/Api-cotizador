@@ -2362,6 +2362,69 @@
       "precio": 15000,
       "img": "/img/img_productos/img_skyleds/perfiles/esquinero.png",
       "categoria": "perfiles"
+    },
+    {
+      "id": "pe2",
+      "title": "Perfil de Incrustar",
+      "description": "Perfil de aluminio de incrustar con difusor para sensores y cinta led e iluminación indirecta, incluye sus tapas finales y 3 novedosos accesorios para la instalación.",
+      "color": "Blanco - Mate - Negro",
+      "precio": 18000,
+      "img": "/img/img_productos/img_skyleds/perfiles/incrustar.png",
+      "categoria": "perfiles"
+    },
+    {
+      "id": "pe3",
+      "title": "Perfil Perforado  Driwall",
+      "description": "Perfil de aluminio perfecto para instalar en obra gris y dejar un resultado gratificante al dejar solo nuestro difusor por fuera, incluye difusor y dos tapas finales, recomendablemente para luz a 110 v.",
+      "color": "Mate",
+      "precio": 22000,
+      "img": "/img/img_productos/img_skyleds/perfiles/driwall.png",
+      "categoria": "perfiles"
+    },
+    {
+      "id": "pe4",
+      "title": "Perfil de Sobreponer Cuadrado",
+      "description": "El perfil más innovador de incrustar en aluminio, ya que no tiene aletas y se va a ver casi como si estuviera solo la luz, Es un artículo que funciona perfectamente en cocinas, repisas, escaleras y entrepaños. Práctico para poner luz led e iluminación indirecta.",
+      "color": "Mate",
+      "precio": 16000,
+      "img": "/img/img_productos/img_skyleds/perfiles/cuadrado.png",
+      "categoria": "perfiles"
+    },
+    {
+      "id": "pe5",
+      "title": "Perfil de Sobreponer Doble Fondo",
+      "description": "Perfil en aluminio, especialmente para el wpc, ya que tiene un fondo mayor a los demás y sus aletas más largas, también utilizado en driwall, incluye sus tapas finales y grapas para fácil instalación, apto para sensores, luz, led e iluminación indirecta.",
+      "color": "Mate - Negro",
+      "precio": 18000,
+      "img": "/img/img_productos/img_skyleds/perfiles/doble.png",
+      "categoria": "perfiles"
+    },
+    {
+      "id": "pe6",
+      "title": "Perfil de Sobreponer Plano",
+      "description": "Perfil de aluminio de sobreponer con fácil instalación, no cuenta con aletas lo que permite una mayor fijación, perfecto para cocinas, repisas, escaleras y muebles, práctico para poner luz led e iluminación indirecta, cuenta con 2 tapas finales y 3 grapas. ",
+      "color": "Mate",
+      "precio": 11000,
+      "img": "/img/img_productos/img_skyleds/perfiles/plano.png",
+      "categoria": "perfiles"
+    },
+    {
+      "id": "pe7",
+      "title": "Perfil de Sobreponer Rectangular",
+      "description": "Perfil de aluminio de sobreponer con fácil instalación, no cuenta con aletas lo que permite una mayor fijación, al ser más plano cuenta con mayor espacio para cintas más anchas como el doble carril, perfecto para cocinas, repisas, escaleras y muebles, práctico para poner luz led e iluminación indirecta, cuenta con 2 tapas finales y 3 grapas.",
+      "color": "Mate - Negro",
+      "precio": 17000,
+      "img": "/img/img_productos/img_skyleds/perfiles/rectangular.png",
+      "categoria": "perfiles"
+    },
+    {
+      "id": "pe7",
+      "title": "Perfil de Sobreponer Rectangular Negro",
+      "description": "Perfil de aluminio con difusor negro para generar mejores acabados con más elegancia, este perfil solo se puede utilizar con luz de más de 320 leds por metro, ya que su difusor la disminuye en un 30 a 40 %, viene con sus terminales y grapas correspondientes.",
+      "color": "Negro",
+      "precio": 18000,
+      "img": "/img/img_productos/img_skyleds/perfiles/rectangularn.png",
+      "categoria": "perfiles"
     }
   ]
 }
