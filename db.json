@@ -12,7 +12,7 @@
       "id": "tipos",
       "title": "Catalogo Vitral",
       "categoria": "espejos",
-      "tipo":"cotizar",
+      "tipo": "cotizar",
       "img": "/img/img_productos/vitral.png"
     },
     {
@@ -26,7 +26,7 @@
       "id": "p2",
       "title": "Espejos",
       "categoria": "espejos",
-      "tipo":"cotizar",
+      "tipo": "cotizar",
       "img": "/img/espejo1.png"
     },
     {
@@ -41,7 +41,7 @@
       "id": "vitral",
       "title": "Catalogo Vitral",
       "categoria": "espejos",
-      "tipo":"cotizar",
+      "tipo": "cotizar",
       "img": "/img/img_productos/vitral.png"
     },
     {
@@ -55,7 +55,7 @@
       "id": "espejos",
       "title": "Espejos",
       "categoria": "espejos",
-      "tipo":"cotizar",
+      "tipo": "cotizar",
       "img": "/img/espejo1.png"
     },
     {
@@ -2569,6 +2569,60 @@
       "precio": 35000,
       "img": "/img/img_productos/img_skyleds/sensores/sensor12.png",
       "categoria": "sensores"
+    },
+    {
+      "id": "senc1",
+      "title": "Sensor Proximidad Pasar la Mano",
+      "description": "Este práctico sensor ideal para los perfiles, se enciende y se apaga pasando la mano, si dejamos la mano sostenida encima del sensor la luz bajará y subirá su intensidad, este sensor también es ideal para tus cocinas, repisas o muebles",
+      "color": "x",
+      "precio": 40000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensorc1.png",
+      "categoria": "sensoresc"
+    },
+    {
+      "id": "senc2",
+      "title": "Sensor PIR",
+      "description": "Este sensor ideal para perfiles y espacios como closets, muebles y cocinas, nos permite un encendido a 2 metros de distancia y se apaga a los 30 segundos cuando no detecta movimiento. ",
+      "color": "x",
+      "precio": 22000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensorc2.png",
+      "categoria": "sensoresc"
+    },
+    {
+      "id": "senc3",
+      "title": "Sensor Touch",
+      "description": "Sensor ideal para perfiles, se enciende y se apaga con un simple toque, si lo dejamos sostenido la luz va a bajar y subir su intensidad, este sensor también es ideal para tus cocinas, repisas o muebles. ",
+      "color": "x",
+      "precio": 15000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensorc3.png",
+      "categoria": "sensoresc"
+    },
+    {
+      "id": "senc4",
+      "title": "Sensor Oculto Tactil un Solo Tono",
+      "description": "Sensor de última generación y lo más innovador en el mercado, nos permite atravezar mármol y madera de hasta 25 mm de grosor, siendo discreto y no perceptible a la vista, se encenderá y apagara tocando por encima la piedra o madera, si dejamos la mano encima subirá y bajará la intencidad de la luz.",
+      "color": "x",
+      "precio": 29000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensorc4",
+      "categoria": "sensoresc"
+    },
+    {
+      "id": "senc5",
+      "title": "Sensor Oculto Tactil Dual",
+      "description": "Sensor de última generación y lo más innovador en el mercado, nos permite atravezar mármol y madera de hasta 25 mm de grosor, siendo discreto y no perceptible a la vista, se encendera y apagara la luz tocando por encima la piedra o madera, si dejamos la mano encima subirá y bajará la intensidad de la luz",
+      "color": "x",
+      "precio": 35000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensorc4",
+      "categoria": "sensoresc"
+    },
+    {
+      "id": "senc6",
+      "title": "Sensor Oculto PIR",
+      "description": "Sensor de última generación y lo más innovador en el mercado actual, nos permite atravezar mármor y madera de hasta 25 mm de grosor, siendo discreto y no perceptible a la vista, se encenderá al pasar a 2 metros de distancia y se apagará a los 30 segundos. ",
+      "color": "x",
+      "precio": 38000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensorc5",
+      "categoria": "sensoresc"
     }
   ]
 }
