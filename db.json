@@ -2623,6 +2623,42 @@
       "precio": 38000,
       "img": "/img/img_productos/img_skyleds/sensores/sensorc5.png",
       "categoria": "sensoresc"
+    },
+    {
+      "id": "sene1",
+      "title": "Sensor Magsafe",
+      "description": "Sensor especialmente diseñado para nocheros, sensor touch con luz dual, carga magnética para iPhone o Android y 2 puertos USB. ",
+      "color": "x",
+      "precio": 89000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensore1.png",
+      "categoria": "sensorese"
+    },
+    {
+      "id": "sene2",
+      "title": "Sensor Para Escalera",
+      "description": "Sensor Pir para escaleras con capacidad de 32 pasos, detección en el primer escalón y en el último.",
+      "color": "x",
+      "precio": 100000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensore2.png",
+      "categoria": "sensorese"
+    },
+    {
+      "id": "sene3",
+      "title": "Kit Correcaminos",
+      "description": "Kit compuesto por fuente de 8,3 amp, control con capacidad de ajustar la intensidad y velocidad de la luz, nos permite cambiar los diferentes modos de luz",
+      "color": "x",
+      "precio": 120000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensore3.png",
+      "categoria": "sensorese"
+    },
+    {
+      "id": "sene4",
+      "title": "Sensor Running",
+      "description": "sensor que nos brinda una experiencia vibrante capaz de tomar el control de nuestra luz llevándola hasta el punto que queramos.",
+      "color": "x",
+      "precio": 110000,
+      "img": "/img/img_productos/img_skyleds/sensores/sensore4.png",
+      "categoria": "sensorese"
     }
   ]
 }
