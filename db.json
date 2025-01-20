@@ -59,6 +59,13 @@
       "img": "/img/espejo1.png"
     },
     {
+      "id": "divisionesbaño",
+      "title": "Divisiones de Baño",
+      "categoria": "divisionesbaño",
+      "tipo": "cotizar",
+      "img": "/img/img_divisiones/division.png"
+    },
+    {
       "id": "p3",
       "title": "Accesorios",
       "categoria": "accesorios",
