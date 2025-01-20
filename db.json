@@ -2781,12 +2781,6 @@
       "categoria": "redondos"
     },
     {
-      "id": "ere5",
-      "title": "Referencia 05",
-      "img": "/img/img_productos/img_espejos/redondos/ere05.png",
-      "categoria": "redondos"
-    },
-    {
       "id": "ere6",
       "title": "Referencia 06",
       "img": "/img/img_productos/img_espejos/redondos/ere06.png",
@@ -2910,6 +2904,72 @@
       "id": "ere34",
       "title": "Referencia 34",
       "img": "/img/img_productos/img_espejos/redondos/ere34.png",
+      "categoria": "redondos"
+    },
+    {
+      "id": "ere36",
+      "title": "Referencia 36",
+      "img": "/img/img_productos/img_espejos/redondos/ere36.png",
+      "categoria": "redondos"
+    },
+    {
+      "id": "ere37",
+      "title": "Referencia 37",
+      "img": "/img/img_productos/img_espejos/redondos/ere37.png",
+      "categoria": "redondos"
+    },
+    {
+      "id": "ere40",
+      "title": "Referencia 40",
+      "img": "/img/img_productos/img_espejos/redondos/ere40.png",
+      "categoria": "redondos"
+    },
+        {
+      "id": "ere46",
+      "title": "Referencia 46",
+      "img": "/img/img_productos/img_espejos/redondos/ere46.png",
+      "categoria": "redondos"
+    },
+    {
+      "id": "ere35",
+      "title": "Referencia 35",
+      "img": "/img/img_productos/img_espejos/redondos/ere35.png",
+      "categoria": "redondos"
+    },
+    {
+      "id": "ere38",
+      "title": "Referencia 38",
+      "img": "/img/img_productos/img_espejos/redondos/ere38.png",
+      "categoria": "redondos"
+    },
+    {
+      "id": "ere39",
+      "title": "Referencia 39",
+      "img": "/img/img_productos/img_espejos/redondos/ere39.png",
+      "categoria": "redondos"
+    },
+    {
+      "id": "ere41",
+      "title": "Referencia 41",
+      "img": "/img/img_productos/img_espejos/redondos/ere41.png",
+      "categoria": "redondos"
+    },
+    {
+      "id": "ere42",
+      "title": "Referencia 42",
+      "img": "/img/img_productos/img_espejos/redondos/ere42.png",
+      "categoria": "redondos"
+    },
+    {
+      "id": "ere43",
+      "title": "Referencia 43",
+      "img": "/img/img_productos/img_espejos/redondos/ere43.png",
+      "categoria": "redondos"
+    },
+    {
+      "id": "ere44",
+      "title": "Referencia 44",
+      "img": "/img/img_productos/img_espejos/redondos/ere44.png",
       "categoria": "redondos"
     }
   ]
