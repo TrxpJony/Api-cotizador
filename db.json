@@ -522,25 +522,25 @@
       "id": "espdis1",
       "title": "Diseños de Espejos Redondos",
       "img": "/img/img_productos/img_espejos/espejoredondo.png",
-      "categoria": "espejosCatalogo"
+      "categoria": "catalogoespejos"
     },
     {
       "id": "espdis2",
       "title": "Diseños de Espejos Cuadrados",
       "img": "/img/img_productos/img_espejos/espejocuadrado.png",
-      "categoria": "espejosCatalogo"
+      "categoria": "catalogoespejos"
     },
     {
       "id": "espdis3",
       "title": "Diseños de Espejos Organicos",
       "img": "/img/img_productos/img_espejos/espejoorganico.png",
-      "categoria": "espejosCatalogo"
+      "categoria": "catalogoespejos"
     },
     {
       "id": "espdis4",
       "title": "Diseños de Espejos con Marco",
       "img": "/img/img_productos/img_espejos/espejomarco.png",
-      "categoria": "espejosCatalogo"
+      "categoria": "catalogoespejos"
     }
   ],
   "detalleProductos": [
