@@ -548,6 +548,18 @@
       "title": "Diseños de Espejos con Marco",
       "img": "/img/img_productos/img_espejos/espejomarco.png",
       "categoria": "catalogoespejos"
+    },
+    {
+      "id": "div1",
+      "title": "Divisiones de Baño",
+      "img": "/img/img_productos/img_divisiones/division.png",
+      "categoria": "catalogodivisiones"
+    },
+    {
+      "id": "div2",
+      "title": "Diseños Para Divisiones de Baño",
+      "img": "/img/img_productos/img_divisiones/divisiondiseño.png",
+      "categoria": "catalogodivisiones"
     }
   ],
   "detalleProductos": [
