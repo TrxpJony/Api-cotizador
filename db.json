@@ -517,6 +517,30 @@
       "title": "Sensores Especiales",
       "img": "/img/img_productos/img_skyleds/sensores3.png",
       "categoria": "catalogoskyleds"
+    },
+    {
+      "id": "espdis1",
+      "title": "Diseños de Espejos Redondos",
+      "img": "/img/img_productos/img_espejos/espejoredondo.png",
+      "categoria": "EspejosCatalogo"
+    },
+    {
+      "id": "espdis2",
+      "title": "Diseños de Espejos Cuadrados",
+      "img": "/img/img_productos/img_espejos/espejocuadrado.png",
+      "categoria": "EspejosCatalogo"
+    },
+    {
+      "id": "espdis3",
+      "title": "Diseños de Espejos Organicos",
+      "img": "/img/img_productos/img_espejos/espejoorganico.png",
+      "categoria": "EspejosCatalogo"
+    },
+    {
+      "id": "espdis4",
+      "title": "Diseños de Espejos con Marco",
+      "img": "/img/img_productos/img_espejos/espejomarco.png",
+      "categoria": "EspejosCatalogo"
     }
   ],
   "detalleProductos": [
