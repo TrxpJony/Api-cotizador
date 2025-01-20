@@ -3055,6 +3055,30 @@
       "title": "Referencia 60",
       "img": "/img/img_productos/img_espejos/organicos/ere60.png",
       "categoria": "organicos"
+    },
+    {
+      "id": "erem51",
+      "title": "Referencia 51",
+      "img": "/img/img_productos/img_espejos/marcos/erem51.png",
+      "categoria": "marcos"
+    },
+    {
+      "id": "erem52",
+      "title": "Referencia 52",
+      "img": "/img/img_productos/img_espejos/marcos/erem52.png",
+      "categoria": "marcos"
+    },
+    {
+      "id": "erem53",
+      "title": "Referencia 53",
+      "img": "/img/img_productos/img_espejos/marcos/erem53.png",
+      "categoria": "marcos"
+    },
+    {
+      "id": "erem54",
+      "title": "Referencia 54",
+      "img": "/img/img_productos/img_espejos/marcos/erem54.png",
+      "categoria": "marcos"
     }
   ]
 }
