@@ -2683,6 +2683,12 @@
       "precio": 110000,
       "img": "/img/img_productos/img_skyleds/sensores/sensore4.png",
       "categoria": "sensorese"
+    },
+    {
+      "id": "ere1",
+      "title": "Referencia 01",
+      "img": "/img/img_productos/img_espejos/redondos/ere1.png",
+      "categoria": "redondos"
     }
   ],
   "detalleDiseños": [
@@ -2763,12 +2769,6 @@
       "title": "Referencia 57",
       "img": "/img/img_productos/img_espejos/redondos/ere57.png",
       "categoria": "redondos"
-    },
-    {
-      "id": "espejo1",
-      "title": "referencia 264",
-      "img":"/img/img_productos/img_espejos/redondos/ere57.png",
-      "categoria": "espejolindo"
     }
   ]
 }
