@@ -567,6 +567,30 @@
       "title": "Diseños Para Divisiones de Baño",
       "img": "/img/img_productos/img_divisiones/divisiondiseño.png",
       "categoria": "catalogodivisiones"
+    },
+    {
+      "id": "sand1",
+      "title": "Diseños Fruteros",
+      "img": "/img/img_productos/img_sandblasting/frutero.png",
+      "categoria": "sandblasting"
+    },
+    {
+      "id": "sand2",
+      "title": "Diseños Flores",
+      "img": "/img/img_productos/img_sandblasting/flores.png",
+      "categoria": "sandblasting"
+    },
+    {
+      "id": "sand3",
+      "title": "Diseños Animales",
+      "img": "/img/img_productos/img_sandblasting/animales.png",
+      "categoria": "sandblasting"
+    },
+    {
+      "id": "sand1",
+      "title": "Diseños Esquineros",
+      "img": "/img/img_productos/img_sandblasting/esquineros.png",
+      "categoria": "sandblasting"
     }
   ],
   "detalleProductos": [
