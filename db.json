@@ -3873,6 +3873,330 @@
       "title": "División de Baño Deslizante",
       "img": "/img/img_productos/img_divisiones/divisiones/divi19.png",
       "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "sfru1",
+      "title": "B01",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B01.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru2",
+      "title": "B02",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B02.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru3",
+      "title": "B03",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B03.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru4",
+      "title": "B04",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B04.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru5",
+      "title": "B05",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B05.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru6",
+      "title": "B06",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B06.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru7",
+      "title": "B07",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B07.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru8",
+      "title": "B08",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B08.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru9",
+      "title": "B09",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B09.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru10",
+      "title": "B010",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B010.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru11",
+      "title": "B11",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B11.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru12",
+      "title": "B12",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B12.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru13",
+      "title": "B13",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B13.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru14",
+      "title": "B14",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B14.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru15",
+      "title": "B15",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B15.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru16",
+      "title": "B16",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B16.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru17",
+      "title": "B17",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B17.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru18",
+      "title": "B18",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B18.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru19",
+      "title": "B19",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B19.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru20",
+      "title": "B20",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B20.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru21",
+      "title": "B21",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B21.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru22",
+      "title": "B22",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B22.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru23",
+      "title": "B23",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B23.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru24",
+      "title": "B24",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B24.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru25",
+      "title": "B25",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B25.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru26",
+      "title": "B26",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B26.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru27",
+      "title": "B27",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B27.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru28",
+      "title": "B28",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B28.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru29",
+      "title": "B29",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B29.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru30",
+      "title": "B30",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B30.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru31",
+      "title": "B31",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B31.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru32",
+      "title": "B32",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B32.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru33",
+      "title": "B33",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B33.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru34",
+      "title": "B34",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B34.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru35",
+      "title": "B35",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B35.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru36",
+      "title": "B36",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B36.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru37",
+      "title": "B37",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B37.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru38",
+      "title": "B38",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B38.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru39",
+      "title": "B39",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B39.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru40",
+      "title": "B40",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B40.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru41",
+      "title": "B41",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B41.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru42",
+      "title": "B42",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B42.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru43",
+      "title": "B43",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B43.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru44",
+      "title": "B44",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B44.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru45",
+      "title": "B45",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B45.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru46",
+      "title": "B46",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B46.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru47",
+      "title": "B47",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B47.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru48",
+      "title": "B48",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B48.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru49",
+      "title": "B49",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B49.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru50",
+      "title": "B50",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B50.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru51",
+      "title": "B51",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B51.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru52",
+      "title": "B52",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B52.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru53",
+      "title": "B53",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B53.png",
+      "categoria": "sandblastingfruteros"
+    },
+    {
+      "id": "sfru54",
+      "title": "B54",
+      "img": "/img/img_productos/img_sandblasting/fruteros/B54.png",
+      "categoria": "sandblastingfruteros"
     }
   ]
 }
