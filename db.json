@@ -66,6 +66,13 @@
       "img": "/img/img_productos/img_divisiones/division.png"
     },
     {
+      "id": "sandblasting",
+      "title": "Diseños Sandblasting",
+      "categoria": "sandblasting",
+      "tipo": "cotizar",
+      "img": "/img/img_productos/img_sandblasting/sand.png"
+    },
+    {
       "id": "p3",
       "title": "Accesorios",
       "categoria": "accesorios",
