@@ -593,7 +593,7 @@
       "categoria": "sandblasting"
     },
     {
-      "id": "sand1",
+      "id": "sand4",
       "title": "Diseños Esquineros",
       "img": "/img/img_productos/img_sandblasting/esquineros.png",
       "categoria": "sandblasting"
@@ -4923,7 +4923,7 @@
     {
       "id": "sani03",
       "title": "D03",
-      "description": "delfines delfin agua",
+      "description": "delfines delfin agua mar",
       "img": "/img/img_productos/img_sandblasting/animales/D03.png",
       "categoria": "sandblastinganimales"
     },
@@ -4954,7 +4954,587 @@
       "description": "pajaro colibri",
       "img": "/img/img_productos/img_sandblasting/animales/D07.png",
       "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani08",
+      "title": "D08",
+      "description": "pajaro ave paloma",
+      "img": "/img/img_productos/img_sandblasting/animales/D08.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani09",
+      "title": "D09",
+      "description": "sisne",
+      "img": "/img/img_productos/img_sandblasting/animales/D09.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani10",
+      "title": "D10",
+      "description": "cabra",
+      "img": "/img/img_productos/img_sandblasting/animales/D10.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani11",
+      "title": "D11",
+      "description": "delfines delfin agua mar",
+      "img": "/img/img_productos/img_sandblasting/animales/D11.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani12",
+      "title": "D12",
+      "description": "caballo",
+      "img": "/img/img_productos/img_sandblasting/animales/D12.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani13",
+      "title": "D13",
+      "description": "caballo",
+      "img": "/img/img_productos/img_sandblasting/animales/D13.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani14",
+      "title": "D14",
+      "description": "caballo",
+      "img": "/img/img_productos/img_sandblasting/animales/D14.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani15",
+      "title": "D15",
+      "description": "sisne sisnes",
+      "img": "/img/img_productos/img_sandblasting/animales/D15.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani16",
+      "title": "D16",
+      "description": "mariposas mariposa",
+      "img": "/img/img_productos/img_sandblasting/animales/D16.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani17",
+      "title": "D17",
+      "description": "tiburon tiburones agua",
+      "img": "/img/img_productos/img_sandblasting/animales/D17.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani18",
+      "title": "D18",
+      "description": "delfines delfin agua mar",
+      "img": "/img/img_productos/img_sandblasting/animales/D18.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani19",
+      "title": "D19",
+      "description": "pez agua pescado",
+      "img": "/img/img_productos/img_sandblasting/animales/D19.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani20",
+      "title": "D20",
+      "description": "pez agua pescado peces",
+      "img": "/img/img_productos/img_sandblasting/animales/D20.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani21",
+      "title": "D21",
+      "description": "sisne ave",
+      "img": "/img/img_productos/img_sandblasting/animales/D21.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani22",
+      "title": "D22",
+      "description": "delfines delfin agua mar",
+      "img": "/img/img_productos/img_sandblasting/animales/D22.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani23",
+      "title": "D23",
+      "description": "buho",
+      "img": "/img/img_productos/img_sandblasting/animales/D23.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani24",
+      "title": "D24",
+      "description": "sisne sisnes",
+      "img": "/img/img_productos/img_sandblasting/animales/D24.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani25",
+      "title": "D25",
+      "description": "delfines delfin agua mar",
+      "img": "/img/img_productos/img_sandblasting/animales/D25.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani26",
+      "title": "D26",
+      "description": "delfines delfin agua mar",
+      "img": "/img/img_productos/img_sandblasting/animales/D26.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani27",
+      "title": "D27",
+      "description": "sisne sisnes",
+      "img": "/img/img_productos/img_sandblasting/animales/D27.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani28",
+      "title": "D28",
+      "description": "pajaro ave colibri",
+      "img": "/img/img_productos/img_sandblasting/animales/D28.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani29",
+      "title": "D29",
+      "description": "caballo pegaso",
+      "img": "/img/img_productos/img_sandblasting/animales/D29.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani30",
+      "title": "D30",
+      "description": "pajaro colibri",
+      "img": "/img/img_productos/img_sandblasting/animales/D30.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani31",
+      "title": "D31",
+      "description": "caballo",
+      "img": "/img/img_productos/img_sandblasting/animales/D31.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani32",
+      "title": "D32",
+      "description": "perro",
+      "img": "/img/img_productos/img_sandblasting/animales/D32.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani33",
+      "title": "D33",
+      "description": "perro",
+      "img": "/img/img_productos/img_sandblasting/animales/D33.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani34",
+      "title": "D34",
+      "description": "pavo real ave",
+      "img": "/img/img_productos/img_sandblasting/animales/D34.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani35",
+      "title": "D35",
+      "description": "pavo real ave sisne",
+      "img": "/img/img_productos/img_sandblasting/animales/D35.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani36",
+      "title": "D36",
+      "description": "caballo pegaso",
+      "img": "/img/img_productos/img_sandblasting/animales/D36.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani37",
+      "title": "D37",
+      "description": "vaca toro",
+      "img": "/img/img_productos/img_sandblasting/animales/D37.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani38",
+      "title": "D38",
+      "description": "perro",
+      "img": "/img/img_productos/img_sandblasting/animales/D38.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani39",
+      "title": "D39",
+      "description": "vaca toro",
+      "img": "/img/img_productos/img_sandblasting/animales/D39.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani40",
+      "title": "D40",
+      "description": "perro",
+      "img": "/img/img_productos/img_sandblasting/animales/D40.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani41",
+      "title": "D41",
+      "description": "perro",
+      "img": "/img/img_productos/img_sandblasting/animales/D41.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani42",
+      "title": "D42",
+      "description": "caballo",
+      "img": "/img/img_productos/img_sandblasting/animales/D42.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani43",
+      "title": "D43",
+      "description": "caballo pegaso",
+      "img": "/img/img_productos/img_sandblasting/animales/D43.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani44",
+      "title": "D44",
+      "description": "cebra",
+      "img": "/img/img_productos/img_sandblasting/animales/D44.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani45",
+      "title": "D45",
+      "description": "caballo",
+      "img": "/img/img_productos/img_sandblasting/animales/D45.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani46",
+      "title": "D46",
+      "description": "caballo",
+      "img": "/img/img_productos/img_sandblasting/animales/D46.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani47",
+      "title": "D47",
+      "description": "pinguino",
+      "img": "/img/img_productos/img_sandblasting/animales/D47.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani48",
+      "title": "D48",
+      "description": "elefante",
+      "img": "/img/img_productos/img_sandblasting/animales/D48.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani49",
+      "title": "D49",
+      "description": "leopardo jaguar",
+      "img": "/img/img_productos/img_sandblasting/animales/D49.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani50",
+      "title": "D50",
+      "description": "tigre",
+      "img": "/img/img_productos/img_sandblasting/animales/D50.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani51",
+      "title": "D51",
+      "description": "tigre",
+      "img": "/img/img_productos/img_sandblasting/animales/D51.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani52",
+      "title": "D52",
+      "description": "flamenco",
+      "img": "/img/img_productos/img_sandblasting/animales/D52.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani53",
+      "title": "D53",
+      "description": "flamenco",
+      "img": "/img/img_productos/img_sandblasting/animales/D53.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani53",
+      "title": "D53",
+      "description": "delfines delfin agua mar",
+      "img": "/img/img_productos/img_sandblasting/animales/D53.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani54",
+      "title": "D54",
+      "description": "koala",
+      "img": "/img/img_productos/img_sandblasting/animales/D54.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani55",
+      "title": "D55",
+      "description": "oso pardo osito",
+      "img": "/img/img_productos/img_sandblasting/animales/D55.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani56",
+      "title": "D56",
+      "description": "orca",
+      "img": "/img/img_productos/img_sandblasting/animales/D56.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani57",
+      "title": "D57",
+      "description": "delfines delfin agua mar",
+      "img": "/img/img_productos/img_sandblasting/animales/D57.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani58",
+      "title": "D58",
+      "description": "delfines delfin agua mar",
+      "img": "/img/img_productos/img_sandblasting/animales/D58.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani59",
+      "title": "D59",
+      "description": "delfines delfin agua mar",
+      "img": "/img/img_productos/img_sandblasting/animales/D59.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani60",
+      "title": "D60",
+      "description": "delfines delfin agua mar",
+      "img": "/img/img_productos/img_sandblasting/animales/D60.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani61",
+      "title": "D61",
+      "description": "delfines delfin agua mar",
+      "img": "/img/img_productos/img_sandblasting/animales/D61.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani62",
+      "title": "D62",
+      "description": "ave",
+      "img": "/img/img_productos/img_sandblasting/animales/D62.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani63",
+      "title": "D63",
+      "description": "pavo real ave sisne",
+      "img": "/img/img_productos/img_sandblasting/animales/D63.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani64",
+      "title": "D64",
+      "description": "pato ave",
+      "img": "/img/img_productos/img_sandblasting/animales/D64.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani65",
+      "title": "D65",
+      "description": "pajaro colibri",
+      "img": "/img/img_productos/img_sandblasting/animales/D65.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani66",
+      "title": "D66",
+      "description": "pajaro ave colibri",
+      "img": "/img/img_productos/img_sandblasting/animales/D66.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani67",
+      "title": "D67",
+      "description": "mariposas mariposa",
+      "img": "/img/img_productos/img_sandblasting/animales/D67.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani68",
+      "title": "D68",
+      "description": "mariposas mariposa",
+      "img": "/img/img_productos/img_sandblasting/animales/D68.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani69",
+      "title": "D69",
+      "description": "mariposas mariposa",
+      "img": "/img/img_productos/img_sandblasting/animales/D69.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani70",
+      "title": "D70",
+      "description": "pajaro ave colibri",
+      "img": "/img/img_productos/img_sandblasting/animales/D70.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani71",
+      "title": "D71",
+      "description": "pajaro ave colibri",
+      "img": "/img/img_productos/img_sandblasting/animales/D71.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani72",
+      "title": "D72",
+      "description": "pajaro ave colibri",
+      "img": "/img/img_productos/img_sandblasting/animales/D72.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani73",
+      "title": "D73",
+      "description": "pajaro ave colibri",
+      "img": "/img/img_productos/img_sandblasting/animales/D73.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani74",
+      "title": "D74",
+      "description": "pez agua pescado peces",
+      "img": "/img/img_productos/img_sandblasting/animales/D74.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani75",
+      "title": "D75",
+      "description": "caballo de mar caballito de mar",
+      "img": "/img/img_productos/img_sandblasting/animales/D75.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani76",
+      "title": "D76",
+      "description": "tortuga agua mar",
+      "img": "/img/img_productos/img_sandblasting/animales/D76.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani77",
+      "title": "D77",
+      "description": "pez agua pescado peces",
+      "img": "/img/img_productos/img_sandblasting/animales/D77.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani78",
+      "title": "D78",
+      "description": "sisne ave",
+      "img": "/img/img_productos/img_sandblasting/animales/D78.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani79",
+      "title": "D79",
+      "description": "tiburon tiburones agua",
+      "img": "/img/img_productos/img_sandblasting/animales/D79.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani80",
+      "title": "D80",
+      "description": "mariposas mariposa",
+      "img": "/img/img_productos/img_sandblasting/animales/D80.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani81",
+      "title": "D81",
+      "description": "pajaro ave colibri",
+      "img": "/img/img_productos/img_sandblasting/animales/D81.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani82",
+      "title": "D82",
+      "description": "pajaro ave colibri",
+      "img": "/img/img_productos/img_sandblasting/animales/D82.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani83",
+      "title": "D83",
+      "description": "mariposas mariposa",
+      "img": "/img/img_productos/img_sandblasting/animales/D83.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani84",
+      "title": "D84",
+      "description": "delfines delfin agua mar",
+      "img": "/img/img_productos/img_sandblasting/animales/D84.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani85",
+      "title": "D85",
+      "description": "caballo de mar caballito de mar",
+      "img": "/img/img_productos/img_sandblasting/animales/D85.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani86",
+      "title": "D86",
+      "description": "delfines delfin agua mar",
+      "img": "/img/img_productos/img_sandblasting/animales/D86.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani87",
+      "title": "D87",
+      "description": "oso panda osito",
+      "img": "/img/img_productos/img_sandblasting/animales/D87.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani88",
+      "title": "D88",
+      "description": "oso panda osito",
+      "img": "/img/img_productos/img_sandblasting/animales/D88.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani89",
+      "title": "D89",
+      "description": "alce ",
+      "img": "/img/img_productos/img_sandblasting/animales/D89.png",
+      "categoria": "sandblastinganimales"
     }
-
   ]
 }
