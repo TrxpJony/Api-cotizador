@@ -3730,9 +3730,117 @@
       "categoria": "diseñodivisiones"
     },
     {
-      "id": "divdi98",
-      "title": "Referencia 98",
-      "img": "/img/img_productos/img_divisiones/diseños/divdi98.png",
+      "id": "divi1",
+      "title": "División de Baño en L",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi1.png",
+      "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "divi2",
+      "title": "División de Baño en L Deslizante",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi2.png",
+      "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "divi3",
+      "title": "División de Baño Abatible",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi3.png",
+      "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "divi4",
+      "title": "División de Baño un Vidrio",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi4.png",
+      "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "divi5",
+      "title": "División de Baño Deslizante",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi5.png",
+      "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "divi6",
+      "title": "División de Baño Deslizante",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi6.png",
+      "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "divi7",
+      "title": "División de Baño Abatible",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi7.png",
+      "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "divi8",
+      "title": "División de Baño Deslizante",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi8.png",
+      "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "divi9",
+      "title": "División de Baño Abatible",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi9.png",
+      "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "divi10",
+      "title": "División de Baño Abatible",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi10.png",
+      "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "divi11",
+      "title": "División de Baño Abatible",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi11.png",
+      "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "divi12",
+      "title": "División de Baño Deslizante",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi12.png",
+      "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "divi13",
+      "title": "División de Baño Deslizante",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi13.png",
+      "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "divi14",
+      "title": "División de Baño en L Deslizante",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi14.png",
+      "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "divi15",
+      "title": "División de Baño en L sin Puerta",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi15.png",
+      "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "divi16",
+      "title": "División de Baño Deslizante",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi16.png",
+      "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "divi17",
+      "title": "División de Baño Abatible",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi17.png",
+      "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "divi18",
+      "title": "División de Baño Deslizante",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi18.png",
+      "categoria": "divisionesdebaño"
+    },
+    {
+      "id": "divi19",
+      "title": "División de Baño Deslizante",
+      "img": "/img/img_productos/img_divisiones/divisiones/divi19.png",
       "categoria": "divisionesdebaño"
     }
   ]
