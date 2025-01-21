@@ -5,6 +5,12 @@
       "usuario": "VarteSCotizador",
       "contraseña": "ValArteSAS3204391328*/",
       "rol": "cotizador"
+    },
+    {
+      "id": "002",
+      "usuario": "1",
+      "contraseña": "1",
+      "rol": "cotizador"
     }
   ],
   "Productos": [
@@ -4899,6 +4905,56 @@
       "title": "C117",
       "img": "/img/img_productos/img_sandblasting/flores/C117.png",
       "categoria": "sandblastingflores"
-    }
+    },
+    {
+      "id": "sani01",
+      "title": "D01",
+      "description": "sisne",
+      "img": "/img/img_productos/img_sandblasting/animales/D01.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani02",
+      "title": "D02",
+      "description": "caballo",
+      "img": "/img/img_productos/img_sandblasting/animales/D02.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani03",
+      "title": "D03",
+      "description": "delfines delfin agua",
+      "img": "/img/img_productos/img_sandblasting/animales/D03.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani04",
+      "title": "D04",
+      "description": "ballena",
+      "img": "/img/img_productos/img_sandblasting/animales/D04.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani05",
+      "title": "D05",
+      "description": "caballo pegaso",
+      "img": "/img/img_productos/img_sandblasting/animales/D05.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani06",
+      "title": "D06",
+      "description": "delfin",
+      "img": "/img/img_productos/img_sandblasting/animales/D06.png",
+      "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sani07",
+      "title": "D07",
+      "description": "pajaro colibri",
+      "img": "/img/img_productos/img_sandblasting/animales/D07.png",
+      "categoria": "sandblastinganimales"
+    },
+
   ]
 }
