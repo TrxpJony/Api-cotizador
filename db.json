@@ -597,6 +597,12 @@
       "title": "Diseños Esquineros",
       "img": "/img/img_productos/img_sandblasting/esquineros.png",
       "categoria": "sandblasting"
+    },
+    {
+      "id": "sand5",
+      "title": "Diseños Cenefas",
+      "img": "/img/img_productos/img_sandblasting/cenefa.png",
+      "categoria": "sandblasting"
     }
   ],
   "detalleProductos": [
