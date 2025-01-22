@@ -79,6 +79,20 @@
       "img": "/img/img_productos/img_sandblasting/sand.png"
     },
     {
+      "id": "vitrinas",
+      "title": "Vitrinas",
+      "categoria": "vitrinas",
+      "tipo": "cotizar",
+      "img": "/img/img_productos/img_vitrinas/vitri1.png"
+    },
+    {
+      "id": "cocina",
+      "title": "Puertas de Cocina",
+      "categoria": "cocina",
+      "tipo": "cotizar",
+      "img": "/img/img_productos/img_cocina/coci1.png"
+    },
+    {
       "id": "p3",
       "title": "Accesorios",
       "categoria": "accesorios",
