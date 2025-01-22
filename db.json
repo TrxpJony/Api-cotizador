@@ -617,6 +617,36 @@
       "title": "Diseños Cenefas",
       "img": "/img/img_productos/img_sandblasting/cenefa.png",
       "categoria": "sandblasting"
+    },
+    {
+      "id": "vitri1",
+      "title": "Vitrina con Carros en Acero",
+      "img": "/img/img_productos/img_vitrinas/vitri1.png",
+      "categoria": "vitrinas"
+    },
+    {
+      "id": "vitri2",
+      "title": "Vitrina con Socalo en Aluminio",
+      "img": "/img/img_productos/img_vitrinas/vitri2.png",
+      "categoria": "vitrinas"
+    },
+    {
+      "id": "coci1",
+      "title": "Puerta Cocina con Batiente de 1 cm",
+      "img": "/img/img_productos/img_cocinas/coci1.png",
+      "categoria": "cocinas"
+    },
+    {
+      "id": "coci2",
+      "title": "Puerta Cocina con Batiente de 1 cm con aleta de 3mm",
+      "img": "/img/img_productos/img_cocinas/coci2.png",
+      "categoria": "cocinas"
+    },
+    {
+      "id": "coci2",
+      "title": "Puerta Cocina con Batiente de 1 cm con Manija",
+      "img": "/img/img_productos/img_cocinas/coci3.png",
+      "categoria": "cocinas"
     }
   ],
   "detalleProductos": [
