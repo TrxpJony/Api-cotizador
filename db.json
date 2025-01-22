@@ -5895,6 +5895,12 @@
       "title": "E59",
       "img": "/img/img_productos/img_sandblasting/esquineros/E59.png",
       "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "scen01",
+      "title": "F01",
+      "img": "/img/img_productos/img_sandblasting/cenefas/F01.png",
+      "categoria": "sandblastingesquineros"
     }
   ]
 }
