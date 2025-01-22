@@ -83,14 +83,14 @@
       "title": "Vitrinas",
       "categoria": "vitrinas",
       "tipo": "cotizar",
-      "img": "/img/img_productos/img_vitrinas/vitri1.png"
+      "img": "/img/img_productos/img_vitrinas/vitrina.png"
     },
     {
       "id": "cocina",
       "title": "Puertas de Cocina",
       "categoria": "cocina",
       "tipo": "cotizar",
-      "img": "/img/img_productos/img_cocina/coci1.png"
+      "img": "/img/img_productos/img_cocina/cocina.png"
     },
     {
       "id": "p3",
