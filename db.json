@@ -5535,6 +5535,360 @@
       "description": "alce ",
       "img": "/img/img_productos/img_sandblasting/animales/D89.png",
       "categoria": "sandblastinganimales"
+    },
+    {
+      "id": "sesq1",
+      "title": "E01",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E01.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq2",
+      "title": "E02",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E02.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq3",
+      "title": "E03",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E03.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq4",
+      "title": "E04",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E04.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq5",
+      "title": "E05",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E05.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq6",
+      "title": "E06",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E06.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq7",
+      "title": "E07",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E07.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq8",
+      "title": "E08",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E08.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq9",
+      "title": "E09",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E09.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq10",
+      "title": "E10",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E10.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq11",
+      "title": "E11",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E11.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq12",
+      "title": "E12",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E12.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq13",
+      "title": "E13",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E13.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq14",
+      "title": "E14",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E14.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq15",
+      "title": "E15",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E15.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq16",
+      "title": "E16",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E16.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq17",
+      "title": "E17",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E17.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq18",
+      "title": "E18",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E18.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq19",
+      "title": "E19",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E19.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq20",
+      "title": "E20",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E20.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq21",
+      "title": "E21",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E21.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq22",
+      "title": "E22",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E22.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq23",
+      "title": "E23",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E23.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq24",
+      "title": "E24",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E24.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq25",
+      "title": "E25",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E25.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq26",
+      "title": "E26",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E26.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq27",
+      "title": "E27",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E27.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq28",
+      "title": "E28",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E28.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq29",
+      "title": "E29",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E29.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq30",
+      "title": "E30",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E30.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq31",
+      "title": "E31",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E31.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq32",
+      "title": "E32",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E32.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq33",
+      "title": "E33",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E33.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq34",
+      "title": "E34",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E34.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq35",
+      "title": "E35",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E35.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq36",
+      "title": "E36",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E36.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq37",
+      "title": "E37",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E37.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq38",
+      "title": "E38",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E38.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq39",
+      "title": "E39",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E39.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq40",
+      "title": "E40",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E40.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq41",
+      "title": "E41",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E41.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq42",
+      "title": "E42",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E42.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq43",
+      "title": "E43",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E43.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq44",
+      "title": "E44",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E44.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq45",
+      "title": "E45",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E45.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq46",
+      "title": "E46",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E46.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq47",
+      "title": "E47",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E47.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq48",
+      "title": "E48",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E48.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq49",
+      "title": "E49",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E49.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq50",
+      "title": "E50",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E50.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq51",
+      "title": "E51",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E51.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq52",
+      "title": "E52",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E52.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq53",
+      "title": "E53",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E53.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq54",
+      "title": "E54",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E54.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq55",
+      "title": "E55",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E55.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq56",
+      "title": "E56",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E56.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq57",
+      "title": "E57",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E57.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq58",
+      "title": "E58",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E58.png",
+      "categoria": "sandblastingesquineros"
+    },
+    {
+      "id": "sesq59",
+      "title": "E59",
+      "img": "/img/img_productos/img_sandblasting/esquineros/E59.png",
+      "categoria": "sandblastingesquineros"
     }
   ]
 }
